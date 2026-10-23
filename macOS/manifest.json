@@ -1,0 +1,2520 @@
+{
+    "version": "v0.7.2",
+    "files": [
+        {
+            "path": "7SealedStones.app/Contents/Frameworks/UnityPlayer.dylib",
+            "size": 30411824,
+            "sha256": "3185efea47b218bb92aa0e2047ba51141840945539dd01cb2ac3a9ad88b311f0"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Frameworks/libMonoPosixHelper.dylib",
+            "size": 289168,
+            "sha256": "6aaae8d33d98e79b046222263d414bfdf30ebe81ca2c758a8ca53de874459edc"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Frameworks/libmono-native.dylib",
+            "size": 797824,
+            "sha256": "d42fdd27dc18ff77d9c7fe5ed3a86b4653f8e62686f7368dd1c04c936e8879f9"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Frameworks/libmonobdwgc-2.0.dylib",
+            "size": 3466848,
+            "sha256": "74a48ef79b3af4b0d80c830b6f45f8488a483a735d3cbf79ce5841005937cc12"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Info.plist",
+            "size": 1547,
+            "sha256": "30fe0dcd590db69fcb23faafb1e06ac347cb70b2e34833efd39968afb041758d"
+        },
+        {
+            "path": "7SealedStones.app/Contents/MacOS/7SealedStones",
+            "size": 34196,
+            "sha256": "2741ee31e7e7b75f890b71590394d96f2f9dd58033785463488fae806e3af125"
+        },
+        {
+            "path": "7SealedStones.app/Contents/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
+            "size": 1605,
+            "sha256": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741"
+        },
+        {
+            "path": "7SealedStones.app/Contents/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
+            "size": 60575,
+            "sha256": "751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a"
+        },
+        {
+            "path": "7SealedStones.app/Contents/MonoBleedingEdge/etc/mono/2.0/machine.config",
+            "size": 29066,
+            "sha256": "e91782a27fa39fc6c1d6ee8b08529f5d35052310d0006034b878eb04b8f2af30"
+        },
+        {
+            "path": "7SealedStones.app/Contents/MonoBleedingEdge/etc/mono/2.0/settings.map",
+            "size": 2622,
+            "sha256": "49c6160f9d54af4270a3b4e997fc4a8301f79b9e2070118fa46ddbcbbc44f9a2"
+        },
+        {
+            "path": "7SealedStones.app/Contents/MonoBleedingEdge/etc/mono/2.0/web.config",
+            "size": 11635,
+            "sha256": "cf2b54339e069b9e42f7d6795eecbf562c50c1011f4ca8f65f578fe52d97ff92"
+        },
+        {
+            "path": "7SealedStones.app/Contents/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
+            "size": 1605,
+            "sha256": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741"
+        },
+        {
+            "path": "7SealedStones.app/Contents/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
+            "size": 60575,
+            "sha256": "751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a"
+        },
+        {
+            "path": "7SealedStones.app/Contents/MonoBleedingEdge/etc/mono/4.0/machine.config",
+            "size": 33598,
+            "sha256": "e60aec2c5115d65b3acb3c55ea21576dbd770f579166c017125571e46ae560ed"
+        },
+        {
+            "path": "7SealedStones.app/Contents/MonoBleedingEdge/etc/mono/4.0/settings.map",
+            "size": 2622,
+            "sha256": "ce1db1ad8a9512073164e3eccdc193f7eda036e1a9733caec4635de21b2865c8"
+        },
+        {
+            "path": "7SealedStones.app/Contents/MonoBleedingEdge/etc/mono/4.0/web.config",
+            "size": 18802,
+            "sha256": "e38bb8cc68fe5b4edecdfd288d094b9e8ced7629039b2a347682aba0d8bd7492"
+        },
+        {
+            "path": "7SealedStones.app/Contents/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
+            "size": 1605,
+            "sha256": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741"
+        },
+        {
+            "path": "7SealedStones.app/Contents/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
+            "size": 60575,
+            "sha256": "751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a"
+        },
+        {
+            "path": "7SealedStones.app/Contents/MonoBleedingEdge/etc/mono/4.5/machine.config",
+            "size": 34056,
+            "sha256": "ee950004b576fb28dc85f4b0435ed04bf96612de2e8b53be84d07afe85a0de6c"
+        },
+        {
+            "path": "7SealedStones.app/Contents/MonoBleedingEdge/etc/mono/4.5/settings.map",
+            "size": 2622,
+            "sha256": "ce1db1ad8a9512073164e3eccdc193f7eda036e1a9733caec4635de21b2865c8"
+        },
+        {
+            "path": "7SealedStones.app/Contents/MonoBleedingEdge/etc/mono/4.5/web.config",
+            "size": 18811,
+            "sha256": "c4cbddd4fd9347b58cc5a72b36dc4ba1ad2bb699e65869d05cd3fb9865f0d824"
+        },
+        {
+            "path": "7SealedStones.app/Contents/MonoBleedingEdge/etc/mono/browscap.ini",
+            "size": 311984,
+            "sha256": "4ddd50f31fb968f30bedefc253a46dc3f2890192d05cdaa9e0a64a056eee807e"
+        },
+        {
+            "path": "7SealedStones.app/Contents/MonoBleedingEdge/etc/mono/config",
+            "size": 3815,
+            "sha256": "5776169973a26a387b8b3e5c0f2301a7ab9a6dd7c7d3efa22a96abc47fbf8662"
+        },
+        {
+            "path": "7SealedStones.app/Contents/MonoBleedingEdge/etc/mono/mconfig/config.xml",
+            "size": 25817,
+            "sha256": "0c56e34c69124510fa8c19e7b4c2ca6c1c4ff460ae19f798dd0ca035809e396d"
+        },
+        {
+            "path": "7SealedStones.app/Contents/PlugIns/lib_burst_generated.bundle",
+            "size": 469194,
+            "sha256": "e1ef6b9ee8ffff2b1d364dee5128631fa4547c6796197495b917e1145dc6bab6"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll",
+            "size": 3584,
+            "sha256": "fcf2af7ff4b770a232e5a10a6b108f3f23cf601c7ef92631787eb42271a0cfb1"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/DQ5Games.dll",
+            "size": 1033728,
+            "sha256": "02dd324f139b1cac186941f02400da8491f510f06cf22f9c2da8b0b2b78b9719"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/FastSpringBone10.dll",
+            "size": 5632,
+            "sha256": "b381e965269637cd6b1678593a78f256a9b8229e57300ccd7af48ab5410dc944"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/MCPForUnity.Runtime.dll",
+            "size": 30208,
+            "sha256": "1583c4ce98a38ad8d78e88fe51e1e60adaffbb0f6cd5ac86a85c56cb240d62bc"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Mono.Security.dll",
+            "size": 241152,
+            "sha256": "624b2b47e51ac9fd676bc20e68cec99249a457985ab5fec4fbf0c41dd196d1eb"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Newtonsoft.Json.dll",
+            "size": 691712,
+            "sha256": "a56146202232958f46bd6a28b5a7da166aea123ee0d646735a46e5c341dfbf1f"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/SpringBoneJobs.dll",
+            "size": 31232,
+            "sha256": "062ec623543fb794a9f3c3caf62ba48861ad62cac46f9b4cb76fac743d354d7e"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/System.Buffers.dll",
+            "size": 4608,
+            "sha256": "762f8fdbe975e05b76be5fe996c53ce7c75e4a2830f2f50b02a5948ef6ba0aeb"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/System.Collections.Immutable.dll",
+            "size": 252680,
+            "sha256": "5b1b1c83ba3d135c2fdfe425842fbe9c7432878b7e468623acb554c69b4c130f"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/System.ComponentModel.Composition.dll",
+            "size": 257024,
+            "sha256": "44635b16912d6ac3a6def017245af1f660f2886fafe7c943b40e1af189442ecd"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/System.Configuration.dll",
+            "size": 124928,
+            "sha256": "f6a92930be19b6eef7533bdcfd0cb030aa508653080c2638903e6d69999521e5"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/System.Core.dll",
+            "size": 1115136,
+            "sha256": "4ab0945f246833379ed75e44ab1e7d5c2216d5e317ed89b09836bdf21ad8cfc0"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/System.Data.DataSetExtensions.dll",
+            "size": 29696,
+            "sha256": "56be062c165444002af4e5268aabc683dcc909b35bfca117a6cd6793b68b093b"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/System.Data.dll",
+            "size": 2105344,
+            "sha256": "630c4910eaee18dae05b31effafaded75f42f36f3c7a08924d21460b799ce200"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/System.Drawing.dll",
+            "size": 489984,
+            "sha256": "03dc32ae1402ea82bd71d9bcffe66f9842989ae745c41c1d7559ad2fa30a77c7"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/System.EnterpriseServices.dll",
+            "size": 44544,
+            "sha256": "90ce26660b81e6678cc77b2442e3ea50dadb1fee007a94309c24a507c618bff0"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/System.IO.Compression.FileSystem.dll",
+            "size": 18432,
+            "sha256": "b7ce2eb3794fd99d9d7380675c30d3683a78a8f24a7890c5d15041402b09b0e6"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/System.IO.Compression.dll",
+            "size": 114688,
+            "sha256": "d2a509c90a07fb70a0e0cb74c495d2b4a333e076a474638baeb84883f604b24d"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/System.Memory.dll",
+            "size": 4608,
+            "sha256": "c4f030a2cba7da7cdcf493257c24560e203d355904aee490d645a935842f834a"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/System.Net.Http.dll",
+            "size": 281600,
+            "sha256": "4a2ed13d9b10e9c3dfdeda4360cf13b46431a4025ef37b5686d4683df7cada2c"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/System.Numerics.dll",
+            "size": 119296,
+            "sha256": "2e3e5d3ac2acde90424d54b6195b3e346c9495698855260fcb582e30af852368"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/System.Reflection.Metadata.dll",
+            "size": 487584,
+            "sha256": "afcfd6c166fe0d59f45cc6363082806f6a7ea8ceed9dc6c75eec9fd79ccb5717"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/System.Runtime.CompilerServices.Unsafe.dll",
+            "size": 19256,
+            "sha256": "fd67abc4c4af10affbcd42fd68a2a7bc361b26714afe6965d4d0d139459d8297"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/System.Runtime.Serialization.dll",
+            "size": 934400,
+            "sha256": "23133ceaa4f80ef32fb682e9ed150fab4c2cf0f42fdbffedbd88b857fd49d7bc"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/System.Security.dll",
+            "size": 314880,
+            "sha256": "42623daedf16793f526d3b5edd91e82df3a66c0a59c10513e0c680defe2925ab"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/System.ServiceModel.Internals.dll",
+            "size": 215040,
+            "sha256": "60d41828e2353f009f3a6d51279d410413320a5fe83257393b91716b634bb379"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/System.Transactions.dll",
+            "size": 35328,
+            "sha256": "529eca284b82cd20be36ca441375bb92c9006773b237cd408cf7fe29a10dba92"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/System.Xml.Linq.dll",
+            "size": 136704,
+            "sha256": "e5229e4dc32f757108a4e3c2042886f26b100b4c183460849a1cedb2332b6bab"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/System.Xml.dll",
+            "size": 3160064,
+            "sha256": "9c03702c63aa3774cd86006c7c645a20773e05bf379d31ec55cd32cf419ade21"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/System.dll",
+            "size": 2702848,
+            "sha256": "229e3a713392d5555c4f9b9cabea94d84b90ec20ed66414bbdab21e1164a242f"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UniGLTF.UniUnlit.dll",
+            "size": 8192,
+            "sha256": "69ac3ce844950398867d0a00404607c16c0f6edf90b0946c085889a24fc6afe9"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UniGLTF.Utils.dll",
+            "size": 15360,
+            "sha256": "94e76687fce06c10923ff81eb8326f163133157de7f30a3a7dc827199070a7ed"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UniGLTF.dll",
+            "size": 386048,
+            "sha256": "0cefff0ab91f306cd086b4cd30f896bcbc0b907ba4598f2c8640f48cf289eb05"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UniHumanoid.dll",
+            "size": 81920,
+            "sha256": "87f750b1aad87005513a96fa9560a73c74aabef7bd71b700251029c99bcfd083"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.AI.Navigation.dll",
+            "size": 23040,
+            "sha256": "e96bade8dc0401ff7af1fa6d51310e7e1ac1b6d341c07eb0d42544aed73d2a6b"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.Addressables.dll",
+            "size": 109568,
+            "sha256": "05dd9be10396dbf7116b991876c31bf94401c8010e97eb2d6fff32bd7eaa4690"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.Burst.dll",
+            "size": 5120,
+            "sha256": "79bd239798a51a35b7550193f160884579dd08ddb3a7a4419f254d895a228c2d"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.Collections.LowLevel.ILSupport.dll",
+            "size": 5120,
+            "sha256": "ff50383f807f9692e4913b97e47d86fefcb8faa33d6d48cd3e3fd6fc7ffb448d"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.Collections.Tests.CoreCLR.InternalJobNestedPrivate.dll",
+            "size": 4608,
+            "sha256": "13b94373c7a5546907a50b0d7a07508570d1bfd8a161e98395d823a5f3e3fcbb"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.Collections.Tests.CoreCLR.PrivateJobNested.dll",
+            "size": 4096,
+            "sha256": "6b4a916a91e4084eec1971897cafa303c98aea61b2eaf40629be85a60388b644"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.Collections.Tests.CoreCLR.ProtectedJobNested.dll",
+            "size": 4096,
+            "sha256": "6d856f72cf9847c0a67b0ba13086061f7d8fd669ed6cf5438161479338c8b5d2"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.Collections.Tests.CoreCLR.PublicJobPrivateGeneric.dll",
+            "size": 4608,
+            "sha256": "d67dafe219893aecb1b2e0e8a771007a07895646683a7e8f717d94268f2a21d4"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.Collections.dll",
+            "size": 442368,
+            "sha256": "355e239325ffd12149b3ddc5d4a89706eb375d1d02d931d0b31a6f2a1b04f579"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.InputSystem.ForUI.dll",
+            "size": 15360,
+            "sha256": "f4116b1ee9425022e0060d76c1dfcfec65c208e336d40f7d93d9ae755dc54310"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.InputSystem.dll",
+            "size": 1105920,
+            "sha256": "30b573db4a555f02edd7f67398fdbd340990a35a325aea2ee6249380d39720f6"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.InternalAPIEngineBridge.004.dll",
+            "size": 4096,
+            "sha256": "d0a005ac37dfb23ec18081ceba1ad1c41ec79a036af072afe271ab17f0df6b04"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.InternalAPIEngineBridge.ObjectDispatcher.Runtime.dll",
+            "size": 5632,
+            "sha256": "8472e76026662e7223a385eec5a3698dc612e213eac49f37b2339c5b0e3e9cee"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.InternalAPIEngineBridge.RenderPipelines.Core.Runtime.Shared.dll",
+            "size": 3584,
+            "sha256": "557df6f29f04ed8bf4ce8634259c245ad7123762017b1c4f1e74daafa17b70d1"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.Mathematics.dll",
+            "size": 5632,
+            "sha256": "19ce5adb7c12a909fdda8825ad0fc4310a0808e0fd95b072b6b78d6ea95fe4b8"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.PathTracing.Runtime.dll",
+            "size": 152576,
+            "sha256": "96870d166e70f28d24bbd5e37a59f9b4ef9f9db7cbda2e372680fcdcb3243c94"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.Pipeline.Attributes.dll",
+            "size": 6144,
+            "sha256": "573151873be9f863fd7c4cc6d967f9d03ac9dd90f6364448ff9015c25cb19bc0"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.Profiling.Core.dll",
+            "size": 8192,
+            "sha256": "ceac8d43a63c2f3b91821f2795227ea8b425f19d3df18e81243e052b4fd77ed2"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
+            "size": 7680,
+            "sha256": "ea49e630343ddc214e7f59e8bcb67e2c80ef5f6d59e8a102ae22c51189277d0a"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.dll",
+            "size": 11264,
+            "sha256": "8129a8d14bc9d3a6ca639e217bb262c198a7e2c68ccade954ff1dedbd847fb76"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.RenderPipelines.Core.Runtime.dll",
+            "size": 1084928,
+            "sha256": "12f549d4d42c66febc06c83739ff70cfe1f08a0038033c1489492363635fa2c5"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll",
+            "size": 3584,
+            "sha256": "fea7de9772c502dbcf86fcbce596e85431d1cb478bb5bf1705f85a4408a29a99"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.dll",
+            "size": 274944,
+            "sha256": "6989652181c290917b56b2f3391d62237a78dc648d757fff00682a994a4411cc"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
+            "size": 3584,
+            "sha256": "523aee7e903a6ebe016789d4b4061df2315d11f8495261133cce55882adf3f44"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.RenderPipelines.Universal.2D.Runtime.dll",
+            "size": 215040,
+            "sha256": "13c0e51a5ec1b842e695a306d75cbe95e4679588d4797f19eb85b1e642f86592"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll",
+            "size": 4096,
+            "sha256": "94cecf6963af4d16fe4116b303670df476930f74d70492a6616102b55060c7b7"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll",
+            "size": 752128,
+            "sha256": "7a57b865c9d86f57371beee9dade9df32c8f00a647c974ae92f38d994b739086"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll",
+            "size": 3584,
+            "sha256": "d7c6b58c71ec2cd6a87b14fc0762641db3416d5c46e4c026697e05105414cc6a"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.ResourceManager.dll",
+            "size": 131584,
+            "sha256": "47d9040e0fc3af59df08ab6e61e8ac5b5cc0f627fc2ffa7693e6639aadefdc5c"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.ScriptableBuildPipeline.dll",
+            "size": 7680,
+            "sha256": "9c279b07d4ac71d675097c16979ebc92590a61bf5a561a8c7f4c96ef374bff01"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.Scripting.dll",
+            "size": 59904,
+            "sha256": "bb4073f28a6c71fc64a34b1ad4fbdf8e351abb0ee3effc8947a2bf85f9e629f6"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.SurfaceCache.Runtime.dll",
+            "size": 35840,
+            "sha256": "41610c6e573c0d65c736b520d12b7475b8f360401beb2c58c7bb92cdfb4db1ad"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.TextMeshPro.dll",
+            "size": 438784,
+            "sha256": "c700f524362b27d654248f561137e8bbe2a4ea6411a06757d72c1ea38730ebaf"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.Timeline.dll",
+            "size": 120832,
+            "sha256": "c14666252c0176e5f34e4dd51259b758ee3a16a655de420374959030adc6bc08"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.UnifiedRayTracing.Runtime.dll",
+            "size": 101376,
+            "sha256": "279e86c786d068d5e49bb4d44ebf4f77fb7d24c9dd5219aaee5a793e5c97156c"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll",
+            "size": 86016,
+            "sha256": "ed7ce205f66eafe39bbb5d084d42e7fe11cb4b386ff208e5d5110891be0b7b37"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.VisualScripting.Core.dll",
+            "size": 550400,
+            "sha256": "7c3eb0091c2c4c636d5e0be6396738b780cf2a7bd014761fc2e6de9aba0a8d61"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.VisualScripting.DocCodeExamples.dll",
+            "size": 6144,
+            "sha256": "c19d29d9c3884c124c9325c171cd42dcb1483a3e78722743d503e8b63c97325b"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.VisualScripting.Flow.dll",
+            "size": 335872,
+            "sha256": "635f373acbabbd07c4c8bccc6ed30a045b9f389210c632b3737fd408acca9cbb"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/Unity.VisualScripting.State.dll",
+            "size": 27136,
+            "sha256": "dcf297a1cfe71c016afa8e40af03e8867c21f0aa68122e1cca2b138fe2dcc1ef"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll",
+            "size": 76800,
+            "sha256": "cd3120a0bc188f18c9965414a64271ed2e9716c22fd8c4656b3da4e1ef6d1ac8"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.dll",
+            "size": 16896,
+            "sha256": "1fc1b9d57dbcab42a221b175db1ef9246e02af36c028e3149e893dbb04473670"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.dll",
+            "size": 38912,
+            "sha256": "40f7e694c8fcba3a4cbbf9a42f95d7ce341a3362d0d54b0e91fee79d46d783f1"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.AdaptivePerformanceModule.dll",
+            "size": 111616,
+            "sha256": "c03ed7acaf81aad748532619b6ca433816497699a9961e29d7be3a0061da0f63"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+            "size": 110592,
+            "sha256": "8a8b4d4fb7fb42d6866b15688d9d1604762175762628e2c22f02c4fc6c3780bf"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll",
+            "size": 207360,
+            "sha256": "2e5b5e3076a78dd9255625b8650af3a151462cc84b4e9f2e5fc6b9c1321aa3ee"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.AssetBundleModule.dll",
+            "size": 32256,
+            "sha256": "f22785cafafbb699c5e3e536a7a26bd0c765708496f306d8a1a3aa07525c7fdc"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll",
+            "size": 131584,
+            "sha256": "b1c85728a127cbe5c9db151513deb568efb16b58f2ad9b8130d6a6a36d2d77bb"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.BurstModule.dll",
+            "size": 327168,
+            "sha256": "cab38e41c474d84bc47d493fafd7d47e2b6bc0709ae04b06c39c015bdf14343d"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll",
+            "size": 27648,
+            "sha256": "e50a9f26c1870df9206f8b09ab29dbd8164880a33be0537d86c2e9de32891b20"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll",
+            "size": 19456,
+            "sha256": "5754efd2531d789c74116ffe5f01738179ff467387be4accb9c4f6514f664008"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll",
+            "size": 17920,
+            "sha256": "775073dc352e7f4609caf5cde5aab471c26f579343ec416f5e107a865e04127a"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.ContentLoadModule.dll",
+            "size": 45568,
+            "sha256": "dd99c656411a2dc837c3e9e858419ad2e9f348d44bab63edd40b00b0e60d6342"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll",
+            "size": 2018304,
+            "sha256": "0dabf1849beb7f5fe2ccced958c00a04949e7adadc11eb08ae437afe33f82d89"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll",
+            "size": 17920,
+            "sha256": "c4f9726cc38d1c8729428d4512f014645e24abee7bbe86441b6d38de04c74920"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.DSPGraphModule.dll",
+            "size": 22528,
+            "sha256": "447675ed76f7788e4116d7d801fc585313de868a40cad82eb66a337da1022b55"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll",
+            "size": 32256,
+            "sha256": "b6633803c5c91076b3a629a1d5db6d0088d07d3d2e4ebfa892dc6ee219e31d93"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.GIModule.dll",
+            "size": 15360,
+            "sha256": "1d3e40830e8c4973ef844115104e518278266bc8bcc24a3d3157b5bda9d62681"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll",
+            "size": 47104,
+            "sha256": "2f73bbacfeab385d67847436dcd6653ef06f06cba370fee2b051af4c09629fa6"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll",
+            "size": 3584,
+            "sha256": "4a503f7b58160d062dde6f4518468ae5fc48dbea5aae6b8c4fb13dd9139b0b82"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.dll",
+            "size": 22016,
+            "sha256": "e1308c923f9f58f4c2ba2bb4ed72df6739a663f6641026d51a81baaef7063037"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.HierarchyCoreModule.dll",
+            "size": 102912,
+            "sha256": "707ca2b30ff605f5e522d7c86f682cc195952ea30ee78525882ad2ead97e47b3"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.HierarchyModule.dll",
+            "size": 103936,
+            "sha256": "73591d7c58c20e1e45a60d68578458029ea0249f485c3439540c19c13ac1d829"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.HotReloadModule.dll",
+            "size": 15360,
+            "sha256": "50386f6a8b00931e8e2e1c49ba36b348753b58f9e279ad26b942bc061b18572a"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll",
+            "size": 180224,
+            "sha256": "32928951642b2a156807e47ccf6d8b9771657929f63c3df053c70d3ba539ed41"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.IdentifiersModule.dll",
+            "size": 6144,
+            "sha256": "0a19a5b5731bddce70b2fcb3fbb30e1971763e620eaea54ab43c60378ec74efb"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll",
+            "size": 23552,
+            "sha256": "e2c327741fc3402baf57f2de89452fef58c80c5928598f09b045beb1e2758cf9"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.InputForUIModule.dll",
+            "size": 46080,
+            "sha256": "f008ac01768b2a817900d61688775331651f26cd17eabedf6b0daa74f90d74ec"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.InputLegacyModule.dll",
+            "size": 32256,
+            "sha256": "d34f1a3c3b12af2c1b7c31dbe9b159a4cee1948442ed6255b5db7891b4ac0086"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll",
+            "size": 22016,
+            "sha256": "0e511ed7bfb049fcb21856e5d74be7b484fe9e52cb94afdf6480afd77b5463dd"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.InsightsModule.dll",
+            "size": 5120,
+            "sha256": "321f854366bf707c28984b8233601684ea3103b80e0fe1c72cebc7fb5d4f13d4"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll",
+            "size": 18432,
+            "sha256": "be31a838a3a620e677804d0110b149de841fafecc19f549b425dcd1c711d8912"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.LocalizationModule.dll",
+            "size": 18432,
+            "sha256": "a58e3bc003fca1bff98875b7d9180bafadbe4f0f45a490f16489d2d7e0342d1d"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.ManagedKernelModule.dll",
+            "size": 3584,
+            "sha256": "e070be4b78c5287284af03f64dc62d2d7c710f43266ce635cf975096735db3c5"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.MarshallingModule.dll",
+            "size": 90112,
+            "sha256": "d2b351136b10c7b93f06e692fa67492197f2001706aa624c7d44f8aee4baf788"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.MathematicsModule.dll",
+            "size": 730112,
+            "sha256": "32cdd65b0909038bb6e02b64ae07167a4f3a1252e3ac2ec228f6512efd16eb7e"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.MultiplayerModule.dll",
+            "size": 7680,
+            "sha256": "e6e32a1abc331a2f7729da60d9f73d73dcc2ea99f93b2cdfeb461c971e9fbf6d"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll",
+            "size": 158720,
+            "sha256": "50b70882a8f2ace58991166dd72b82eb4c8d4611eb8682040643a63785b7cad2"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll",
+            "size": 16384,
+            "sha256": "c8abf958606abc1b5472825cbd4a3597b3046935c56df7d6e23145be6b1a45c4"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll",
+            "size": 211968,
+            "sha256": "1054d5aea825fe309111a6ba89833adbebfbcea645c2ce48daf72a2e2cf6d04f"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsBackendPhysXModule.dll",
+            "size": 3584,
+            "sha256": "c2a51af8c51ef8b22da2ef3f3f818635c93f8e44f9ece074ffda3e5fa1684e61"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsCore2DModule.dll",
+            "size": 472064,
+            "sha256": "960eafc597d31daad3a3b7a31bfb7e1bc1b7d590c079a58aab13f7887a083631"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll",
+            "size": 171008,
+            "sha256": "4835cd1d09abaa831dfe804fa84be051920e8e78ec550e76e4a11c1c80af8c33"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.PropertiesModule.dll",
+            "size": 114176,
+            "sha256": "353527ec9790b1c89de798f644d30b087d9ceeafb029074e2b6e511839f03d47"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.RenderAs2DModule.dll",
+            "size": 16896,
+            "sha256": "3eaa56be16e559df5e5f897b9acaa9624b18f810bc3ced5275e71d0afe01f9bb"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+            "size": 15360,
+            "sha256": "7516423d14ec5cc444e11dd2c4f6d4327e895f269281ad5ec49cf20b2735c5c1"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+            "size": 17408,
+            "sha256": "6e62a54fe896342a2d436e4667b9ac04a8ab5ffeba915acedb738b6aae5ef1db"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.ScriptingModule.dll",
+            "size": 55296,
+            "sha256": "a2ebdb2ed7bfec3ef04dc44068c5f5e0c1c2c34e17aff2966050aff751a512fa"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll",
+            "size": 15360,
+            "sha256": "3bba650d4a0017733d29939d510fbf88434c251e9a16570845209d713a19e389"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll",
+            "size": 19968,
+            "sha256": "0af54e3348065247af43fce72c9ffce90132c5b31511610f7547d4f4903fabf6"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+            "size": 23552,
+            "sha256": "477f2ecd750da91bc26ac54008c1960e3fe7cee9dc6042e54ffd9aaf1d441d36"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.StreamingModule.dll",
+            "size": 16896,
+            "sha256": "da52dff4ca2e9897f2d836068d486dce2db1212af658ca86d43a768c8f8ad62a"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.SubstanceModule.dll",
+            "size": 20480,
+            "sha256": "722b040fcf2c99afb01fa1213db33af743e5a08518963efff3c4a8fab843d4ad"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.SubsystemsModule.dll",
+            "size": 32256,
+            "sha256": "353f66ef68ff9b31103182751abd098c2ee048133e33ec814ed440748005f4d5"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.TLSModule.dll",
+            "size": 23552,
+            "sha256": "9962766dfb33e8b9f40b0e7d108946480a3d5e74c33dfab36d246702a177736f"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll",
+            "size": 121856,
+            "sha256": "4f645f9e1ab9004f00a359fb5e1838725323ca8533f5a51795c969a5d5dedebc"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
+            "size": 16896,
+            "sha256": "eb690808484fa013292683610f2a95d3939dad7f2e676e865604adfc5201f201"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.TetgenModule.dll",
+            "size": 15360,
+            "sha256": "5a0e130e75799c768c69bbbcea238de63a46729964df87654c31e40429d293a2"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
+            "size": 75776,
+            "sha256": "d5dff60abe05f3310e4bf2855e3d50c6eb6020c096404fcc51f08d603a9c7c17"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
+            "size": 303616,
+            "sha256": "23374de981e1e55ecbba4e9f22024e8fe4f2ce94c530b98e622a96443edf16c5"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll",
+            "size": 28672,
+            "sha256": "dce087da8f22ef8e9807381fc479daaba612073a783975e0e1f926a0afa442cc"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.dll",
+            "size": 65024,
+            "sha256": "7c7ecf3527d71409dbe7efa1381c9c0912489b8b8925868ec6a0cc6b0617d344"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.TimelineFoundationModule.dll",
+            "size": 156672,
+            "sha256": "3ecb691d1faffe39e35c3a3853285208db5ae9bdef5b993ed568bcb17c59ff81"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.U2DRuntimeModule.dll",
+            "size": 62976,
+            "sha256": "bae179f340328d061e8db80d62570c914c8a124d0b84c05e7df07d7e4fca68c5"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll",
+            "size": 269312,
+            "sha256": "b8f1e08c192d461ce70feee0ecbc5fd08ed687bc8495b1d3463d813b3831290a"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll",
+            "size": 2528768,
+            "sha256": "4255604c02881d0afb5dd24aa22e8140985ab8b2155f583c0bf8b2a85137f0ff"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll",
+            "size": 46080,
+            "sha256": "623ada00c7dd4ec40f778cc716620487f754ba74d0d3f72dc190ba88183c563f"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.UmbraModule.dll",
+            "size": 15360,
+            "sha256": "ea10722d9b470fbe51f064a3ec6ab068efb4a959dd492b87ee4f3d9f747b0617"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll",
+            "size": 26112,
+            "sha256": "2587278c35379035e0e6bc8158e0904d7a2a5fcdbf66f2278651b6a9d3c7bcd2"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+            "size": 51200,
+            "sha256": "8c7192f3e7f369842ee53bd343d957cd73b949ddf18cbc56d61a29c2d8fd71da"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll",
+            "size": 18944,
+            "sha256": "b5766d86f29ee63dc15d0bd892df20ef500a24a41e80a23a39812abb8699000b"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.UnityConsentModule.dll",
+            "size": 5632,
+            "sha256": "ad47627411a104076e5f1ea74d2b7c8acf65fd691a38900a31dae3c35a753b08"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.UnityCurlModule.dll",
+            "size": 17408,
+            "sha256": "dcb39d3a0e4657a68d2f431a9b37847b49079fa7a4bcd7c34caff67d4a405f53"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+            "size": 19968,
+            "sha256": "06e4f29c711067b31ac6851f2328d18ee83d5d8e60d6424f7b43548f8414f23c"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
+            "size": 19968,
+            "sha256": "b71f1e3fd4d94b9d31603023bd3e2f766e33ad1bc80c75862de599c0a05b9a25"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+            "size": 70656,
+            "sha256": "25fb1ca30f0dc8a5bbf5aedba0a5e492853ce93a080d8025273f4b7d0351ac37"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+            "size": 18944,
+            "sha256": "0b48f2a0e0e068db867e7a42529781250518af42283945e61c6f471cd6ae08a5"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+            "size": 24576,
+            "sha256": "5eb93d80c7afc232f47d2634cf13aeaafe796dde322002621b57e8c7894ccb41"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.VFXModule.dll",
+            "size": 71680,
+            "sha256": "5bceb7d1ab13485779765f65187e7953d800965e37a53aece6b7a631e5bf94d7"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.VectorGraphicsModule.dll",
+            "size": 219136,
+            "sha256": "fe18578d8d271ea6e1c2ad755a34ee48dac5a30d1fdb4d7d7a8f4aac05eec144"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll",
+            "size": 22528,
+            "sha256": "7bd178003311d30276ebbcecef4f7a6b5dd81fae0961caa97e6ad4c8947c10f7"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll",
+            "size": 37888,
+            "sha256": "6fb968752b04ea502dacdec86ede284ad7dd688acedd9b1b56b0519317ef52c5"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.VirtualTexturingModule.dll",
+            "size": 33280,
+            "sha256": "59613165d3eeeed1d40cecf2aaab0cae704d07da1b7a2cd4d073a8849f33d313"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.dll",
+            "size": 17920,
+            "sha256": "4a47325104abfe0108eba7d1b4f5eba4a6019e23f7ee7943c143456978efa7fc"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.XRModule.dll",
+            "size": 85504,
+            "sha256": "6c42f5956993ee6108a6f471523e19174ef7c5b044c2a823b743e4d88053fb1d"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/UnityEngine.dll",
+            "size": 214528,
+            "sha256": "4f6a01bf16c25d33d2f75a213faf40322279b408399f1945fe156305b53e61c6"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/VRM10.MToon10.dll",
+            "size": 28672,
+            "sha256": "f6ace5970633978525f5120c7a1c6efdeb4fdf363d210554c01892ce7db7059b"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/VRM10.dll",
+            "size": 578048,
+            "sha256": "705e532aefec176726aa34292942e5d092f978c069dc748d068284963ae80945"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/VrmLib.dll",
+            "size": 59392,
+            "sha256": "3042b37b206da4df7bfacc18abe5503b7a76ec41e4f08ae0b12971e8be03f5e3"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/mscorlib.dll",
+            "size": 4625408,
+            "sha256": "097834f78672947093884fe8f56c977d72b97d6c8a7cf052c4198a66f95515d2"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Managed/netstandard.dll",
+            "size": 90624,
+            "sha256": "bf0b7eac9010b75413e4ec1a07a3453bc6a68eeb8e916fbed7c1f2777841f7c7"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Resources/unity default resources",
+            "size": 1704304,
+            "sha256": "015477823d70960576cbd7717f942bc040f4bdb85c903d481cdb6efca0c5c142"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/Resources/unity_builtin_extra",
+            "size": 480356,
+            "sha256": "3aab843737f788a558bbd50d1735aa070f42944b62858fa5ce7b5d3e3c20f159"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/RuntimeInitializeOnLoads.json",
+            "size": 11430,
+            "sha256": "5bbd81bfda459767054b0f3545f26b1dc53367de67f5b8faeacb33ce64429dd8"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/ScriptingAssemblies.json",
+            "size": 5286,
+            "sha256": "9c10458b0af77fb93676d91f018b596105b0f49eceb17f2a252fd55915e9019b"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/Boss/ch00_boss.mp4",
+            "size": 25005151,
+            "sha256": "bec7cf1b2d7d875dad863b9c8d64df45ab774ccb634863b871a1e9248db08150"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/Ending/ch00_ending.mp4",
+            "size": 48734802,
+            "sha256": "a4a6b3e9456c6c80a9eeff472e5a73e2dcec95f00e0ae83be978477ab4ef1bef"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/GameOver/gameover.mp4",
+            "size": 3542469,
+            "sha256": "b9d3cfc9cc7c45d2a76f41df655326b0b0c31ab895932cbef20478849ca8d600"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/Intro/intro.mp4",
+            "size": 46768444,
+            "sha256": "af2e5e3100fdca4a8ff45c8beeb34fa2284e96abbb854c41d95d3095f3dd60f8"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/Intro/opening.mp4",
+            "size": 29021668,
+            "sha256": "bd423b5b9f61127e861c195875aaff73e78a415e2ef6145261d3e53b1fa1942f"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/Title/village_orbit.mp4",
+            "size": 13009369,
+            "sha256": "0ecacc15374e8eba9e022570f39af4a992fe5df50893803756330ade59cac3f9"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/aa/AddressablesLink/link.xml",
+            "size": 11185,
+            "sha256": "a36b9d79b3d986646f301f3f65a21f6c3259d6a50fcf13da9b542ef48c8d9f5c"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/da98714994fceda389790a21a966c7a0_monoscripts_6d7101f898e48b36526d65c770f07382.bundle",
+            "size": 5515,
+            "sha256": "df23702772ae377f4e6f1feca95356624f0275a1a5ed758cd22f95d6d9a1825d"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/da98714994fceda389790a21a966c7a0_unitybuiltinassets_24e3bf9dd6aa52998c5c7216bfb69781.bundle",
+            "size": 172646,
+            "sha256": "40d875373adba1c2e43e86dc4af748411ddbc3528fa68930d2db793ac667873b"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_armorlooks_coat_47aa29d60386dbeffb9f87972186dcae.bundle",
+            "size": 3434795,
+            "sha256": "7cfaa9af560e4c8005907645450420c3d30cafbabe5fced49bc8ccb0f9f84ef7"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_armorlooks_leather_68fe44057a7bb24a4944fccec890612a.bundle",
+            "size": 3694561,
+            "sha256": "8ac8a07cbad459f2013bc845ac6cc91d1b7697b543ef67f62e3a11d11c939e6b"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_armorlooks_robe_751a67e27af57091c1a864e6f01dcf88.bundle",
+            "size": 3492630,
+            "sha256": "c9dba8746ea4f670b264553eb665f0aa519ce2bf70a183345635d7e775c0f03f"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_a_hero_shield_451a2e971c041c12a3c49eb68ff590a5.bundle",
+            "size": 195749,
+            "sha256": "d672bb54c954a831040e61f1b51d1bb1a3b8d5a33d7d76f93a30d241de6b2881"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_battle_axe_a924509e82f26a6ef08b14e63d17395d.bundle",
+            "size": 369931,
+            "sha256": "3c0624e0e1873e5828c57cbbb8f89c661121cde6a8f34b208f49cde6b7d2de7d"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_bronze_sword_512bcc16d3ac16e61c9640ee6e997cd3.bundle",
+            "size": 356605,
+            "sha256": "e73f9111aed0dc4c5ae1f7486047e01e59341e07295ab5b39cbebf18b7c1fb68"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_copper_dagger_6c0ac4db6ef925a8729fcf3b82e6d319.bundle",
+            "size": 327641,
+            "sha256": "f56ac2e297e12909ae1df4d9cd1f31f99fe493bfdaf2bc2659a64013742d194b"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_copper_sword_67bc6b76283502362deb9bb7c06dd7bd.bundle",
+            "size": 347042,
+            "sha256": "8245d23f3f87efe63eaaeb1842beafb1cee72221f88c085860d152f863d94836"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_crystal_staff_f3293c8373323c4d703560534b0a5e38.bundle",
+            "size": 352005,
+            "sha256": "48afe6936882b6840a745e78f0f7d01b9a1cd6f5403bbb08d6aaa4ad6dfeb3df"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_hand_axe_55fccefc6760edbf278b2fa01120d053.bundle",
+            "size": 326375,
+            "sha256": "816f3f2d961be72f63e4d8ee6e8b046029fc398b79c0bbce68ff338e3376f89d"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_inkblade_fda76bbca9e6dcd43f2d496eea301963.bundle",
+            "size": 359079,
+            "sha256": "a815a084bc9a266ad7380979d8e0a2ba409dd46f358b8fea0344fa7521af8032"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_long_bow_873c98474f54d8621fa4df9e05c363a1.bundle",
+            "size": 463008,
+            "sha256": "43d2ba0d457c00da6843b7f01a2b93b5483b364c96c6e33ecc7ba9cd78e3e325"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_poison_dagger_e566a3471129e7a7d50d05a92be94607.bundle",
+            "size": 348626,
+            "sha256": "e23887f806651a66eab84cb6dc4f862b76b2a59a746b97ddc3f3aff14f71d599"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_short_bow_c09bf5c4fd0733aadc5996179129a6be.bundle",
+            "size": 463019,
+            "sha256": "d8d620600b33a2499b926c822af920dd4185bf3c314d9827ae1e893be874f01b"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_silver_dagger_de3f2c4f3386d6bedc2497f09dc9b49e.bundle",
+            "size": 349652,
+            "sha256": "e6c9b6f69ab79e88d794659510abdc2fe329354e343248c719c5eea3da5ec190"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_starlight_staff_b789f6b5b5973e01dced544821811cd6.bundle",
+            "size": 370807,
+            "sha256": "388e63d14d602719ac8aa7dcb1eb465a54536e7925a7bd2d41a1452e36f2c4bb"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_starlight_sword_0586dbd182fdadccb0e67b2f1c606f19.bundle",
+            "size": 355510,
+            "sha256": "9f1fc71c150cc3b2c00d7dfa17854cc9b659e81833b820c167aaa650f4c354cc"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_steel_sword_195f81a0281bf28e222d3d35b2d27db5.bundle",
+            "size": 349640,
+            "sha256": "255bd027fa2bdc55ee1b84c6012dbccea0d9797e45d688b3adc44d8551f52daa"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_stone_axe_04f5ca7f34a1b70719b551644698efbc.bundle",
+            "size": 357093,
+            "sha256": "bb31c372fda52777cb00eeb7aae262d91be43f373778d6bb4bda5a313afb68a6"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_wildflower_sword_16e6c2628237c4a69872dd41b6f743f1.bundle",
+            "size": 341519,
+            "sha256": "2ed0f2e12798afc770696b5bd9ef1505009c50dd25ee59fed5d9dcc286f093d2"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_wood_staff_2ff0248f6a94cea89bb4e508c6644048.bundle",
+            "size": 357079,
+            "sha256": "bd3182e3ccd2c204a693dbf24b26b150fe8fd8c52da012bbd4d57d5026c7c2b2"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_wood_sword_ddc961c7c8a012b52db1b5fb483ccb50.bundle",
+            "size": 322450,
+            "sha256": "daede302f8c0d7496c19439b2965c96e28966181eae20b0bb246920ceb81deee"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/aa/catalog.bin",
+            "size": 92153,
+            "sha256": "ad54e64f04bcfd9dbd83ecce15563b3509e987ac1a162e58f945555daabf3d72"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/aa/catalog.hash",
+            "size": 32,
+            "sha256": "3532141f3697b534b65c6f5aa64182310fbdddf76e7af7f12a69368a9eb098dc"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/StreamingAssets/aa/settings.json",
+            "size": 4165,
+            "sha256": "5173d294381bb41ed1a88f5bf3604509f581c56ff9699f686df023a6382569c6"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/app.info",
+            "size": 28,
+            "sha256": "23d04ff8f5c397a6c0a792f22cd6a9a9f7088b47142484aacfa0b20f50402b09"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/boot.config",
+            "size": 134,
+            "sha256": "853af2d0d55764b597faa7aed460d81ec0d9b1088bc94e6f53da2892491aa08b"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/globalgamemanagers",
+            "size": 314292,
+            "sha256": "678fa2883f338fdcd157e72cd1b19ffbab79416de5b4dacd39f520042d86fefe"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/globalgamemanagers.assets",
+            "size": 1292296,
+            "sha256": "210fb8eb74ea7a2c8dea163e1d0387ea9ab5ad903514243345b44ed0859b144c"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/globalgamemanagers.assets.resS",
+            "size": 3553504,
+            "sha256": "d39bc2dc060377debd226e7a96002e7d9a37f7dd6a2aeaa324b085972564d143"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/level0",
+            "size": 1936,
+            "sha256": "62d2b20ce3185dee55e8a96b7f9777a4c79b6fcc3a42259e0c69c5e417dfa2ac"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/level1",
+            "size": 4096,
+            "sha256": "19e0ec13fb64a6fd49c8d0d28c91f02319fa306e86ab35f90f80b913b487ca7c"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/resources.assets",
+            "size": 30977156,
+            "sha256": "dd33778ee8252dd8c563e4c66fa543657266835db58ab0f4e32d9467aca059b9"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/resources.assets.resS",
+            "size": 48151312,
+            "sha256": "0691f8d6ccb4c7d2ec9870bdd9089ac7f661b228afeaaf4bd6ccce5eac71a01e"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/resources.resource",
+            "size": 11434784,
+            "sha256": "3810f5ae14413dd1220253c85a73e9f26b4d4ee8c4b88ac193b2a4e14d7b770d"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/sharedassets0.assets",
+            "size": 9072,
+            "sha256": "b8addbb08be665bcf205e4ac836287c876913179af72cf67e13f90f0d54ae799"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/sharedassets0.assets.resS",
+            "size": 524288,
+            "sha256": "cf6e38a0de541c99451ad50a963447203651aaa30fa33fd5cc99a6ca12e0c968"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/Data/sharedassets1.assets",
+            "size": 9456,
+            "sha256": "9751e2ccb9e07f3c6a7f28d68dfc096bef898a96b57c332c7639bb0ba210c106"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/DefaultPreferences.plist",
+            "size": 255,
+            "sha256": "ded1c9b6f74702f812abb4d80bc08528fd8426e17808a04cde015b4d34b498f3"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/MainMenu.nib/designable.nib",
+            "size": 5071,
+            "sha256": "57188221ba9dc889be4c9e03f0c867bce820726491e32a2fa4928681f006f308"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/MainMenu.nib/keyedobjects.nib",
+            "size": 4792,
+            "sha256": "1fae5b7c6ee9b17a767b1636867a41b3e44eaf8f654b1c5e2cafa3261463104d"
+        },
+        {
+            "path": "7SealedStones.app/Contents/Resources/PrivacyInfo.xcprivacy",
+            "size": 81,
+            "sha256": "0a513a93916b158eaa3af7311e84eac43604ac52a6530afb33184a77805c0970"
+        },
+        {
+            "path": "7SealedStones.app/Contents/_CodeSignature/CodeResources",
+            "size": 73785,
+            "sha256": "ea0cf14e7940c56b382d215727bba5572fa4657d593b58f7e113cada1929271f"
+        },
+        {
+            "path": "7SealedStones_BackUpThisFolder_ButDontShipItWithYourGame/lib_burst_generated/lib_burst_generated.txt",
+            "size": 123563,
+            "sha256": "6a334ff04af1994fface3ed714218d3c099fa77f4bbe9a67a370fd60992285ec"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Frameworks/UnityPlayer.dylib",
+            "size": 30411824,
+            "sha256": "3185efea47b218bb92aa0e2047ba51141840945539dd01cb2ac3a9ad88b311f0"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Frameworks/libMonoPosixHelper.dylib",
+            "size": 289168,
+            "sha256": "6aaae8d33d98e79b046222263d414bfdf30ebe81ca2c758a8ca53de874459edc"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Frameworks/libmono-native.dylib",
+            "size": 797824,
+            "sha256": "d42fdd27dc18ff77d9c7fe5ed3a86b4653f8e62686f7368dd1c04c936e8879f9"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Frameworks/libmonobdwgc-2.0.dylib",
+            "size": 3466848,
+            "sha256": "74a48ef79b3af4b0d80c830b6f45f8488a483a735d3cbf79ce5841005937cc12"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Info.plist",
+            "size": 1536,
+            "sha256": "dfa4451815b4bd0903bbb2980a8d46afecbdf0f847f2cc2bb5815993132e4540"
+        },
+        {
+            "path": "DQ5Games.app/Contents/MacOS/DQ5Games",
+            "size": 34196,
+            "sha256": "26627bfdf319894374dedd677d4d1bddf6c2608f8b0b8e56e51cdd100c347ad2"
+        },
+        {
+            "path": "DQ5Games.app/Contents/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
+            "size": 1605,
+            "sha256": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741"
+        },
+        {
+            "path": "DQ5Games.app/Contents/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
+            "size": 60575,
+            "sha256": "751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a"
+        },
+        {
+            "path": "DQ5Games.app/Contents/MonoBleedingEdge/etc/mono/2.0/machine.config",
+            "size": 29066,
+            "sha256": "e91782a27fa39fc6c1d6ee8b08529f5d35052310d0006034b878eb04b8f2af30"
+        },
+        {
+            "path": "DQ5Games.app/Contents/MonoBleedingEdge/etc/mono/2.0/settings.map",
+            "size": 2622,
+            "sha256": "49c6160f9d54af4270a3b4e997fc4a8301f79b9e2070118fa46ddbcbbc44f9a2"
+        },
+        {
+            "path": "DQ5Games.app/Contents/MonoBleedingEdge/etc/mono/2.0/web.config",
+            "size": 11635,
+            "sha256": "cf2b54339e069b9e42f7d6795eecbf562c50c1011f4ca8f65f578fe52d97ff92"
+        },
+        {
+            "path": "DQ5Games.app/Contents/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
+            "size": 1605,
+            "sha256": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741"
+        },
+        {
+            "path": "DQ5Games.app/Contents/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
+            "size": 60575,
+            "sha256": "751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a"
+        },
+        {
+            "path": "DQ5Games.app/Contents/MonoBleedingEdge/etc/mono/4.0/machine.config",
+            "size": 33598,
+            "sha256": "e60aec2c5115d65b3acb3c55ea21576dbd770f579166c017125571e46ae560ed"
+        },
+        {
+            "path": "DQ5Games.app/Contents/MonoBleedingEdge/etc/mono/4.0/settings.map",
+            "size": 2622,
+            "sha256": "ce1db1ad8a9512073164e3eccdc193f7eda036e1a9733caec4635de21b2865c8"
+        },
+        {
+            "path": "DQ5Games.app/Contents/MonoBleedingEdge/etc/mono/4.0/web.config",
+            "size": 18802,
+            "sha256": "e38bb8cc68fe5b4edecdfd288d094b9e8ced7629039b2a347682aba0d8bd7492"
+        },
+        {
+            "path": "DQ5Games.app/Contents/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
+            "size": 1605,
+            "sha256": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741"
+        },
+        {
+            "path": "DQ5Games.app/Contents/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
+            "size": 60575,
+            "sha256": "751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a"
+        },
+        {
+            "path": "DQ5Games.app/Contents/MonoBleedingEdge/etc/mono/4.5/machine.config",
+            "size": 34056,
+            "sha256": "ee950004b576fb28dc85f4b0435ed04bf96612de2e8b53be84d07afe85a0de6c"
+        },
+        {
+            "path": "DQ5Games.app/Contents/MonoBleedingEdge/etc/mono/4.5/settings.map",
+            "size": 2622,
+            "sha256": "ce1db1ad8a9512073164e3eccdc193f7eda036e1a9733caec4635de21b2865c8"
+        },
+        {
+            "path": "DQ5Games.app/Contents/MonoBleedingEdge/etc/mono/4.5/web.config",
+            "size": 18811,
+            "sha256": "c4cbddd4fd9347b58cc5a72b36dc4ba1ad2bb699e65869d05cd3fb9865f0d824"
+        },
+        {
+            "path": "DQ5Games.app/Contents/MonoBleedingEdge/etc/mono/browscap.ini",
+            "size": 311984,
+            "sha256": "4ddd50f31fb968f30bedefc253a46dc3f2890192d05cdaa9e0a64a056eee807e"
+        },
+        {
+            "path": "DQ5Games.app/Contents/MonoBleedingEdge/etc/mono/config",
+            "size": 3815,
+            "sha256": "5776169973a26a387b8b3e5c0f2301a7ab9a6dd7c7d3efa22a96abc47fbf8662"
+        },
+        {
+            "path": "DQ5Games.app/Contents/MonoBleedingEdge/etc/mono/mconfig/config.xml",
+            "size": 25817,
+            "sha256": "0c56e34c69124510fa8c19e7b4c2ca6c1c4ff460ae19f798dd0ca035809e396d"
+        },
+        {
+            "path": "DQ5Games.app/Contents/PlugIns/lib_burst_generated.bundle",
+            "size": 469194,
+            "sha256": "e1ef6b9ee8ffff2b1d364dee5128631fa4547c6796197495b917e1145dc6bab6"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll",
+            "size": 3584,
+            "sha256": "ee46ada2ef79d2be4ba7355628f2b75ae044066a5beeebefccd0a8d21beb6c43"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/DQ5Games.dll",
+            "size": 699904,
+            "sha256": "d0446beb3b7de1ecbcbe8a2af9c199772b49d96f27118817e792552670c5ed36"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/FastSpringBone10.dll",
+            "size": 5632,
+            "sha256": "cb208aa6c186f185f1d99af012fa58eb09a404faf2afbf09baa4a37a84ef23ab"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/MCPForUnity.Runtime.dll",
+            "size": 30208,
+            "sha256": "7308c74395d32fafdc0343760668abdcedcf7016dff25b6bfcd1762caf025fe5"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+            "size": 63648,
+            "sha256": "6c479c61bd03ac7cac4421e5a5689359cb83634e06895eb2d93b4b6df2773dc0"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Microsoft.Extensions.Logging.Abstractions.dll",
+            "size": 67864,
+            "sha256": "79f67ff002712d6589370db25f751d3f53fb49ef1a6d750d1c62419ef3a4392c"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Mono.Security.dll",
+            "size": 241152,
+            "sha256": "624b2b47e51ac9fd676bc20e68cec99249a457985ab5fec4fbf0c41dd196d1eb"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/MySqlConnector.dll",
+            "size": 820584,
+            "sha256": "5354bc97a7418fd1bdf1680da10ab77b5e57aa2cb2d0477b77303b30d4900a0b"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Newtonsoft.Json.dll",
+            "size": 691712,
+            "sha256": "a56146202232958f46bd6a28b5a7da166aea123ee0d646735a46e5c341dfbf1f"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/SpringBoneJobs.dll",
+            "size": 31232,
+            "sha256": "dc4d2d1e9394896ecc550c667f8b2eb967b8758ae11b16d17aa71c9ef81b39b0"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/System.Buffers.dll",
+            "size": 4608,
+            "sha256": "762f8fdbe975e05b76be5fe996c53ce7c75e4a2830f2f50b02a5948ef6ba0aeb"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/System.Collections.Immutable.dll",
+            "size": 252680,
+            "sha256": "5b1b1c83ba3d135c2fdfe425842fbe9c7432878b7e468623acb554c69b4c130f"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/System.ComponentModel.Composition.dll",
+            "size": 257024,
+            "sha256": "44635b16912d6ac3a6def017245af1f660f2886fafe7c943b40e1af189442ecd"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/System.Configuration.dll",
+            "size": 124928,
+            "sha256": "f6a92930be19b6eef7533bdcfd0cb030aa508653080c2638903e6d69999521e5"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/System.Core.dll",
+            "size": 1115136,
+            "sha256": "4ab0945f246833379ed75e44ab1e7d5c2216d5e317ed89b09836bdf21ad8cfc0"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/System.Data.DataSetExtensions.dll",
+            "size": 29696,
+            "sha256": "56be062c165444002af4e5268aabc683dcc909b35bfca117a6cd6793b68b093b"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/System.Data.dll",
+            "size": 2105344,
+            "sha256": "630c4910eaee18dae05b31effafaded75f42f36f3c7a08924d21460b799ce200"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/System.Diagnostics.DiagnosticSource.dll",
+            "size": 175280,
+            "sha256": "989b1797b5cacdf19e7130eddd8ae51f0d79595d6020cbaf51910c1c3637cec9"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/System.Drawing.dll",
+            "size": 489984,
+            "sha256": "03dc32ae1402ea82bd71d9bcffe66f9842989ae745c41c1d7559ad2fa30a77c7"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/System.EnterpriseServices.dll",
+            "size": 44544,
+            "sha256": "90ce26660b81e6678cc77b2442e3ea50dadb1fee007a94309c24a507c618bff0"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/System.IO.Compression.FileSystem.dll",
+            "size": 18432,
+            "sha256": "b7ce2eb3794fd99d9d7380675c30d3683a78a8f24a7890c5d15041402b09b0e6"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/System.IO.Compression.dll",
+            "size": 114688,
+            "sha256": "d2a509c90a07fb70a0e0cb74c495d2b4a333e076a474638baeb84883f604b24d"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/System.Memory.dll",
+            "size": 4608,
+            "sha256": "c4f030a2cba7da7cdcf493257c24560e203d355904aee490d645a935842f834a"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/System.Net.Http.dll",
+            "size": 281600,
+            "sha256": "4a2ed13d9b10e9c3dfdeda4360cf13b46431a4025ef37b5686d4683df7cada2c"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/System.Numerics.dll",
+            "size": 119296,
+            "sha256": "2e3e5d3ac2acde90424d54b6195b3e346c9495698855260fcb582e30af852368"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/System.Reflection.Metadata.dll",
+            "size": 487584,
+            "sha256": "afcfd6c166fe0d59f45cc6363082806f6a7ea8ceed9dc6c75eec9fd79ccb5717"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/System.Runtime.CompilerServices.Unsafe.dll",
+            "size": 19256,
+            "sha256": "fd67abc4c4af10affbcd42fd68a2a7bc361b26714afe6965d4d0d139459d8297"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/System.Runtime.Serialization.dll",
+            "size": 934400,
+            "sha256": "23133ceaa4f80ef32fb682e9ed150fab4c2cf0f42fdbffedbd88b857fd49d7bc"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/System.Security.dll",
+            "size": 314880,
+            "sha256": "42623daedf16793f526d3b5edd91e82df3a66c0a59c10513e0c680defe2925ab"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/System.ServiceModel.Internals.dll",
+            "size": 215040,
+            "sha256": "60d41828e2353f009f3a6d51279d410413320a5fe83257393b91716b634bb379"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/System.Transactions.dll",
+            "size": 35328,
+            "sha256": "529eca284b82cd20be36ca441375bb92c9006773b237cd408cf7fe29a10dba92"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/System.Xml.Linq.dll",
+            "size": 136704,
+            "sha256": "e5229e4dc32f757108a4e3c2042886f26b100b4c183460849a1cedb2332b6bab"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/System.Xml.dll",
+            "size": 3160064,
+            "sha256": "9c03702c63aa3774cd86006c7c645a20773e05bf379d31ec55cd32cf419ade21"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/System.dll",
+            "size": 2702848,
+            "sha256": "229e3a713392d5555c4f9b9cabea94d84b90ec20ed66414bbdab21e1164a242f"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UniGLTF.UniUnlit.dll",
+            "size": 8192,
+            "sha256": "71191eec2d3d3af69398f56e7d55416ef15e5a91e5cc1b69593d30f1bf91ddc9"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UniGLTF.Utils.dll",
+            "size": 15360,
+            "sha256": "26e0f7106a2666147495e533ec88b923db24e3ddb23ee281860f307d6c2e7189"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UniGLTF.dll",
+            "size": 386048,
+            "sha256": "e96b7fe46c775015b7b33d74d998ef765e6dcba40298290c192209d686387a53"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UniHumanoid.dll",
+            "size": 81920,
+            "sha256": "5ec86795cb6b204c32c0d4572b7643bc5cf48868b254408cfe5fdb6c16bbb4bf"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.AI.Navigation.dll",
+            "size": 23040,
+            "sha256": "cca219889ff77543cc37ff9f748f011fefe46a61b3255bf1b8948aebf40c20a6"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.Addressables.dll",
+            "size": 109568,
+            "sha256": "0158207646a4fae77be8e1b8cc41c552f8846b4908c4fdce5abac3e7e7af5d07"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.Burst.dll",
+            "size": 5120,
+            "sha256": "aaff76830f0666a525e95cb145857b48f70d629bdfe669e405309898e2212f6c"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.Collections.LowLevel.ILSupport.dll",
+            "size": 5120,
+            "sha256": "ff50383f807f9692e4913b97e47d86fefcb8faa33d6d48cd3e3fd6fc7ffb448d"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.Collections.Tests.CoreCLR.InternalJobNestedPrivate.dll",
+            "size": 4608,
+            "sha256": "bfc0a165e692c22b1a628d7dcba4f5bb97306fac68281bca94f07684b2f99107"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.Collections.Tests.CoreCLR.PrivateJobNested.dll",
+            "size": 4096,
+            "sha256": "a74c22744680f0052cafb0d22b68e67b042dc26f21592c298c0d1878266bd92c"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.Collections.Tests.CoreCLR.ProtectedJobNested.dll",
+            "size": 4096,
+            "sha256": "8c3b91015dd788660124fe40c3d9a2470b809dec921ab8cf480195c7d3925788"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.Collections.Tests.CoreCLR.PublicJobPrivateGeneric.dll",
+            "size": 4608,
+            "sha256": "6e034dfa1cbe5b1486912b45d8247e743aab10f9ba51d668407848e4fe7ec35f"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.Collections.dll",
+            "size": 442368,
+            "sha256": "6c90db1317bb7718763a9228bbc40ff156fa88324f7684078362584f6c5c644a"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.InputSystem.ForUI.dll",
+            "size": 15360,
+            "sha256": "d9351ec27ae680d6e800a5de745269a381dc68531665b35f795e907e0ed7de29"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.InputSystem.dll",
+            "size": 1105920,
+            "sha256": "6409850b40303190b86be93dcb82b7acc1e60d26563b8755729484bd1b36eb80"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.InternalAPIEngineBridge.004.dll",
+            "size": 4096,
+            "sha256": "1f5ec7dc52e2e50695a2b2ccc4a0ac3700d542a9c655a131b1cffd33a928d6b6"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.InternalAPIEngineBridge.ObjectDispatcher.Runtime.dll",
+            "size": 5632,
+            "sha256": "b63d94cfb552357d69f9fc33e1247be93499ffb5bf2bf32bc18301470df256ef"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.InternalAPIEngineBridge.RenderPipelines.Core.Runtime.Shared.dll",
+            "size": 3584,
+            "sha256": "bdfef0e8ec5663cb37e44f0ae42cd7ed7f85e34cce3b925322939975164a3336"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.Mathematics.dll",
+            "size": 5632,
+            "sha256": "72c4c175f531eb12fc20b9a854e285415560e4ad26195b4f3cd113fa5cbefea0"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.PathTracing.Runtime.dll",
+            "size": 152576,
+            "sha256": "56b4e3a5655a80a82c3b3151721291b4e9f0ebbb1321616b75f0a05be39fd2b6"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.Pipeline.Attributes.dll",
+            "size": 6144,
+            "sha256": "a36ffc04a4c84971b929db4382dc0eebc79424b2ec688652c9171b13f6f76a9f"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.Profiling.Core.dll",
+            "size": 8192,
+            "sha256": "d81017e022a100709b4407c4266c1130de16325079e2b2a729acf5ac5ae7e306"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
+            "size": 7680,
+            "sha256": "72ced638df5b9c7cc7adacfdb2dc1cb0095ad1bdecf780da89300d8990f876ae"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.dll",
+            "size": 11264,
+            "sha256": "c156350870feae4526040ef3b5c76adbeaf0c867d9a246d6251dba6f53d33ddf"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.RenderPipelines.Core.Runtime.dll",
+            "size": 1084928,
+            "sha256": "06eacb7c140f66bf1b77b715da055845e2a1df37ec314a804b6b3b57fedc1a33"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll",
+            "size": 3584,
+            "sha256": "d9715a5272827c60a8b3a30c3e243c7bc99c8e2cdf7ea3441f2ed45b2982bd7c"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.dll",
+            "size": 274944,
+            "sha256": "a194ebfdb4fda52ff990341eaadf00a08d95047cea14acb8cf866e73babb5544"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
+            "size": 3584,
+            "sha256": "10e2a2bdff51f68970429b8a6e3a1b07360f0a555ba72fdec6ff16e7ddc0a708"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.RenderPipelines.Universal.2D.Runtime.dll",
+            "size": 215040,
+            "sha256": "11e3daf86a5e525c0acf86bbd466ad757a519df014f1526a07f6b73a777ae6e4"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll",
+            "size": 4096,
+            "sha256": "9017926898686b0291aa0c2a9092164ab2d3f563f96751ccb3f3d863c094c33f"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll",
+            "size": 752128,
+            "sha256": "b3eb97cb9bad6355cedea065b5a8193fc0d3293329f0e3d4db861bf0137b4223"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll",
+            "size": 3584,
+            "sha256": "490611ce9590f2619d82743cbe90acac0e2a1624fd0f22f4014d9142bcb85267"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.ResourceManager.dll",
+            "size": 131584,
+            "sha256": "565ae1e598a1b9c2c726ea02471f00ee12e2c0c9279c81aa13bfc1aaeccfd42f"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.ScriptableBuildPipeline.dll",
+            "size": 7680,
+            "sha256": "b506c8000c855fef0eb0c1270ff319f15e3630f6f445fbaef04cf81073698b4b"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.Scripting.dll",
+            "size": 59904,
+            "sha256": "bb4073f28a6c71fc64a34b1ad4fbdf8e351abb0ee3effc8947a2bf85f9e629f6"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.SurfaceCache.Runtime.dll",
+            "size": 35840,
+            "sha256": "eba1136de1161bb0433bcc38f31de217c2b6d9312f6bbfd8064c5fbc6c53d06f"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.TextMeshPro.dll",
+            "size": 438784,
+            "sha256": "c955afa25458ffbcfd95e8a8f9fa6eeb4ce13595e112ad5b57f082b3aa95b76e"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.Timeline.dll",
+            "size": 120832,
+            "sha256": "a9801f48447898e4670e5afee09c8d369919a4b6bc3b51ca017b8cbae1566342"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.UnifiedRayTracing.Runtime.dll",
+            "size": 101376,
+            "sha256": "a92db4eb065daebc8e042d884749fa8714c2e1c67b18ca72c6bc76f5bab911f6"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll",
+            "size": 86016,
+            "sha256": "ed7ce205f66eafe39bbb5d084d42e7fe11cb4b386ff208e5d5110891be0b7b37"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.VisualScripting.Core.dll",
+            "size": 550400,
+            "sha256": "9095e551a58b2acfaebbb8d4842f89e26de98d3ccd947f4fe486884428e3bc2e"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.VisualScripting.DocCodeExamples.dll",
+            "size": 6144,
+            "sha256": "c19d29d9c3884c124c9325c171cd42dcb1483a3e78722743d503e8b63c97325b"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.VisualScripting.Flow.dll",
+            "size": 335872,
+            "sha256": "4d43626a2de1e5b98ef3b9af9050293daac419a628b1ccbff1d7f3a2f32bf16b"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/Unity.VisualScripting.State.dll",
+            "size": 27136,
+            "sha256": "f1a5388118fc418f19bf5d23419804a554ecddfb67eef70f8160ff4e195cf4b1"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll",
+            "size": 76800,
+            "sha256": "cd3120a0bc188f18c9965414a64271ed2e9716c22fd8c4656b3da4e1ef6d1ac8"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.dll",
+            "size": 16896,
+            "sha256": "1fc1b9d57dbcab42a221b175db1ef9246e02af36c028e3149e893dbb04473670"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.dll",
+            "size": 38912,
+            "sha256": "40f7e694c8fcba3a4cbbf9a42f95d7ce341a3362d0d54b0e91fee79d46d783f1"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.AdaptivePerformanceModule.dll",
+            "size": 111616,
+            "sha256": "c03ed7acaf81aad748532619b6ca433816497699a9961e29d7be3a0061da0f63"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+            "size": 110592,
+            "sha256": "8a8b4d4fb7fb42d6866b15688d9d1604762175762628e2c22f02c4fc6c3780bf"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll",
+            "size": 207360,
+            "sha256": "2e5b5e3076a78dd9255625b8650af3a151462cc84b4e9f2e5fc6b9c1321aa3ee"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.AssetBundleModule.dll",
+            "size": 32256,
+            "sha256": "f22785cafafbb699c5e3e536a7a26bd0c765708496f306d8a1a3aa07525c7fdc"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll",
+            "size": 131584,
+            "sha256": "b1c85728a127cbe5c9db151513deb568efb16b58f2ad9b8130d6a6a36d2d77bb"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.BurstModule.dll",
+            "size": 327168,
+            "sha256": "cab38e41c474d84bc47d493fafd7d47e2b6bc0709ae04b06c39c015bdf14343d"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll",
+            "size": 27648,
+            "sha256": "e50a9f26c1870df9206f8b09ab29dbd8164880a33be0537d86c2e9de32891b20"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll",
+            "size": 19456,
+            "sha256": "5754efd2531d789c74116ffe5f01738179ff467387be4accb9c4f6514f664008"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll",
+            "size": 17920,
+            "sha256": "775073dc352e7f4609caf5cde5aab471c26f579343ec416f5e107a865e04127a"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.ContentLoadModule.dll",
+            "size": 45568,
+            "sha256": "dd99c656411a2dc837c3e9e858419ad2e9f348d44bab63edd40b00b0e60d6342"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll",
+            "size": 2018304,
+            "sha256": "0dabf1849beb7f5fe2ccced958c00a04949e7adadc11eb08ae437afe33f82d89"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll",
+            "size": 17920,
+            "sha256": "c4f9726cc38d1c8729428d4512f014645e24abee7bbe86441b6d38de04c74920"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.DSPGraphModule.dll",
+            "size": 22528,
+            "sha256": "447675ed76f7788e4116d7d801fc585313de868a40cad82eb66a337da1022b55"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll",
+            "size": 32256,
+            "sha256": "b6633803c5c91076b3a629a1d5db6d0088d07d3d2e4ebfa892dc6ee219e31d93"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.GIModule.dll",
+            "size": 15360,
+            "sha256": "1d3e40830e8c4973ef844115104e518278266bc8bcc24a3d3157b5bda9d62681"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll",
+            "size": 47104,
+            "sha256": "2f73bbacfeab385d67847436dcd6653ef06f06cba370fee2b051af4c09629fa6"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll",
+            "size": 3584,
+            "sha256": "4a503f7b58160d062dde6f4518468ae5fc48dbea5aae6b8c4fb13dd9139b0b82"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.dll",
+            "size": 22016,
+            "sha256": "e1308c923f9f58f4c2ba2bb4ed72df6739a663f6641026d51a81baaef7063037"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.HierarchyCoreModule.dll",
+            "size": 102912,
+            "sha256": "707ca2b30ff605f5e522d7c86f682cc195952ea30ee78525882ad2ead97e47b3"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.HierarchyModule.dll",
+            "size": 103936,
+            "sha256": "73591d7c58c20e1e45a60d68578458029ea0249f485c3439540c19c13ac1d829"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.HotReloadModule.dll",
+            "size": 15360,
+            "sha256": "50386f6a8b00931e8e2e1c49ba36b348753b58f9e279ad26b942bc061b18572a"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll",
+            "size": 180224,
+            "sha256": "32928951642b2a156807e47ccf6d8b9771657929f63c3df053c70d3ba539ed41"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.IdentifiersModule.dll",
+            "size": 6144,
+            "sha256": "0a19a5b5731bddce70b2fcb3fbb30e1971763e620eaea54ab43c60378ec74efb"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll",
+            "size": 23552,
+            "sha256": "e2c327741fc3402baf57f2de89452fef58c80c5928598f09b045beb1e2758cf9"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.InputForUIModule.dll",
+            "size": 46080,
+            "sha256": "f008ac01768b2a817900d61688775331651f26cd17eabedf6b0daa74f90d74ec"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.InputLegacyModule.dll",
+            "size": 32256,
+            "sha256": "d34f1a3c3b12af2c1b7c31dbe9b159a4cee1948442ed6255b5db7891b4ac0086"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll",
+            "size": 22016,
+            "sha256": "0e511ed7bfb049fcb21856e5d74be7b484fe9e52cb94afdf6480afd77b5463dd"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.InsightsModule.dll",
+            "size": 5120,
+            "sha256": "321f854366bf707c28984b8233601684ea3103b80e0fe1c72cebc7fb5d4f13d4"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll",
+            "size": 18432,
+            "sha256": "be31a838a3a620e677804d0110b149de841fafecc19f549b425dcd1c711d8912"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.LocalizationModule.dll",
+            "size": 18432,
+            "sha256": "a58e3bc003fca1bff98875b7d9180bafadbe4f0f45a490f16489d2d7e0342d1d"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.ManagedKernelModule.dll",
+            "size": 3584,
+            "sha256": "e070be4b78c5287284af03f64dc62d2d7c710f43266ce635cf975096735db3c5"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.MarshallingModule.dll",
+            "size": 90112,
+            "sha256": "d2b351136b10c7b93f06e692fa67492197f2001706aa624c7d44f8aee4baf788"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.MathematicsModule.dll",
+            "size": 730112,
+            "sha256": "32cdd65b0909038bb6e02b64ae07167a4f3a1252e3ac2ec228f6512efd16eb7e"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.MultiplayerModule.dll",
+            "size": 7680,
+            "sha256": "e6e32a1abc331a2f7729da60d9f73d73dcc2ea99f93b2cdfeb461c971e9fbf6d"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll",
+            "size": 158720,
+            "sha256": "50b70882a8f2ace58991166dd72b82eb4c8d4611eb8682040643a63785b7cad2"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll",
+            "size": 16384,
+            "sha256": "c8abf958606abc1b5472825cbd4a3597b3046935c56df7d6e23145be6b1a45c4"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll",
+            "size": 211968,
+            "sha256": "1054d5aea825fe309111a6ba89833adbebfbcea645c2ce48daf72a2e2cf6d04f"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsBackendPhysXModule.dll",
+            "size": 3584,
+            "sha256": "c2a51af8c51ef8b22da2ef3f3f818635c93f8e44f9ece074ffda3e5fa1684e61"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsCore2DModule.dll",
+            "size": 472064,
+            "sha256": "960eafc597d31daad3a3b7a31bfb7e1bc1b7d590c079a58aab13f7887a083631"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll",
+            "size": 171008,
+            "sha256": "4835cd1d09abaa831dfe804fa84be051920e8e78ec550e76e4a11c1c80af8c33"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.PropertiesModule.dll",
+            "size": 114176,
+            "sha256": "353527ec9790b1c89de798f644d30b087d9ceeafb029074e2b6e511839f03d47"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.RenderAs2DModule.dll",
+            "size": 16896,
+            "sha256": "3eaa56be16e559df5e5f897b9acaa9624b18f810bc3ced5275e71d0afe01f9bb"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+            "size": 15360,
+            "sha256": "7516423d14ec5cc444e11dd2c4f6d4327e895f269281ad5ec49cf20b2735c5c1"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+            "size": 17408,
+            "sha256": "6e62a54fe896342a2d436e4667b9ac04a8ab5ffeba915acedb738b6aae5ef1db"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.ScriptingModule.dll",
+            "size": 55296,
+            "sha256": "a2ebdb2ed7bfec3ef04dc44068c5f5e0c1c2c34e17aff2966050aff751a512fa"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll",
+            "size": 15360,
+            "sha256": "3bba650d4a0017733d29939d510fbf88434c251e9a16570845209d713a19e389"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll",
+            "size": 19968,
+            "sha256": "0af54e3348065247af43fce72c9ffce90132c5b31511610f7547d4f4903fabf6"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+            "size": 23552,
+            "sha256": "477f2ecd750da91bc26ac54008c1960e3fe7cee9dc6042e54ffd9aaf1d441d36"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.StreamingModule.dll",
+            "size": 16896,
+            "sha256": "da52dff4ca2e9897f2d836068d486dce2db1212af658ca86d43a768c8f8ad62a"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.SubstanceModule.dll",
+            "size": 20480,
+            "sha256": "722b040fcf2c99afb01fa1213db33af743e5a08518963efff3c4a8fab843d4ad"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.SubsystemsModule.dll",
+            "size": 32256,
+            "sha256": "353f66ef68ff9b31103182751abd098c2ee048133e33ec814ed440748005f4d5"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.TLSModule.dll",
+            "size": 23552,
+            "sha256": "9962766dfb33e8b9f40b0e7d108946480a3d5e74c33dfab36d246702a177736f"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll",
+            "size": 121856,
+            "sha256": "4f645f9e1ab9004f00a359fb5e1838725323ca8533f5a51795c969a5d5dedebc"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
+            "size": 16896,
+            "sha256": "eb690808484fa013292683610f2a95d3939dad7f2e676e865604adfc5201f201"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.TetgenModule.dll",
+            "size": 15360,
+            "sha256": "5a0e130e75799c768c69bbbcea238de63a46729964df87654c31e40429d293a2"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
+            "size": 75776,
+            "sha256": "d5dff60abe05f3310e4bf2855e3d50c6eb6020c096404fcc51f08d603a9c7c17"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
+            "size": 303616,
+            "sha256": "23374de981e1e55ecbba4e9f22024e8fe4f2ce94c530b98e622a96443edf16c5"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll",
+            "size": 28672,
+            "sha256": "dce087da8f22ef8e9807381fc479daaba612073a783975e0e1f926a0afa442cc"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.dll",
+            "size": 65024,
+            "sha256": "7c7ecf3527d71409dbe7efa1381c9c0912489b8b8925868ec6a0cc6b0617d344"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.TimelineFoundationModule.dll",
+            "size": 156672,
+            "sha256": "3ecb691d1faffe39e35c3a3853285208db5ae9bdef5b993ed568bcb17c59ff81"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.U2DRuntimeModule.dll",
+            "size": 62976,
+            "sha256": "bae179f340328d061e8db80d62570c914c8a124d0b84c05e7df07d7e4fca68c5"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll",
+            "size": 269312,
+            "sha256": "4de30f41045538c03a2db5f242fa8f5531aaec4a2373e182b158d575f9af5572"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll",
+            "size": 2528768,
+            "sha256": "4255604c02881d0afb5dd24aa22e8140985ab8b2155f583c0bf8b2a85137f0ff"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll",
+            "size": 46080,
+            "sha256": "623ada00c7dd4ec40f778cc716620487f754ba74d0d3f72dc190ba88183c563f"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.UmbraModule.dll",
+            "size": 15360,
+            "sha256": "ea10722d9b470fbe51f064a3ec6ab068efb4a959dd492b87ee4f3d9f747b0617"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll",
+            "size": 26112,
+            "sha256": "2587278c35379035e0e6bc8158e0904d7a2a5fcdbf66f2278651b6a9d3c7bcd2"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+            "size": 51200,
+            "sha256": "8c7192f3e7f369842ee53bd343d957cd73b949ddf18cbc56d61a29c2d8fd71da"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll",
+            "size": 18944,
+            "sha256": "b5766d86f29ee63dc15d0bd892df20ef500a24a41e80a23a39812abb8699000b"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.UnityConsentModule.dll",
+            "size": 5632,
+            "sha256": "ad47627411a104076e5f1ea74d2b7c8acf65fd691a38900a31dae3c35a753b08"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.UnityCurlModule.dll",
+            "size": 17408,
+            "sha256": "dcb39d3a0e4657a68d2f431a9b37847b49079fa7a4bcd7c34caff67d4a405f53"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+            "size": 19968,
+            "sha256": "06e4f29c711067b31ac6851f2328d18ee83d5d8e60d6424f7b43548f8414f23c"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
+            "size": 19968,
+            "sha256": "b71f1e3fd4d94b9d31603023bd3e2f766e33ad1bc80c75862de599c0a05b9a25"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+            "size": 70656,
+            "sha256": "25fb1ca30f0dc8a5bbf5aedba0a5e492853ce93a080d8025273f4b7d0351ac37"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+            "size": 18944,
+            "sha256": "0b48f2a0e0e068db867e7a42529781250518af42283945e61c6f471cd6ae08a5"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+            "size": 24576,
+            "sha256": "5eb93d80c7afc232f47d2634cf13aeaafe796dde322002621b57e8c7894ccb41"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.VFXModule.dll",
+            "size": 71680,
+            "sha256": "5bceb7d1ab13485779765f65187e7953d800965e37a53aece6b7a631e5bf94d7"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.VectorGraphicsModule.dll",
+            "size": 219136,
+            "sha256": "fe18578d8d271ea6e1c2ad755a34ee48dac5a30d1fdb4d7d7a8f4aac05eec144"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll",
+            "size": 22528,
+            "sha256": "7bd178003311d30276ebbcecef4f7a6b5dd81fae0961caa97e6ad4c8947c10f7"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll",
+            "size": 37888,
+            "sha256": "6fb968752b04ea502dacdec86ede284ad7dd688acedd9b1b56b0519317ef52c5"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.VirtualTexturingModule.dll",
+            "size": 33280,
+            "sha256": "59613165d3eeeed1d40cecf2aaab0cae704d07da1b7a2cd4d073a8849f33d313"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.dll",
+            "size": 17920,
+            "sha256": "4a47325104abfe0108eba7d1b4f5eba4a6019e23f7ee7943c143456978efa7fc"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.XRModule.dll",
+            "size": 85504,
+            "sha256": "6c42f5956993ee6108a6f471523e19174ef7c5b044c2a823b743e4d88053fb1d"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/UnityEngine.dll",
+            "size": 214528,
+            "sha256": "4f6a01bf16c25d33d2f75a213faf40322279b408399f1945fe156305b53e61c6"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/VRM10.MToon10.dll",
+            "size": 28672,
+            "sha256": "6348865c7305b3203a45a028a89a8ab11b446d1e0f55c14279bfbb47d603d49c"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/VRM10.dll",
+            "size": 578048,
+            "sha256": "a34f4ee86b077e99d3aad0634749a3f5382d4b40dff5ce7ba9f040b2478e2e04"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/VrmLib.dll",
+            "size": 59392,
+            "sha256": "c761b21cb8f62a87511193d174de71cfd1efd1ebe3eb118d08a43f5fe74f1afb"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/mscorlib.dll",
+            "size": 4625408,
+            "sha256": "097834f78672947093884fe8f56c977d72b97d6c8a7cf052c4198a66f95515d2"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Managed/netstandard.dll",
+            "size": 90624,
+            "sha256": "bf0b7eac9010b75413e4ec1a07a3453bc6a68eeb8e916fbed7c1f2777841f7c7"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Resources/unity default resources",
+            "size": 1704304,
+            "sha256": "015477823d70960576cbd7717f942bc040f4bdb85c903d481cdb6efca0c5c142"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/Resources/unity_builtin_extra",
+            "size": 480356,
+            "sha256": "3aab843737f788a558bbd50d1735aa070f42944b62858fa5ce7b5d3e3c20f159"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/RuntimeInitializeOnLoads.json",
+            "size": 11287,
+            "sha256": "9022e9bb5a65c7da48e56b8fc65d413492e00e6f46fda70947158a1f3dc0c7bc"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/ScriptingAssemblies.json",
+            "size": 5310,
+            "sha256": "45ca88390536a3248693135b6b3db69736d1c475d366a930720939e1d2b4b473"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/Boss/ch00_boss.mp4",
+            "size": 25005151,
+            "sha256": "bec7cf1b2d7d875dad863b9c8d64df45ab774ccb634863b871a1e9248db08150"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/Ending/ch00_ending.mp4",
+            "size": 48734802,
+            "sha256": "a4a6b3e9456c6c80a9eeff472e5a73e2dcec95f00e0ae83be978477ab4ef1bef"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/GameOver/gameover.mp4",
+            "size": 3542469,
+            "sha256": "b9d3cfc9cc7c45d2a76f41df655326b0b0c31ab895932cbef20478849ca8d600"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/Intro/intro.mp4",
+            "size": 46768444,
+            "sha256": "af2e5e3100fdca4a8ff45c8beeb34fa2284e96abbb854c41d95d3095f3dd60f8"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/Intro/opening.mp4",
+            "size": 29021668,
+            "sha256": "bd423b5b9f61127e861c195875aaff73e78a415e2ef6145261d3e53b1fa1942f"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/Title/village_orbit.mp4",
+            "size": 13009350,
+            "sha256": "a9bd331ca4a444651c22e2ec1077a63b77417c4664060fc00c6b5d98dbffc080"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/aa/AddressablesLink/link.xml",
+            "size": 1833,
+            "sha256": "afb8e0e8bb466da0f296779ab31647ce60b7e68e473a62420eb39b91e56c87b7"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_armorlooks_coat_068fcd7e05660ef7c735c78eab220866.bundle",
+            "size": 3661334,
+            "sha256": "27b439df89519d431dad29863edd5317ff41da99a68ac8fc7450fd27ae5c882e"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_armorlooks_leather_63a5ae2150b14e7d34503382bad4b6c8.bundle",
+            "size": 3928444,
+            "sha256": "71ba262300549aeb3e4b43600aa8ab0c8ef4172151cd4e20cf3abf5e5ae44a16"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_armorlooks_robe_884196233175d647f4f905ca6c1023e3.bundle",
+            "size": 3725755,
+            "sha256": "62c285a1c55d324e641584f37a949ecd47cce52f6865612689e167b8902f4372"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_a_hero_shield_e430f8dcae8efcba1b97d65ba63f6e26.bundle",
+            "size": 429876,
+            "sha256": "a532b2248687ea2c6663d93329cfc65dabaf862365a506d52d2db176a89d37ba"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_battle_axe_b8de88f32b454ae0cf28d6a7155edfc6.bundle",
+            "size": 605501,
+            "sha256": "4ee63cfce556980dfd051954c68f1a6116b31750830b03ab7c82f47abdd3b030"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_bronze_sword_3bfe96513851c8429fbf909c1c629292.bundle",
+            "size": 592161,
+            "sha256": "e95feb4e72ba82676014b4cc3303ad64f8bb5747a9a1d7f8bc67dcfc7634b489"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_copper_dagger_88640016ef4734238231aa9d9a01d311.bundle",
+            "size": 561131,
+            "sha256": "24956a8115c790f9604305b40abb59103d69106a73c38f05958867bc46ec89b1"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_copper_sword_70eb16b222823e4df50fd665184e125f.bundle",
+            "size": 582790,
+            "sha256": "f1f22f9c2d2acb0975fec8dd49493c0e784fe1a69147034ae852d3358b129725"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_crystal_staff_62fc88ec94b10cf2f615c6206fa57320.bundle",
+            "size": 587229,
+            "sha256": "a0e77d585eb2494ed66794d92ad5a089777f62a1def56b4ccc94e35fa3ef4d66"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_hand_axe_1e2c5f334f9487931139140523df72b4.bundle",
+            "size": 559487,
+            "sha256": "b5451de26dc5c6c6fdf3646fbe0654409f1437652de7d856f7b9095fdeebd539"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_inkblade_1861623b0523036511c2f66bc5965921.bundle",
+            "size": 595421,
+            "sha256": "fdbcb691e28e1377fcb6df2f53d39c9191d226e923af9a5376219bf0f1956f54"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_long_bow_912ae6b229afe0a860201d8564897ca2.bundle",
+            "size": 695384,
+            "sha256": "7e1396bba714e01c91759726b14d180a9e14aaee8ab86a76b08e8fbfb23f485c"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_poison_dagger_8e5d0f349565a161180254a795740a11.bundle",
+            "size": 584869,
+            "sha256": "09bf70fc4ae8725e304774a16ea93a9df7b3f440f797394755fbabf4e5ceeacc"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_short_bow_7275ddfafc4dad3feae30c4d80b8a183.bundle",
+            "size": 695395,
+            "sha256": "161f6a51c7d63905f8acda79e4eefeac6dd65770a100992b66558b9d53f09b7a"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_silver_dagger_a6f44ac771b04292ef5728bd09df1ac0.bundle",
+            "size": 582879,
+            "sha256": "033526b2b8ce6d16472c87c7b4e4537b7f3ecb3fe6751af312c98cc5d6fed5c7"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_starlight_staff_33133390f32eb20e8b1319bc2d40fa5b.bundle",
+            "size": 604220,
+            "sha256": "ec3bc91e9573003de74649dd9e243eb2fceb575db2c1af4c5025ba9fb0b38dea"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_starlight_sword_1f89e6deac5ee2fa65ef938b1361e07a.bundle",
+            "size": 589704,
+            "sha256": "0984a7a8d6b659866779d5c4c7c67428d647932cd9f842ab516de0ab731f8726"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_steel_sword_2283ff1c77e0ca7bda425943f6ed0269.bundle",
+            "size": 584107,
+            "sha256": "736644d23757d1309e8a244c6b465ecf005c9773b8260e971e60d637bc9f5ce0"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_stone_axe_1e4b653d43112fe9d04624f70074058b.bundle",
+            "size": 590478,
+            "sha256": "edce38aa851ef7e99ed442b18071ed37ddc2af134bf3dc389cd2aff54ac33f7a"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_wildflower_sword_5456042578a6b3cce6ef87b6dc379d00.bundle",
+            "size": 576371,
+            "sha256": "332b20f3c2fbe280c19a169060724d0a809de2c6915fbf4d2eb9644e1a6d683f"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_wood_staff_51ba6e4ece2f9fa246205373acfb86e3.bundle",
+            "size": 592632,
+            "sha256": "eb2580fc8bf7bd8bfeccd3652b3cf259786f500fdbea74ba7b8df47e5be5995b"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/equipment_assets_equipment_w_wood_sword_8385e4f4ba9a5a0621d3a4d9d7286113.bundle",
+            "size": 557064,
+            "sha256": "5712eec107e86cc0624b22a66be692e714352c8a3bf7c2bc4a71e3a5adad0e5a"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/aa/catalog.bin",
+            "size": 18324,
+            "sha256": "1ffc494dcffd398fbf979c1c283b19a88170b7ce555b72a5be33b5db2e1b5352"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/aa/catalog.hash",
+            "size": 32,
+            "sha256": "a8d337de434e0e4cb5f6899deb3c62d27fc835deecb860eaf1898b03a9ae65a8"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/StreamingAssets/aa/settings.json",
+            "size": 4140,
+            "sha256": "409eaffc07fb6debd89d52e4ff190003c9af1e2879682d51c5892179a6acf427"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/app.info",
+            "size": 23,
+            "sha256": "1d643f91e4a98b749b4bcdbe75cf374c18ea41e3b6f7a4964ba5e90c531fb214"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/boot.config",
+            "size": 134,
+            "sha256": "e72ec2479988454c8860eec0dc88cde243c2d9c67841f2eedaa5d7ef4a402e49"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/globalgamemanagers",
+            "size": 778084,
+            "sha256": "cc05908ecdaaa6d5d43045ff70b9368f775c3294a8dd9b9c92631edc92f11203"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/globalgamemanagers.assets",
+            "size": 1282424,
+            "sha256": "7543511ca960bf56724e77e60837d26e805b7fce41e6807d76d9e03d605c65cf"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/globalgamemanagers.assets.resS",
+            "size": 3553504,
+            "sha256": "d39bc2dc060377debd226e7a96002e7d9a37f7dd6a2aeaa324b085972564d143"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/level0",
+            "size": 1936,
+            "sha256": "13362a4b75674355703c7b12a51e6ef9540b29420869221226cd1a950c4ac994"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/level1",
+            "size": 4096,
+            "sha256": "b152488a7c8bfcbcecd6ff0a8becec146acf691ae55c6913205436416c17dad5"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/level2",
+            "size": 129637904,
+            "sha256": "85dfa749e8a8619ca1812a088964013bdf8cecb4e37ed4227a91c3f7413d5aaa"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/level3",
+            "size": 16292656,
+            "sha256": "710d20dca624e3c53b59ad696cf9a6a46ad6a927fd79633f701945b84c9b5ae4"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/resources.assets",
+            "size": 66631636,
+            "sha256": "9a4d185bc63cb5eea076f7842736d139a67ad3aa5c14a744c5cd2885a96babd4"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/resources.assets.resS",
+            "size": 110138416,
+            "sha256": "494f5cd21132590ad2efef3c822e3475da604dee605990ae48baf9c2cecb6814"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/resources.resource",
+            "size": 11402464,
+            "sha256": "0e142f7a9628df74bf885de9c7f8c7c40256fae510be9a5892ac940b2da266db"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/sharedassets0.assets",
+            "size": 9072,
+            "sha256": "cccdef110041995e61b3ba10cb6d5ff3c652d01800f0c035a3fb81c8dfa6ee9a"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/sharedassets0.assets.resS",
+            "size": 524288,
+            "sha256": "cf6e38a0de541c99451ad50a963447203651aaa30fa33fd5cc99a6ca12e0c968"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/sharedassets1.assets",
+            "size": 9456,
+            "sha256": "a8fc53985da3af9a1099b9504abb00175ff8e6b17d9f0bd90126f1469154fe6a"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/sharedassets2.assets",
+            "size": 68032648,
+            "sha256": "f3bdb869850b24aa8a955291dce35d666cae62166d40923b795b11d52db97a96"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/sharedassets2.assets.resS",
+            "size": 80261344,
+            "sha256": "d41cd6bf20001c78a64cc234b16be90449121724ea9a816bfe19f22e15ae8c5d"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/sharedassets3.assets",
+            "size": 45303296,
+            "sha256": "ea293a7fd3c633c0e47dd098a288c8453594ae090c4c4cde6f1f3d7123ca1636"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/Data/sharedassets3.assets.resS",
+            "size": 2097216,
+            "sha256": "ee228753bb03771b472e4b8620c949dce78f6f0a7651486d7b8dc17aa7e70412"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/DefaultPreferences.plist",
+            "size": 255,
+            "sha256": "ded1c9b6f74702f812abb4d80bc08528fd8426e17808a04cde015b4d34b498f3"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/MainMenu.nib/designable.nib",
+            "size": 5071,
+            "sha256": "57188221ba9dc889be4c9e03f0c867bce820726491e32a2fa4928681f006f308"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/MainMenu.nib/keyedobjects.nib",
+            "size": 4792,
+            "sha256": "1fae5b7c6ee9b17a767b1636867a41b3e44eaf8f654b1c5e2cafa3261463104d"
+        },
+        {
+            "path": "DQ5Games.app/Contents/Resources/PrivacyInfo.xcprivacy",
+            "size": 81,
+            "sha256": "0a513a93916b158eaa3af7311e84eac43604ac52a6530afb33184a77805c0970"
+        },
+        {
+            "path": "DQ5Games.app/Contents/_CodeSignature/CodeResources",
+            "size": 75617,
+            "sha256": "0e097ecf81948850db3fdaebd031b95d829dda1ca3e89ae815f24ae2d9b47697"
+        },
+        {
+            "path": "DQ5Games_BackUpThisFolder_ButDontShipItWithYourGame/lib_burst_generated/lib_burst_generated.txt",
+            "size": 123528,
+            "sha256": "2ecd87cc2ae4fcf792bca06542b146b1a53ad3c8e067b945128d991e3ac383d1"
+        },
+        {
+            "path": "Temp/soak_player.log",
+            "size": 3996,
+            "sha256": "390d638be6b73e3ca3a31f1514f5a72217030439ce1fd83bc33565ee021d03d4"
+        }
+    ]
+}
