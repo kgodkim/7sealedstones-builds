@@ -2,11 +2,11 @@
  "files": [
   {
    "name": "catalog_0.1.0.bin",
-   "sha256": "6f1e85bb70376b6facd442c631d83bd46d14ed572eeca451b37ebfe8429090e1"
+   "sha256": "58cf68852f5446c51bd15ef0c4078ef0b2169e463a1fd23d67d85b2673042446"
   },
   {
    "name": "catalog_0.1.0.hash",
-   "sha256": "4e1f74028516d15af3455aaaf5c6ce527715bd2d448db2845a0793ef6f13eb25"
+   "sha256": "5c36de8400ef7c2f6acbc3da41ced3fcd75c8b336277aaf0279f31125c2fa480"
   },
   {
    "name": "ch00_shared_ch00_boss_ch00_prologue_assets_all_97baf87c8c2858610007c753003bd90c.bundle",
@@ -23,6 +23,10 @@
   {
    "name": "ch00_shared_ch00_prologue_housing_assets_all_1039ead216e76655f6bcddf349e6ecb6.bundle",
    "sha256": "d5cba11a5e5f3ae6e7fafd2e6de641496622c9b35cefbb399fcabade5907695d"
+  },
+  {
+   "name": "ch00_shared_ch00_prologue_housing_assets_all_10af31fd301e500bfbbf0cffcc8da76a.bundle",
+   "sha256": "273b6b9a8562a4d99166163ab755355ee6e226bcacbbcff573d2e838068a7649"
   },
   {
    "name": "ch00_shared_ch00_prologue_housing_assets_all_ddb596052b3aa0098333271a002b4929.bundle",
@@ -77,6 +81,10 @@
    "sha256": "5668e337616744f3ca84bed001d741a54d508efdbf2181d6365a558ca2c04f79"
   },
   {
+   "name": "scene_ch00_boss_scenes_all_4950c35330a14a7385629214aebfb8d6.bundle",
+   "sha256": "d0adab2934b9a6a203b1a745bcf431de9e6a292ad446fc17de6a335ad995ccd2"
+  },
+  {
    "name": "scene_ch00_boss_scenes_all_90b82f8fd75f28b7387b028173736c31.bundle",
    "sha256": "a89be10bd9c043999907e11b57718d1e4b77aac578f55cb19f622dacccaa17d1"
   },
@@ -97,8 +105,16 @@
    "sha256": "8d1adcc50bc55e8456c54e5bc07a29e210bb7262f9262070376098238470ae44"
   },
   {
+   "name": "scene_ch00_prologue_scenes_all_ea0c2a4b1c91ff86126bebe49816b36c.bundle",
+   "sha256": "e9dd1bfd8cb87709fd6d582541ddaf63027688b7c1c1f3daab76cda1863bdb16"
+  },
+  {
    "name": "scene_housing_scenes_all_04e314a1a76644ca4d10561e4b3f85a3.bundle",
    "sha256": "8306de96f3782bb47932ebd4e1cbff502cd366e486d4839876e889b8fff47ebd"
+  },
+  {
+   "name": "scene_housing_scenes_all_329c73a2b48d9bcc832ad530a4902317.bundle",
+   "sha256": "b811cb0c88db5e12c741f0830986d2b2c117ea86e175be267692f147cf46f8b9"
   },
   {
    "name": "scene_housing_scenes_all_de9c9a16e6df6bfa98413b24f0e81b5b.bundle",
