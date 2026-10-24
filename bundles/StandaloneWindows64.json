@@ -2,11 +2,11 @@
  "files": [
   {
    "name": "catalog_0.1.0.bin",
-   "sha256": "58cf68852f5446c51bd15ef0c4078ef0b2169e463a1fd23d67d85b2673042446"
+   "sha256": "1b40b1a4bfa825844c5239674b691bdaa4caad0bd5623d0f1a0f90fc701271fa"
   },
   {
    "name": "catalog_0.1.0.hash",
-   "sha256": "5c36de8400ef7c2f6acbc3da41ced3fcd75c8b336277aaf0279f31125c2fa480"
+   "sha256": "c5936e8a0765b25bf898c5a28f84ce8bf293be76f6199198e0bc2ede2e7e57fc"
   },
   {
    "name": "ch00_shared_ch00_boss_ch00_prologue_assets_all_97baf87c8c2858610007c753003bd90c.bundle",
@@ -27,6 +27,10 @@
   {
    "name": "ch00_shared_ch00_prologue_housing_assets_all_10af31fd301e500bfbbf0cffcc8da76a.bundle",
    "sha256": "273b6b9a8562a4d99166163ab755355ee6e226bcacbbcff573d2e838068a7649"
+  },
+  {
+   "name": "ch00_shared_ch00_prologue_housing_assets_all_1cda0eee0ebabbaee7d8bed3b9defb28.bundle",
+   "sha256": "299a96ef2d2298ddf6dc74eccdf37386eb5ad463b3bae5c5e48fc816f496482d"
   },
   {
    "name": "ch00_shared_ch00_prologue_housing_assets_all_ddb596052b3aa0098333271a002b4929.bundle",
@@ -93,6 +97,14 @@
    "sha256": "f74343b6269b2ffc4a3c5879ad457b179a72677e5b8a146e2d2f88a6a51c3a01"
   },
   {
+   "name": "scene_ch00_boss_scenes_all_fea32b308bc0e5b2c965852baf366726.bundle",
+   "sha256": "b3ed3b2a3c748673570dbb18fed74b012a7c864dbe84203dd5b6dcbeb11591fd"
+  },
+  {
+   "name": "scene_ch00_prologue_scenes_all_227db025a9ae02a14760c15c8fa29aba.bundle",
+   "sha256": "6c72df63177c1a4d8304f05a378a84c323bcb1c5e4d0d5a3f44e2aee97378f23"
+  },
+  {
    "name": "scene_ch00_prologue_scenes_all_2ea9a09a96f9ba329e0ce5c5a202d33b.bundle",
    "sha256": "3785f0c12b50dfe26fc31de29169ef98c699ab79c6001b21c9dba1957f558696"
   },
@@ -111,6 +123,10 @@
   {
    "name": "scene_housing_scenes_all_04e314a1a76644ca4d10561e4b3f85a3.bundle",
    "sha256": "8306de96f3782bb47932ebd4e1cbff502cd366e486d4839876e889b8fff47ebd"
+  },
+  {
+   "name": "scene_housing_scenes_all_31b1d9ea3177a670ca5c62edf02f1046.bundle",
+   "sha256": "b77d0ca5482ac55960539dabad1e352e4ad1d267350e0c2a6d111d74eb8625a9"
   },
   {
    "name": "scene_housing_scenes_all_329c73a2b48d9bcc832ad530a4902317.bundle",
