@@ -1,35 +1,35 @@
 {
-    "version": "v0.7.10-24-gba3422bb",
+    "version": "v0.7.12",
     "files": [
         {
             "path": "7SealedStones.exe",
             "size": 667136,
-            "sha256": "91a36fa14dd3ccf390b99720805eda0553da1ca1108381b49c98c938f69dc256"
+            "sha256": "9806abde4a406ed68647e9505852c49f6aa72a372f4f084e2aa2821affea57a2"
         },
         {
             "path": "7SealedStones_Data/Managed/Assembly-CSharp.dll",
             "size": 3584,
-            "sha256": "36c4de8c29a3ed8c03dedf850c4d3df0c93d989ebc97f5c9137c33b77b432255"
+            "sha256": "693d4452467cbbab7015b7ecbe3fd23bd110757215bd87007b515ae0cca380b6"
         },
         {
             "path": "7SealedStones_Data/Managed/DQ5Games.dll",
-            "size": 1049600,
-            "sha256": "659c82f9fa2df6b510ebde0dcc39ae572e96bb463df5715997fe51463def7676"
+            "size": 1123840,
+            "sha256": "7828fd6a5cdb1ecf440c2b7251f67f5fa2ae471d8939388d25852b1f56a01468"
         },
         {
             "path": "7SealedStones_Data/Managed/FastSpringBone10.dll",
             "size": 5632,
-            "sha256": "86d5c479f00a768de51c558ea87a3395de711226783f769d06cf2c1983185f58"
+            "sha256": "c3577a7778ae4a2da3c0c8417c01d88d70659a3b13eeac66a4df173a4f14f884"
         },
         {
             "path": "7SealedStones_Data/Managed/MCPForUnity.Runtime.dll",
             "size": 30208,
-            "sha256": "4db3872d31fdff33447d806cd3c25998e0f732fdf835173894ee5fd41bde1528"
+            "sha256": "34be97870e8c7c8609306f91082e19a6d736670aef5e03fc96cf79833eba33a8"
         },
         {
             "path": "7SealedStones_Data/Managed/Mono.Security.dll",
             "size": 241152,
-            "sha256": "a7128a85c5ce748cfcc64be97b7fab4119f4636c917a0303bfa2582f86282ed8"
+            "sha256": "e912bcd94b398ba750f74a12b7c61b530720f66e4ff992e62628dd42edf50ae1"
         },
         {
             "path": "7SealedStones_Data/Managed/Newtonsoft.Json.dll",
@@ -39,7 +39,7 @@
         {
             "path": "7SealedStones_Data/Managed/SpringBoneJobs.dll",
             "size": 31232,
-            "sha256": "6ed8c58814751fc35b812fe33e1342a3682be430c71ee38726df60f20d52eba7"
+            "sha256": "f1a7cad74b7efd7e15389b1b3a02ced797ae1e010b4601f1237873ce5a7790a6"
         },
         {
             "path": "7SealedStones_Data/Managed/System.Buffers.dll",
@@ -54,47 +54,47 @@
         {
             "path": "7SealedStones_Data/Managed/System.ComponentModel.Composition.dll",
             "size": 257024,
-            "sha256": "d949bd6214c26b38a190e66fe976038e3845aea6c6980d3eb58e78b75edf98a5"
+            "sha256": "614793b018e061527e53941045f3d44abb2856591a7982ee3479f08df3237322"
         },
         {
             "path": "7SealedStones_Data/Managed/System.Configuration.dll",
             "size": 124928,
-            "sha256": "7170a8fa3363a8ebd59e8b9931509f595df009f11e1885707a3c3bc0a3ff5648"
+            "sha256": "548ac87e81788971c06463779c82ce735da2be71cdd8d59fe75a226f63981d82"
         },
         {
             "path": "7SealedStones_Data/Managed/System.Core.dll",
             "size": 1113088,
-            "sha256": "15081eac9f71fd7817a7d42a963651c89c666a4c21499f2076fb3ab7aacd9b9a"
+            "sha256": "f8a67453fe15cdbe58fd459be18af2600b84d465fe9dc7ef0bceebbb92137a05"
         },
         {
             "path": "7SealedStones_Data/Managed/System.Data.DataSetExtensions.dll",
             "size": 29696,
-            "sha256": "da75ceebbef879968aaa721090df162e7a6fe1c7ba32f4bb5d05523385c53e8c"
+            "sha256": "3ef867092db854496c3a119e2a0c9c929eadd64e4f82cc590a2defbc0ffd8885"
         },
         {
             "path": "7SealedStones_Data/Managed/System.Data.dll",
             "size": 2125312,
-            "sha256": "557bd378caa400c4de52bd73225a948f1a1e41586c52e307aaa042f77b33d648"
+            "sha256": "0327833c231a3c2c989ba95651d02bd35417e9579e421adb5ea63182f1741b30"
         },
         {
             "path": "7SealedStones_Data/Managed/System.Drawing.dll",
             "size": 489984,
-            "sha256": "1657e6eb247364cd232fc6c80df1ab6804732b6644639f18c80e48af1174fd63"
+            "sha256": "70dd9d25249ec173db45a94cce4e3d66a49dbc47bcedaf56be0a1a3193f013c3"
         },
         {
             "path": "7SealedStones_Data/Managed/System.EnterpriseServices.dll",
             "size": 44544,
-            "sha256": "7fcc7078f244ab3a5e8549a8acd2905b71aa8a31dda917ab60817c5b13924d64"
+            "sha256": "4abd633b3749f92df1dc7c8ed0083515d8c4815220d619ff7491ed617a90b70e"
         },
         {
             "path": "7SealedStones_Data/Managed/System.IO.Compression.FileSystem.dll",
             "size": 18432,
-            "sha256": "e7f2784c57088326f8de52a79426102a2250c2f31922030e9fed0cb64740e242"
+            "sha256": "d221d8ede654d31bc9d172050aebcf6583389df49ea9ca3c64b892b4d431aa93"
         },
         {
             "path": "7SealedStones_Data/Managed/System.IO.Compression.dll",
             "size": 114688,
-            "sha256": "35242ddc40f673d10767e3ab3381718864170cffbc710501374e911df700fda0"
+            "sha256": "ce68e338cd2111d37296ab573e07296f46d0ab1d62140157012662f5c1631bbf"
         },
         {
             "path": "7SealedStones_Data/Managed/System.Memory.dll",
@@ -104,12 +104,12 @@
         {
             "path": "7SealedStones_Data/Managed/System.Net.Http.dll",
             "size": 122880,
-            "sha256": "a6227de2834bc7019a10e69a7ca0bb0908d5092b8bc279ed428b27ecf583a681"
+            "sha256": "fc1d9895a57c89690cdbb390ff0e2a33139e6d55b3585ce27a975919b782f384"
         },
         {
             "path": "7SealedStones_Data/Managed/System.Numerics.dll",
             "size": 119296,
-            "sha256": "711616207139cfbf471f4f344a32ade842077314f03c19a0846a98ecace3fc5d"
+            "sha256": "10ad242e00ccc5842a18f23a5db7cb98994bb9adc9cb8e928bfa983017f7b84d"
         },
         {
             "path": "7SealedStones_Data/Managed/System.Reflection.Metadata.dll",
@@ -124,72 +124,72 @@
         {
             "path": "7SealedStones_Data/Managed/System.Runtime.Serialization.dll",
             "size": 934400,
-            "sha256": "aa96283b3009b39c4ed8dfcde146b0e0bcafa09f9be24a959d0c16dd6f54ae8a"
+            "sha256": "b5e613632bb6740233ef64eda07a9012b4b760bdbdb382cc9e8401bec181c3cd"
         },
         {
             "path": "7SealedStones_Data/Managed/System.Security.dll",
             "size": 320000,
-            "sha256": "21c2cc73f1cecc8b5bfc42171a22412dfd8e04ac42978de90c00ecb507583d62"
+            "sha256": "a2b5d9892a204c55cac80a97f115f2ed69c33616b5bc913a329d3a69e3306e33"
         },
         {
             "path": "7SealedStones_Data/Managed/System.ServiceModel.Internals.dll",
             "size": 215040,
-            "sha256": "c90168f6f28b2355c6c11d38ee39fa18f44ea839c877ccce8934bee50e7fb479"
+            "sha256": "aaa9fa4c9037fb65c82d87b6ff1b5666e41e8a2706cb4fa1669856ed546272f9"
         },
         {
             "path": "7SealedStones_Data/Managed/System.Transactions.dll",
             "size": 35328,
-            "sha256": "e5ff61cc9163810aa4c1fd9a00e929070e6733eca6d6669b7ece5169ec3739ef"
+            "sha256": "e10e97aa9723c7c6c48c96d066029ad274094ebca433768b852840455c9bf241"
         },
         {
             "path": "7SealedStones_Data/Managed/System.Xml.Linq.dll",
             "size": 136704,
-            "sha256": "638f8c5f44aab1fd5755fdf2873683f3ca0f0fb0a3aaecfdbf1d2c2280c5983e"
+            "sha256": "d1f14ecf3ce7b6584f409203a474fd32bea20b8c57a64160e419c30cc0eb3ede"
         },
         {
             "path": "7SealedStones_Data/Managed/System.Xml.dll",
             "size": 3160064,
-            "sha256": "ee620f038a3a2589a118f0e7a030fe398b082015fbf83ac1474fb55b521d0bd7"
+            "sha256": "fdead0bddf7d8817a616c09cc603868b4a44645bbc9834775c9309b059576345"
         },
         {
             "path": "7SealedStones_Data/Managed/System.dll",
             "size": 2641920,
-            "sha256": "0c49d192fc91f2eade9c12c3960d8b90161560507d96ebcc9d878a2390a2cac6"
+            "sha256": "f7a66d1ecb77d1d74840b7100eef17ebdb5aefa2957acc7d3a6cad6d2ac12304"
         },
         {
             "path": "7SealedStones_Data/Managed/UniGLTF.UniUnlit.dll",
             "size": 8192,
-            "sha256": "b385c171e138f00ea2ad9ac43332183ae17f6410781adc5041e4b978d8ab74cc"
+            "sha256": "37dee7056e70e9d0193d8a6204c926f0b5032bf834d7ebb1dcfff3e211ca9979"
         },
         {
             "path": "7SealedStones_Data/Managed/UniGLTF.Utils.dll",
             "size": 15360,
-            "sha256": "b442d277a022b7718bf5dd60cb4dad26420fa6b446875e8cd071faf54009c4eb"
+            "sha256": "a99cdeef9b18cf32079156c2d14e899099911e1e875b86d52c82fb2467adcaff"
         },
         {
             "path": "7SealedStones_Data/Managed/UniGLTF.dll",
             "size": 386048,
-            "sha256": "27e2c35c43eed8da5fc6c8c066b8c9136fb791587c7196fc3bee3ab6a082eac3"
+            "sha256": "839d0f37d68bc0f69687daf465528d20da334442861a00ebbd3cf3c45eec9744"
         },
         {
             "path": "7SealedStones_Data/Managed/UniHumanoid.dll",
             "size": 81920,
-            "sha256": "199271767f4cc792664ea424f7ebde933ce270821fac41b789093ca9cad89a76"
+            "sha256": "b1de63b5b2fac96ecb9f4e7e46c627a8864752abc0427bcb87eec49c2a2f1817"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.AI.Navigation.dll",
             "size": 23040,
-            "sha256": "49c4608df197275388aca4dc52d8ea07716fc66fa50a424259c6a47d9e6e891b"
+            "sha256": "668738bc6d551efae67ca5415602be8e1e9f7ccc2323808cc60af298201d083a"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.Addressables.dll",
             "size": 109568,
-            "sha256": "a9943c7d8f6c7712a0d85cd5316b41496b085fe141871b52439ae8f987967609"
+            "sha256": "be48ea7048f1c1c0b92c7d5031dfc9412c650cb179d89845609f7f54f814ce52"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.Burst.dll",
             "size": 5120,
-            "sha256": "8c03d01bd79e1c5592a3b13ab9fcef4613f7edc41040e3a6b2775413573f8540"
+            "sha256": "0131ab9c2cb4b7895a5c2b1f98952b44ed8414f3649c23112bc976e4bec8e6f8"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll",
@@ -199,642 +199,617 @@
         {
             "path": "7SealedStones_Data/Managed/Unity.Collections.Tests.CoreCLR.InternalJobNestedPrivate.dll",
             "size": 4608,
-            "sha256": "98792ba40ba361aed2f47afe0df7068c1284bc31a4d67b22030792552e84f4f6"
+            "sha256": "ebf98a8e6d49bec023bb47d50506289d7d3075fedd6e3c24b643b646ad27de35"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.Collections.Tests.CoreCLR.PrivateJobNested.dll",
             "size": 4096,
-            "sha256": "7143d2836a3652d5934321e654362f4bae1d277ab5ad0e621d5900f83defb86a"
+            "sha256": "932c599f94345afb2f3595d4f618365cbda85477957635e1743fba22628dab65"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.Collections.Tests.CoreCLR.ProtectedJobNested.dll",
             "size": 4096,
-            "sha256": "71da88f0292b944f728d31ad7cc5e2233df512cdb6d375feab8f09c570057506"
+            "sha256": "34883dc83c46a6e3c9fe9efbb65dc539111e76894df13ee67ef56968586bd8c9"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.Collections.Tests.CoreCLR.PublicJobPrivateGeneric.dll",
             "size": 4608,
-            "sha256": "7b3715d1392bf768954124e570d153d700ee3495eaa4d6594f169246fc4fc0df"
+            "sha256": "4dd119c6a95c61d0d1c47e84ba3498810cb62731729317a9bbb4926828d71f7a"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.Collections.dll",
-            "size": 442368,
-            "sha256": "fdc3c0fe6d0969ba0c498d3cf28e8dd38049e3be65fd213bc409069d68d194f9"
+            "size": 443904,
+            "sha256": "bd0bc6023b1794f939abb79efac26f9d4a0e0bcf267d8edea096c93cd70cf3b7"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.InputSystem.ForUI.dll",
             "size": 15360,
-            "sha256": "1703fade58eb5ccf240e7c006f7d9e73e9f3a0ab13fb60b087d32545c2679df4"
+            "sha256": "31e9df951127ccc56205538bc7ae63d926247cd3058aa91b7ebb9f9d49ee778e"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.InputSystem.dll",
-            "size": 1094656,
-            "sha256": "19b91d739920c140cab4fe9c4eb5a7713d1531122be4ea598b924539867edb7b"
+            "size": 1089024,
+            "sha256": "0055c2617599e31243ce1a547b9e99092ac39f13f5ba83a17b9dcbff3b4ab51d"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.InternalAPIEngineBridge.004.dll",
             "size": 4096,
-            "sha256": "e5ed5e2f7e193f9e32703c431e41990a0b80d2a17a3c4fa939725180b1a1fe7c"
+            "sha256": "ba28e4b7c2bf262324ed24911aa79cbe802d2baa45b51440f2b4c6148ed3cfd5"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.InternalAPIEngineBridge.ObjectDispatcher.Runtime.dll",
             "size": 5632,
-            "sha256": "652c559cc8a2b8170939a1fd033feee4cc6fc5ae6137cd5a0c4c0b0072eb9096"
+            "sha256": "22f9cf2e68017daa0cb8d22fee99d6aa0ea5feb9f9ae6bad79dd0786bf2f2148"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.InternalAPIEngineBridge.RenderPipelines.Core.Runtime.Shared.dll",
             "size": 3584,
-            "sha256": "104f95402aa21c7c16e61c1fc2ce39b31e1f2093be2dcb667e64c9360e872ce8"
+            "sha256": "08572f00c5cead897e94f47567c082a7dff9653838cda6adaed340b192581d3d"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.Mathematics.dll",
             "size": 5632,
-            "sha256": "f5ee51bf631d60b0ce13088f76788231ccfe9b6306e7ab9d03c292d1eaf3a856"
+            "sha256": "f6a111edb257101326fc0bca2e92b8282b2560b36035acea70378a729b5e2c97"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.PathTracing.Runtime.dll",
             "size": 152576,
-            "sha256": "3b28c580ce00cea3adda34fda5d8e7b907a3baffc4876875a6451e9e37531893"
+            "sha256": "39d1fabd74421c0e94ac959aa15f2fff37af1ce5c18ccfec4263a887c93b916c"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.Pipeline.Attributes.dll",
-            "size": 6144,
-            "sha256": "d315d063537e646e7c3e987d303318bacda307c8b7f545008d2ae8e420bb0726"
+            "size": 6656,
+            "sha256": "d3d7d4e5fac346cdc0434a73cad8dd156589674e88bdcb232097ba16b566b0cc"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.Profiling.Core.dll",
             "size": 8192,
-            "sha256": "bb31cc8bc74950b960b4ee78a687166860f2d8f252e40e5385f5f80d0469a07c"
+            "sha256": "58ed0d36f7300dd8703fe888ec1607ada111424107803e6e7ecd268b78415e4d"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
             "size": 7680,
-            "sha256": "eb58d69f074b9ad5aa2bba3d165b3efab3537666acd95fc8f5cb5e34fa0e6d8d"
+            "sha256": "8ffee7ad836ea0a8422a03230bdea91ae48787c668ae0d11d5fb439357a974b4"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.dll",
             "size": 11264,
-            "sha256": "e2cdbf2e996a9117258541a4683ad5f1db0d4d29529f5cdb0e86939ed45f8267"
+            "sha256": "e36f6164767755cbe2b0de1ce8d797aff9fe5cc48a216b2982faa3ba45e16433"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll",
-            "size": 1084928,
-            "sha256": "77d81bdc9ac248856f81a1c1ff3bcb34def0ecaaeb7d137dbac93270c6966954"
+            "size": 1076224,
+            "sha256": "37928e4a02903869996e62ad383aa124bb2e1af43fcc5c784e389b1ee0fc4f90"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll",
             "size": 3584,
-            "sha256": "ba854ba958f71ddfab1d340c7c2d6843e881edd6e85134a116f34ed2e2594fa9"
+            "sha256": "d1d2daa8d8972dda97468baa88f4937fe8fd72d408cf03b92429f52c6a719ce1"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.dll",
             "size": 274944,
-            "sha256": "4b363441bb2f9ea0bd67a00cfa907731cb54abe9f0fdb25f547a66f42b294488"
+            "sha256": "13c419830749063908c472b7529a962b02a6191cda4914563784175cdbeb2c9c"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
             "size": 3584,
-            "sha256": "81192ed969acf392ba5a786c6f8180501f8fe3dda435aa02e42b9f7b63f2281b"
+            "sha256": "378909e68ebeed1b14ab24e3fc9452cdb2aa091c888a5eb0eb02392eedbc1077"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.RenderPipelines.Universal.2D.Runtime.dll",
             "size": 215040,
-            "sha256": "198c6a77e8264303c8a7348e3f593b23cb9631e2e3501fcf14fcbb0b285c2bf0"
+            "sha256": "c3638b2a69a18945307db1da787c19da32d253241075e2f0dc10cafe2a59aaef"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll",
             "size": 4096,
-            "sha256": "7dab9c76017e4e314e19af1b6a65fe4757a7e433e2b93333eb3ed5faf6528496"
+            "sha256": "468ed6486aee66f307df3aa2b5031dc32f660d3686b7cb655611ff126c516a8e"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll",
-            "size": 752128,
-            "sha256": "b6aa11b2c605afffc15b094286216a590cb5470a9cd002f2906ab917ff13d243"
+            "size": 736256,
+            "sha256": "d21aa89aa5451371d5c60f96037c3b039c629ff81326fd6ffb677f126dba0370"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll",
             "size": 3584,
-            "sha256": "4bfaa637c0f373c161bf8303edcfe6b85175c018c1d338c2579d62236a07da9a"
+            "sha256": "a45d47b41e0abe8666b405c80a503f1563f2b1c048d236f5c5f859caac0a8cbd"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.ResourceManager.dll",
             "size": 132096,
-            "sha256": "304eae15f4330d430987de2178b72313383bd03fc44edaa4ffd36856ce8b23e6"
+            "sha256": "3f1d7b2a330bd4bd87d7a1fb9fc2a1ed7650982487f539909761f591791d0660"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.ScriptableBuildPipeline.dll",
             "size": 7680,
-            "sha256": "eb09b3a04668b4ebc6c5498f2ab908a02e6b9510b9a588c7c2cc1efabc2a4d2a"
+            "sha256": "48fdc80e1c6b78717e4b9ab0e11556484ac6b1971a76b5ad544a4fcf63efc2cc"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.Scripting.dll",
             "size": 70576,
-            "sha256": "8c4747bcf30dc12f2f1dedd4728573d91d3542c381453e00665eabfca029d1e1"
+            "sha256": "53ab214b5cc329702c20e64f71f31bb991fd94fa93f9befa498610b8236c82e0"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.SurfaceCache.Runtime.dll",
             "size": 35840,
-            "sha256": "006b7c650d3d290c8b00ad033c58bec202c8f3a9f78374678c9d0557361d2aee"
+            "sha256": "af4a125a0e206e3fdec3ca99d4c394ccd4cc67d011175a28459dba037edeb409"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.TextMeshPro.dll",
-            "size": 438784,
-            "sha256": "0e17aee154579c6e7b453ab81f73e5226453029bf9a5c684ea6c7e46de8ea435"
+            "size": 440320,
+            "sha256": "270443728b8a4065ecc6d443fdc60e6a7dbfb553adf9dcb88cea18624bef4145"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.Timeline.dll",
             "size": 120832,
-            "sha256": "78c853d5b36a42b8eecc346db79a5669580e974afc56ccd8fd583922496c2624"
+            "sha256": "637167b6717762ee4fcaa881bbf20f219f701c860195d61d0fecb2145300d3f8"
         },
         {
             "path": "7SealedStones_Data/Managed/Unity.UnifiedRayTracing.Runtime.dll",
             "size": 101376,
-            "sha256": "5c6dc65311b645009abb38e1e68ffb2754b70365aa4ffe9199715d28b6760248"
-        },
-        {
-            "path": "7SealedStones_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll",
-            "size": 86016,
-            "sha256": "ed7ce205f66eafe39bbb5d084d42e7fe11cb4b386ff208e5d5110891be0b7b37"
-        },
-        {
-            "path": "7SealedStones_Data/Managed/Unity.VisualScripting.Core.dll",
-            "size": 550400,
-            "sha256": "6a807c0dccc57951e61843a64d59bf9c0ec2781a3a29de80f315ed24906b9be6"
-        },
-        {
-            "path": "7SealedStones_Data/Managed/Unity.VisualScripting.DocCodeExamples.dll",
-            "size": 6144,
-            "sha256": "ee942470cad5a7f27cd1792acd334670ad54a7cd6c7885604bae7841888ce9be"
-        },
-        {
-            "path": "7SealedStones_Data/Managed/Unity.VisualScripting.Flow.dll",
-            "size": 335872,
-            "sha256": "d514eaacfb84b0000c3c4b9ca5b0dcb0a8fad67a2d64b179b480284bd4677887"
-        },
-        {
-            "path": "7SealedStones_Data/Managed/Unity.VisualScripting.State.dll",
-            "size": 27136,
-            "sha256": "cd937d986c10d7071ae8b15c6fb59231b4bd126ffefcd0c5fd045a124931c9e8"
+            "sha256": "c31763fe0d3176524f107a6aa52b0c96d6e010df680bd1d151a1df0c4bc62429"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.AIModule.dll",
             "size": 87472,
-            "sha256": "5cebf3778d34d156c48a43f2d672059ff6d469009648a21de00eeee6a8f1cb5c"
+            "sha256": "1bcf1b74532457ee06422c44144c55a9bc470dc8f4bbc50b476858c2e4848ca3"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.AMDModule.dll",
-            "size": 21928,
-            "sha256": "ed9d62ed0d4ba6533e44d79a16527421388c802c7dd07f97a7faac75f8eccfe0"
+            "size": 21936,
+            "sha256": "c1833db6062471ca3a1a5259979f07f9d4d5b5bbd08535a21f1ebd18d4cc4ddf"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.ARModule.dll",
             "size": 27568,
-            "sha256": "05fb5556a550b5783178baa3be175ebb3675049bafe9a50d8fa4f04b77fbd8c1"
+            "sha256": "d8f08fa3d63621acdfba3d641acf819ba262f48995eea36e1d3a4e5450fba6ad"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.AccessibilityModule.dll",
-            "size": 49576,
-            "sha256": "7974715559c4536fd5f0883a71623ae20fa1550592cfe0fd18f77c2c49e4ffa8"
+            "size": 49584,
+            "sha256": "c00102f94241fec153db08939d9412acc800500b50b800684682b8267e9d98e6"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.AdaptivePerformanceModule.dll",
-            "size": 122288,
-            "sha256": "df46619985dda3a39e7e21c6f2a5b341ac67cf4c6fd87668aed464d5d36044e5"
+            "size": 122280,
+            "sha256": "f1a7ef51f7ef4348a8032fe8fd2c7805b1b98a5e08bc8914e2cc4ada9c22d0f6"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.AndroidJNIModule.dll",
-            "size": 121264,
-            "sha256": "ec1d36e4d45608cf0061bc57b8bbe5e594501933d72a0f4adaf2de50d5dd71af"
+            "size": 121256,
+            "sha256": "840113117ebef4831c885c2fbeae1ff8dc270318ff4a4a49420f41fc7e450f6a"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.AnimationModule.dll",
-            "size": 218032,
-            "sha256": "7c37d3c57d9da1f084664545196e4ba54f73bfeeae74d0b87034727a5c29c4d1"
+            "size": 218024,
+            "sha256": "fba418a32ecbcf46d175961e27618677c26e7e2efbd8c227b042ee6da9d85b20"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.AssetBundleModule.dll",
             "size": 42928,
-            "sha256": "4e40fceb13ad014375fa927a9ca5048f3a9a4aa248601350038735da2912a73f"
+            "sha256": "76aba452ddef51b758dc7162dfb4291b4213a8ab2cae824abde725a55b9737ef"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.AudioModule.dll",
             "size": 142248,
-            "sha256": "59080227ddaa590fbaa77fdc191ba914a3fd5c5033e5c38bb071b756ce4a46a6"
+            "sha256": "5cea0fa111f6a594f1ba70ab059d2d1317972213e62ef99879693134b5400226"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.BurstModule.dll",
-            "size": 337840,
-            "sha256": "d03a0a9d816b65faa65948b7e8cfe700393512b598c60cc47e4252d02d63871d"
+            "size": 337832,
+            "sha256": "6db1906c74890ba3d6c8fd5cd1fa46b870e48433e2476be1a17db02f8499709b"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.ClothModule.dll",
             "size": 38320,
-            "sha256": "8bc82f0f0f44291af701f139f90e10d0c7f0c6d31c82e116b4206b1c93d55e9c"
+            "sha256": "c3359d2506f61d7c99c0f83cd41cea85c264f1b5fa6b95efa64331161cc72520"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.ClusterInputModule.dll",
-            "size": 30128,
-            "sha256": "4b5187ab5a2da07d6db5b94798b0ec5489eb021ceb46a114c29fa85d405bc565"
+            "size": 30120,
+            "sha256": "3021503f52a1ce9b6de1ae4402b1935f3f9e5c2b3f3963073811b56aa0f3472e"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.ClusterRendererModule.dll",
-            "size": 28584,
-            "sha256": "4fd18dab7973711121af0f7807dcf868f89d92faa098fa82189ba5c6870dd9e9"
+            "size": 28592,
+            "sha256": "4548e8cbba37a6efe6bb799acebd14dfc780ac6bb7cd61a79fbb78cd6105f626"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.ContentLoadModule.dll",
-            "size": 56240,
-            "sha256": "de8cc68386c64ed0d8dfd537113a8dc619dc175aefabf20089776f85f8d471f7"
+            "size": 56232,
+            "sha256": "c87fa9927dd947d515437aaff0a02519df0b3cf5b075daf5a980dbb88c79e67f"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.CoreModule.dll",
             "size": 2030504,
-            "sha256": "cd9b944eeec81dcb41296fa1b897a469a232eca30cf5fe105428bddcf7f8e79a"
+            "sha256": "957c23d330e2178effe4bda021cb8749f8d8d406bc2012ab8c98a6db0eba175f"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.CrashReportingModule.dll",
-            "size": 28592,
-            "sha256": "9fcfa6ab5730d03c6ed80d214967ac11899b30cdd4c16bf42072f7edd9938117"
+            "size": 28584,
+            "sha256": "3ba8d5bea102a35c0f0e4c3ca2fb97d8ecca4eaa76060433ce25cc33a6603384"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.DSPGraphModule.dll",
-            "size": 33712,
-            "sha256": "9577911c07010dd1acb3c5a28a7cb83c7eabee03f8393aef0e5060fa8cffffb2"
+            "size": 33704,
+            "sha256": "0de3bbc63ccf3682f68fb576467584de44cad9273ebd9a8f39ec04eaf2d3ad99"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.DirectorModule.dll",
             "size": 42928,
-            "sha256": "de6c9529e233cc13a0c27c3b6b96e54de8b27ce6610c087bc0f0ad6d6c21e567"
+            "sha256": "5c0a7a625977c9307a778e1c5013917a439e606ae299b0706a3434d5b15f86ad"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.GIModule.dll",
             "size": 26032,
-            "sha256": "c6935ff113aef523f5b4c974fe91a37bcbba3948ceea68d3a75205fe00a6bd66"
+            "sha256": "8ba968f1c0ce3813ea829f692d8f391a7baa0f44413803e1c555510942702456"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.GameCenterModule.dll",
-            "size": 46512,
-            "sha256": "a4d59b79f9415a17feeb22220e1e8e47d37070ce18ee65a6ea2aa460aed20e8c"
+            "size": 46504,
+            "sha256": "85d274d5839f328c77de2a9a411b6ff5c3273c5abecf207581cdf2cc6a0b6554"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll",
             "size": 14256,
-            "sha256": "58e840b92ccb052a0ace6e329d6afb28afec15b0255c7b5938ca3f04b50864f1"
+            "sha256": "8b36edd5cb4745844fe84732f68b59a6efaa0e64003ba8403693499aabe6a631"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.GridModule.dll",
             "size": 32688,
-            "sha256": "b1dd2179f1497edbf86b55f2ded47111f86bf0b1c8bf8660aa022c4631a10247"
+            "sha256": "83e2ca067f5db330ac534b9144f6bbad0bd44dc23a6b5663639f86da0534d37f"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.HierarchyCoreModule.dll",
-            "size": 113584,
-            "sha256": "bddcca3f57793bf602dd9a5cbfec0737758c0029f2c2c465b6d41d62a3dde814"
+            "size": 114608,
+            "sha256": "9103aeda2704b9dd97052496398bc54a640785c790af6a7249d98a2734e17f04"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.HierarchyModule.dll",
-            "size": 114600,
-            "sha256": "e1282e96be9a5ef28cd30c3b4c25a61c4c3853852ea7f51e3e0ce275bae7d13c"
+            "size": 117168,
+            "sha256": "99ae2a5cce3b492c6c26818c53691b5c57f5b4cf6e6002b314c9d0459859e288"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.HotReloadModule.dll",
             "size": 26024,
-            "sha256": "0cf0629004df5656c34e56df85a30d83b259a5d9ce521c6abab11941709d8492"
+            "sha256": "74e637bf13b34e586dcfa6584395eb5d6e210e77878cc495d4950d53f1e4df24"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.IMGUIModule.dll",
-            "size": 190896,
-            "sha256": "b513f3f9238b46527b5edf22db3becff8644dc763b0f0b2cda1913cff97d043c"
+            "size": 191920,
+            "sha256": "ace052a9426fdf9c41e64b9619818c802541b888fcb34035876915ef40267c37"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.IdentifiersModule.dll",
             "size": 16816,
-            "sha256": "1965201a08f7cda99eff2d25967898877fc58ce59a940849f9aeae9634673c39"
+            "sha256": "245fe9769bb2d51a737e9f71899cde96399069b62568d680df619d6554d8213c"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.ImageConversionModule.dll",
-            "size": 34216,
-            "sha256": "e704b711049a7b84e5c299a1869eaded0f51f7a515f96086497fef58c2f353b0"
+            "size": 34224,
+            "sha256": "6a4ff449ce3fd1ccc9ad46aad7686ff01b0092842718797c753209cb39093d4e"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.InputForUIModule.dll",
-            "size": 56744,
-            "sha256": "a5618c460d331557776e6f32f57ce5ddfbc3ba2c76a2cd68164e058dc80554a4"
+            "size": 56752,
+            "sha256": "7f051c08279f409b25fdbad976fa01f6ee873c91e0fa9f31c583481f065f1449"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.InputLegacyModule.dll",
             "size": 42928,
-            "sha256": "c2e499d54e1c6214c721569f97e3783dd75380b46757e0df214d5c1a0e60a879"
+            "sha256": "b36fc67eddadde63d9c0bf53af314eea74883386ae8406d27567ef26b89b8b28"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.InputModule.dll",
-            "size": 32688,
-            "sha256": "5733b1fa56a53ac7540259abef65d731b96ea052be819e4cde4d4bd4bde78822"
+            "size": 32680,
+            "sha256": "510fe0623c4f8bf39221861605c29be74b6cd4a02c9d751f24e879951cf05226"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.InsightsModule.dll",
             "size": 15784,
-            "sha256": "85c904a566b01f02f81984090dda8828ca6e9548b1a85a69e00fa43862540206"
+            "sha256": "3793290b8ec42954eb780d5501479e6e242eb516ba304e6521f7678e01cc965a"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.JSONSerializeModule.dll",
-            "size": 29104,
-            "sha256": "bfc7332c15f222049b1e08ea9d04436473565ff452e8a917b7e7f2dc8b5d4410"
+            "size": 29096,
+            "sha256": "55c7afef07c8872f8e110b2b61836c050a4e3b87b24228b282141f621472b00f"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.LocalizationModule.dll",
             "size": 29104,
-            "sha256": "9be10e6ad2b7eb9e4b2bf3b5e3eb3b5b2fd482db3d44103e4e5ffc7c79827a13"
+            "sha256": "789d956c0c403406a9229c5a026897cd7c883b02f5d807b381bc65ec76d7c67b"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.ManagedKernelModule.dll",
-            "size": 14248,
-            "sha256": "9709ff4c584f6e8951b6be4cc1be4a286e0e7ac1c2eca2414d9fcb95eb4ce804"
+            "size": 14256,
+            "sha256": "6eae37905bc1a8132d2d9fc1043b0ac05ab8ab4a4c528c9bdbe5b6efae0b0f52"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.MarshallingModule.dll",
-            "size": 100776,
-            "sha256": "a8a5a7966d2e12de7925ce0589123c128466acbdff58eb80fc785eee4e7a3372"
+            "size": 100784,
+            "sha256": "17992d81bb146144c3f3ac39a2c02474f2e3615d33368694a3973451ea824c40"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.MathematicsModule.dll",
             "size": 740784,
-            "sha256": "c8fe32822348e811de772d671af7c86dec2dc9a334314039af8ffcfed350e624"
+            "sha256": "91d9baed094baeb44534eb143c6bd0512caf2697f6942ccc76007b1b6fc24a28"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.MultiplayerModule.dll",
             "size": 18352,
-            "sha256": "c122e97c0e0cc8f3cc82aa54bc75121f7179f12e543dc1d051a2140f85aca390"
+            "sha256": "c94981260578bca956026161304ad88fae7de4c6c4bc484d3fc5f1082f75d0bd"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.NVIDIAModule.dll",
-            "size": 41384,
-            "sha256": "40a3977a6e6393d92e849908e904f67bd714ba8e6615bc452f8997c41087f5b1"
+            "size": 41392,
+            "sha256": "803fd6bae6a7f5ce511c2ad876f37d01f3f1894da445504b20cac40b086f59e3"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.ParticleSystemModule.dll",
-            "size": 169392,
-            "sha256": "15002826788a11fbcc0021010c828e0c356b338cbedd57a5e587971b8390c486"
+            "size": 170416,
+            "sha256": "378f770a4633d2628105a5c9f2fbe0ca1712a6402114ac2cb34950b4ca4f076b"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
-            "size": 27048,
-            "sha256": "c10f0f6956cb83798c86025b43b0411b1fb28caa4999c7111823ea2a681920d1"
+            "size": 27056,
+            "sha256": "32db47ceb72b497f2e0036cc93e70ba80f2d9a4147a2eea763e0b60087501377"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.Physics2DModule.dll",
-            "size": 222632,
-            "sha256": "9276f44fae7093d21f5e821733b64e90fb4c3025940fec55a6d7120609beb3ca"
+            "size": 222640,
+            "sha256": "75842b91c28c4c9202df446ce0bf6efb00f4e80ac2250bd734cdbe4967127a00"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.PhysicsBackendPhysXModule.dll",
             "size": 14256,
-            "sha256": "562da865c1c5aa1e2fb8a8f030e9f5529c9a30fb67863e7382076ce9645b29b5"
+            "sha256": "8ae8cdad4c8c0c1d28febb463cd1e41d76c95482040dc2bee992902586a248f7"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.PhysicsCore2DModule.dll",
-            "size": 482728,
-            "sha256": "d6c9c4a710008c672e74fa3c0f9e24da9dda36bf72ded298a900444d353802c3"
+            "size": 481192,
+            "sha256": "9c329c52a02962cee6aa2d8c7fdc40f40fcae9d139f52e20be8381d150f3cd1b"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.PhysicsModule.dll",
-            "size": 181680,
-            "sha256": "55f7feeb1eac91da5a90c61b867e8be052eb60975770b46cdf6fe48ad1e43766"
+            "size": 181672,
+            "sha256": "2a0adcddf1a0c0a0687445e9a06e187249289e4e788ea315a1d8784f393946ee"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.PropertiesModule.dll",
             "size": 124840,
-            "sha256": "2290ed63e934b58b72f3b54a115c764389b6c10790f2846e5ced0fe33c6b957d"
+            "sha256": "ab289a26978bc28ad743d87f6cd6445fccb1b4f588fbaed0801cb563a447504a"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.RenderAs2DModule.dll",
-            "size": 27568,
-            "sha256": "e6c34221773cc906af3011d0536ad124b13a744ef616253dc0f0ee11968e2256"
+            "size": 27560,
+            "sha256": "eeec4b59e3c673d061e4f75ef376cffd8e52c494e68f119323177b5c0283b155"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
             "size": 26032,
-            "sha256": "9f4281350bfa0f1effad38cbe08b89fdffb4e6bea764e969fc5242b2217ad086"
+            "sha256": "a728c2f3a28edf711494783cf5c86821715a10dd6874371660139104e240d642"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
             "size": 28080,
-            "sha256": "e98ca64f0c35676281baeb0179f7836350444f5235658d35103bbb5187659616"
+            "sha256": "f76237cdc7b2f5d2dc3fc3e04feddf87cc4dbab96185e98774edcc86397abe3d"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.ScriptingModule.dll",
-            "size": 65960,
-            "sha256": "45a150fe521b1fbcb7a78b2bee6aeab292624ffc6fc4b48c4e283d4f9afc2c03"
+            "size": 65968,
+            "sha256": "198355e3872f0a5f1fb6e0c41a221f7d8b254e33eace8a1e7a067184b21118fe"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll",
             "size": 26032,
-            "sha256": "9adfb2012411deaba89798b101a81e2db9f325e27c391899e7b9c40e66ecea53"
+            "sha256": "9df089927e6d80cec2aa89c3f488d2283be0b256dd8bd04306c207799aa15dbe"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.SpriteMaskModule.dll",
-            "size": 30640,
-            "sha256": "4e5969c13d7ea475573b11464c15a2a62e54c2f63ee8ab34d2cebe282ae76e8d"
+            "size": 30632,
+            "sha256": "83e5fd0c9b92fcf07b188419dcc4f21db8f645050cda1cb95e10d88e5a94c4cc"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.SpriteShapeModule.dll",
             "size": 34216,
-            "sha256": "c0dd7a722068e7b1900a2389c0b826ab2fad7640cd45423cef26050cd94de859"
+            "sha256": "83b86c99d01ef30f550bd7e3605c19141e7ee050dbcad42519520f74adc9a7db"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.StreamingModule.dll",
-            "size": 28072,
-            "sha256": "c5e78c50f00dcf819c8d9d715c9666e1d1355d3eb6233178476a5b6210c87d15"
+            "size": 28080,
+            "sha256": "4ffadc5cfac944f26c1dd2d892b5920f3d775eddec6f563cd52170b05195e58d"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.SubstanceModule.dll",
-            "size": 31152,
-            "sha256": "8dc266992f010522535a02f1447e4b96b1a7b0a2f067ee59343a44be4be54c8d"
+            "size": 31144,
+            "sha256": "cc1570a65360eda153ee34c566fadb16055e537cbfe48ae01a60abc3cefc3aae"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.SubsystemsModule.dll",
             "size": 42928,
-            "sha256": "4f8b2add0d34418049ec8f3a423cbe032a0d8c1caa3c73285c8338469d405847"
+            "sha256": "4a2a55dfcd7397df166af405c4a42c2d9913ddd63d33dac5e480b2d367aeda93"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.TLSModule.dll",
             "size": 34224,
-            "sha256": "d433987da7f14bb7b5fe665ba75e8f0686c9bfdecd8f8e268ca402af935ab26e"
+            "sha256": "67821ae08f3e702d156ce93ee3025150ba01a45d57be8280d2162e451ef52887"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.TerrainModule.dll",
             "size": 132520,
-            "sha256": "6f2cf145d430baafb52ff69700867df08a039d18e99a42fdff97bfde25584cc3"
+            "sha256": "05a55f2e7daf41201c4b2ae8c8c271829d358dcb23cf21e06d9d27ae6022399d"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
-            "size": 27560,
-            "sha256": "68c5f78e3c3982e23d55745dc76c21b8bc738155288166e6b6d6e686c57f4dba"
+            "size": 27568,
+            "sha256": "fc99213b48e93f6116d9199285f7ce92788ce9e07554aefbed8e643860b3cfe8"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.TetgenModule.dll",
-            "size": 26024,
-            "sha256": "88e000f876c5a13e08fd85489cbe2b6ed75b4a845b6550c38dacce45c190bbc9"
+            "size": 26032,
+            "sha256": "da099d65a6a2351ea1eda129f3c5e258bcc929883a30d797f39e9f3c09fb568c"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
-            "size": 86448,
-            "sha256": "e34833bf42e43a812718dd6bfb2a9e2dece1e0f110d03dad30645be4a137843e"
+            "size": 86440,
+            "sha256": "f090fe8e906210ce38740c027e867b2ec3f52bba2337541af86b28708f817e2f"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
-            "size": 314288,
-            "sha256": "be2e2036806a65f5100c78d5edd581e372103796ea6f6cbfe0b6588f12f5a424"
+            "size": 314800,
+            "sha256": "f4bd7432613b2779e399a38db06498a24e53b72cf7fcf2faab6a256812ef9502"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.TextRenderingModule.dll",
             "size": 39344,
-            "sha256": "b6ead9ae24b7e2b41f6dc8de309f918edda4dc9f0a72308e47f0ca5fb829bd4a"
+            "sha256": "b5fedb246c07e2f79b00681362e22ed8e902396621671c421750edf8138e21ed"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.TilemapModule.dll",
             "size": 75688,
-            "sha256": "e7c4405bb958ae996fce1ed43811a5b8e5b4aeab83309a7e981757718ba76034"
+            "sha256": "99c21b2145a8ea5b75a33e5d1cf6c5da742ced302040807f0e12b5649cbd0bce"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.TimelineFoundationModule.dll",
-            "size": 167336,
-            "sha256": "aee08b12b23ad51c309ef058745e67893749d57e53c2ce1973769439f11af978"
+            "size": 167344,
+            "sha256": "764b3e2b2887c041330f0007ee86c8e92d5eec94c8bcba8534d645db21728b0a"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.U2DRuntimeModule.dll",
-            "size": 73640,
-            "sha256": "c3a915c4ad23d7f995770f19742fb7818d76bbe98308c66f1c03b3c1d36a8c12"
+            "size": 73648,
+            "sha256": "ab889bdc7a6922f0ecbc269b955064faba48d2fbffb5897846249a9c716f4286"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.UI.dll",
             "size": 269312,
-            "sha256": "cd1c3fe15def8ef485d2ce9aabf579c4ff23a7331a6f6ff7be19dd0d6ccbc129"
+            "sha256": "5b24b3aa1ed7d7645a10598611a36b26814ad26d75bf7db97cd65b6eef663ea2"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.UIElementsModule.dll",
-            "size": 2538920,
-            "sha256": "4ec407cdfc86fe7d50cee66c5696fc9f72e678e584d3794dcefe6345a5dfa96a"
+            "size": 2552232,
+            "sha256": "94f1103ee1538fb226a3159d6cdbbd7bb72a8f18c46c8c09f02de9907849f245"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.UIModule.dll",
-            "size": 57256,
-            "sha256": "9dd7c3e52446b4d43073632926f599e1baa7d50ccbd3cd53f768c9a2578df7a8"
+            "size": 57264,
+            "sha256": "3ab5610e834dac2dded955357a912f40dc9571cb8e58ac17679f28a85faef308"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.UmbraModule.dll",
             "size": 26032,
-            "sha256": "43d102dd3eec99c310df811e7d24f842da700b3bb6c531552ccfdc8efaa3cfd9"
+            "sha256": "3e7743dcd17ae9ab30071e4c7be81e39ff66c57f0439122e7c21803ba86f6d61"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll",
             "size": 36776,
-            "sha256": "dd23dc1c11639fb7b3c7705636751d3631ee0e6becd254620709f52bd637d2df"
+            "sha256": "8ebbcb289293c6443ee4a6a39397da27acddda82f5e3fb1f3b34586b0f9fbd7c"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
             "size": 61864,
-            "sha256": "91846128e4f568951190674f61888f3c16a7eadc28bc3a3978a34829f45e9e16"
+            "sha256": "993e7b95c963eafa0ea03d728e05a1470bd18bf4ddfe8d9dc11b8376c3d6f37b"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.UnityConnectModule.dll",
-            "size": 29608,
-            "sha256": "b078c9654c9d3d84c3fe508440cb498a437eda0891f39b4b1755c156295615af"
+            "size": 29616,
+            "sha256": "59bd862d6ff02ecd0536e40a4696e6b6eb3b5fe9e0c7d41eeeae62e163731a42"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.UnityConsentModule.dll",
-            "size": 16296,
-            "sha256": "553eb862ce01e7a4b57296b953e908e55ddcd5fb814bb8c018684884b70463c0"
+            "size": 16304,
+            "sha256": "c5f8784a2e52b9f20330b507295ba4cbefe6a70a5a91f39a87610c0a6042dab8"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.UnityCurlModule.dll",
             "size": 28072,
-            "sha256": "54980299458f10370726c74af04f15ca84587d1c8f5f94a88a43f905d37760f3"
+            "sha256": "fbebe3cd6f3bb6693b137268be0b73ba4e2eed81e8f18397ae99078918fd7323"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
             "size": 30640,
-            "sha256": "cf4e85e7b529e6b5f1b26b239f7a543a51cd566c6f8ea57677bf1a50f7eb5580"
+            "sha256": "f1cc2c9beaccf363d8bcd61bfa18a685e40ea1af55ec6576e25134d3f7bbd79b"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
             "size": 30632,
-            "sha256": "a61a7f229c0d0bf4d1f3b31f12c7f09a2cc2c8133dda52daf98e99dcd0498f6f"
+            "sha256": "4d845c1af998bbd78e7653e12b71b3e7d6bb259f2f9829d337a6725fe6d43a54"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
-            "size": 81320,
-            "sha256": "1d5378df36ec8627bfff9748e1f8118d44d93ebf5487194424e2c8c649484323"
+            "size": 81328,
+            "sha256": "f9e5893bab929d45b605cbaced026a64ac2943420a0ef463d0e52b03c9da2420"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
-            "size": 29616,
-            "sha256": "af791955738bd28654ee5c80564c0d91f76d10346370d6a4a5a40cff301c7bf7"
+            "size": 29608,
+            "sha256": "0eb45a489e67197d9126ea2505810392cb396618fc0d2eaa712f53ba1a9fbf7b"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
             "size": 35248,
-            "sha256": "f985e9fe0647f6ee4e37bcc1466c96906f4902dfe4877669a73f50835e4cf757"
+            "sha256": "0b792669540438f24f1aba8a24a0df57c49b218825332f3376e919bcf1aab285"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.VFXModule.dll",
             "size": 82352,
-            "sha256": "e788201e60b8a129adeb1f07944a45002f49dfcc08bb27a503a23be5f08deb4a"
+            "sha256": "38a4ff3fc6e0256e0eb39da52f70f76e167bbaf0f9f43f853a691b6f3da2c7fb"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.VectorGraphicsModule.dll",
-            "size": 229808,
-            "sha256": "9a186ad47c4f2e4d978bbf5c88e92ab81b68b5d4262474e55fffddf1e812b119"
+            "size": 231336,
+            "sha256": "52fc06d609c516b305867deb3d9879fcb2a4c76fcc0993da981595e7e43faeb0"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.VehiclesModule.dll",
             "size": 33200,
-            "sha256": "85fe08c2a5965cf4f274fd20e915b38905e21638d38b6a307696dae12d9cbd75"
+            "sha256": "3afa6b698444c44e0c8eefb37c8816601f063a00dfd37c4bf51efbcc1e899c98"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.VideoModule.dll",
-            "size": 48560,
-            "sha256": "e549f9a4e1a4a53f678bb898fddc33801e8d6c1b2490793995cb99840685d6c0"
+            "size": 48552,
+            "sha256": "d00897681f27b05807c8ae36d952916e3b85e22782bc3d7f744ace914d9d827e"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.VirtualTexturingModule.dll",
             "size": 43952,
-            "sha256": "f91bbba424ec23cfc0293ca08ba6994bb7525e7e123ed05ddda3d02528af04ea"
+            "sha256": "4ab483ae111a485cf7cf2ad22647a1d535b2dfb5838986a122829bdfc3f51179"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.WindModule.dll",
             "size": 28584,
-            "sha256": "e91293c8a373e40ad06d82a2e7fe98ecaab4f5dfe15867990ff8460f9f28847b"
+            "sha256": "173c414b4049ec2f3a7e530c48176bbd022e4d79f7de8276349bd98e6d60649b"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.XRModule.dll",
             "size": 96176,
-            "sha256": "7fdd88e0e9e26c6491530271743a983af2359cbf7cdce37fc3a86c1fae838ad6"
+            "sha256": "48d3fa89c3ea1a696936efa85d45b0b675a90714fb9b5b58b88d313e92d23448"
         },
         {
             "path": "7SealedStones_Data/Managed/UnityEngine.dll",
-            "size": 225704,
-            "sha256": "bec3a8aa71e5ae01ae325a83fdd8d9f7994c3b598def4ced1a72b1f4734ef661"
+            "size": 226216,
+            "sha256": "0b5700b6f374e0f13740b11d1777051d5aa67b899184940bb9fadb5522df4915"
         },
         {
             "path": "7SealedStones_Data/Managed/VRM10.MToon10.dll",
             "size": 28672,
-            "sha256": "068c251c483ac340b3f43e65bb5786df18d4e51a4e847728640315392e896f0c"
+            "sha256": "2e85f3db99bf812a572943a8e641e54ba147128bce631da4f97453b7a3f53b31"
         },
         {
             "path": "7SealedStones_Data/Managed/VRM10.dll",
             "size": 578048,
-            "sha256": "f296996fe50e7983f34b3a5f5e457542dd29bb8502e313422d25f4997d5c9c49"
+            "sha256": "97e6f80d12fba393c194cbd1d32b079627e298150b18c5c17107956da5bad038"
         },
         {
             "path": "7SealedStones_Data/Managed/VrmLib.dll",
             "size": 59392,
-            "sha256": "94cb9d955b07dc44f2cd6c22664d86b8329dc09339e7daad81be4d661e72750f"
+            "sha256": "86ec408648e86a2aa4f9dff54c55facfd5ca19b22cff1d333096d57d03f1c49e"
         },
         {
             "path": "7SealedStones_Data/Managed/mscorlib.dll",
             "size": 4632064,
-            "sha256": "acbfa8295da5b5e5a2c68c7b2dbc9cd7a5829c0ae031af22be4f6a49fd626f8f"
+            "sha256": "ed3bd3b757069e96c26bfdec8179abd00feef8839ae3ad97f51637c12d83efd8"
         },
         {
             "path": "7SealedStones_Data/Managed/netstandard.dll",
@@ -844,12 +819,7 @@
         {
             "path": "7SealedStones_Data/Plugins/x86_64/lib_burst_generated.dll",
             "size": 584704,
-            "sha256": "bd29ae9407a21fa5ef9b839441fcf08111f54bf127e102c96d23db16ef9ead88"
-        },
-        {
-            "path": "7SealedStones_Data/Plugins/x86_64/libonigwrap.dll",
-            "size": 551336,
-            "sha256": "c22db1e7be04c50eb47e67362bf705830bb95df30c02c22dd7add835ee777583"
+            "sha256": "f2eb3520060810310432c3b18b11a0de311b624a8f9b78bd240d8fea30f34e20"
         },
         {
             "path": "7SealedStones_Data/Resources/unity default resources",
@@ -858,18 +828,18 @@
         },
         {
             "path": "7SealedStones_Data/Resources/unity_builtin_extra",
-            "size": 527988,
-            "sha256": "47b9b780ff746df18eecc365a9983915b93e8355aa6daf3e491ac47963ba3f5b"
+            "size": 540196,
+            "sha256": "658a64378fc07fd05392b6b5d332a8300527459ee2fedbc3cfe0ff07c5ca7daf"
         },
         {
             "path": "7SealedStones_Data/RuntimeInitializeOnLoads.json",
-            "size": 11430,
-            "sha256": "5bbd81bfda459767054b0f3545f26b1dc53367de67f5b8faeacb33ce64429dd8"
+            "size": 10663,
+            "sha256": "fade975bbce3b5494d854eb73108cbc5c70a02ee9d05ceb7fbcaef8efe6cc175"
         },
         {
             "path": "7SealedStones_Data/ScriptingAssemblies.json",
-            "size": 5349,
-            "sha256": "b3f9fe91dd3f0fe749ffff271beb7d316846cb23d7dee007ac6f0e9f1505b962"
+            "size": 5147,
+            "sha256": "e066c980fefada2d797a0f7dde0442b15174084e805263662cfeeee292262ff2"
         },
         {
             "path": "7SealedStones_Data/StreamingAssets/Boss/ch00_boss.mp4",
@@ -903,143 +873,148 @@
         },
         {
             "path": "7SealedStones_Data/StreamingAssets/aa/AddressablesLink/link.xml",
-            "size": 11185,
-            "sha256": "a36b9d79b3d986646f301f3f65a21f6c3259d6a50fcf13da9b542ef48c8d9f5c"
+            "size": 11860,
+            "sha256": "1f788c97e4f3e3a3a2ef81d4da8430821de1159f6249315b12c5efa685ca23f0"
         },
         {
-            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/da98714994fceda389790a21a966c7a0_monoscripts_3f6c6d2f108655f0e7f67aabdd466657.bundle",
-            "size": 5517,
-            "sha256": "acf632bf47cfc6c570ee8b430552551fae1089910e523d89bec5a3cc9b13d5ff"
+            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/800ec3f3eeff654ac9d2727f0eed19fa_monoscripts_cb6da58c33226dc86c70d5bb29bfc342.bundle",
+            "size": 5821,
+            "sha256": "f03ac1caa998fec6ab63881fe990039926c17d53578159c5425c95e383d7977e"
         },
         {
-            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/da98714994fceda389790a21a966c7a0_unitybuiltinassets_693976d4ced886cb9ddf618ad63517cf.bundle",
-            "size": 170645,
-            "sha256": "038c4a4876d0f0c33d38981fd6dd56f014c09e502b42212bfad0b3af0384d901"
+            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/800ec3f3eeff654ac9d2727f0eed19fa_unitybuiltinassets_516550211ce35f6d78f8585b2dae7245.bundle",
+            "size": 167195,
+            "sha256": "79860136782032364f7da7b9c1e3b02bdd5567059a60b83f313a7e200b6bd412"
         },
         {
-            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_armorlooks_coat_47aa29d60386dbeffb9f87972186dcae.bundle",
-            "size": 3434798,
-            "sha256": "19f0678eddd96dcf3491697c979cf3a7c06e213f8fa5ca9b84effc133e88221f"
+            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_armorlooks_cloth_a97b8b808388c09f460203041cde093e.bundle",
+            "size": 475099,
+            "sha256": "e8b291eadb35f152064f7be4ca2281c9908ab1a0c42495c71f994aae25289c79"
         },
         {
-            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_armorlooks_leather_68fe44057a7bb24a4944fccec890612a.bundle",
-            "size": 3694562,
-            "sha256": "e116e589bde38067e24131da11bbf180cf94258c43e37541658f58ddc624b107"
+            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_armorlooks_coat_ca44cb914533800c626aaabc48c1135d.bundle",
+            "size": 1057445,
+            "sha256": "259634b80f3d4e0cd30cb7d6c6048fd54707aa2b182715250cee2003b33a841d"
         },
         {
-            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_armorlooks_robe_751a67e27af57091c1a864e6f01dcf88.bundle",
-            "size": 3492631,
-            "sha256": "28a3692a1a8fca67d77eae7329ea9f629db3ff0c37022699300227324368aae4"
+            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_armorlooks_leather_fbfb88cee7eff9e303224365fcd89bc9.bundle",
+            "size": 1057741,
+            "sha256": "b58e41bda301df0810d12a3f59e443d8e0bc4e4ca81515d61e2379df42d68d81"
         },
         {
-            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_a_hero_shield_451a2e971c041c12a3c49eb68ff590a5.bundle",
-            "size": 195752,
-            "sha256": "14fc51d2ab539d78bc67b117496d8989bfbbd323e33b4ff54aec6098a1c48201"
+            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_armorlooks_robe_a33c4c8fedf4468c6924324491b99397.bundle",
+            "size": 1053671,
+            "sha256": "aa389d616f27afe76357ceb985670f268bf7d29675782707f5fbb289b17f116d"
         },
         {
-            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_battle_axe_a924509e82f26a6ef08b14e63d17395d.bundle",
-            "size": 369932,
-            "sha256": "8a12a0574d9774f50365d090c55c1c77fb43e6b436bb35cae907b7c7dac9290c"
+            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_a_hero_shield_80573a39f3836160d1c5563cda3c255c.bundle",
+            "size": 321260,
+            "sha256": "2893cb9e57ff14456102436d21cfd3427b595585a8421f0924e47ccc7007d829"
         },
         {
-            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_bronze_sword_512bcc16d3ac16e61c9640ee6e997cd3.bundle",
-            "size": 356606,
-            "sha256": "a9b291eaff179a0caf07b3908b38e75cfef8cd3d98f1e31b5e34b6f2da3abe0b"
+            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_battle_axe_d5afaa30498aa69a3d8aa4b7f6972239.bundle",
+            "size": 1525038,
+            "sha256": "02676aa5613d85585e1301d84ca632f78a9b6ae4e70b2bab351cce6fa0414bfa"
         },
         {
-            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_copper_dagger_6c0ac4db6ef925a8729fcf3b82e6d319.bundle",
-            "size": 327642,
-            "sha256": "ebe3e691b34bb7d2b5a9127451c54819c7375eb42a666a15ea75f4f2e41f40b8"
+            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_bronze_sword_8e913b00b0e5bc7e88c1f49f3a1ea45e.bundle",
+            "size": 1441756,
+            "sha256": "07d29321c6dc75be486eef0ad7a6fafabdbc964d4d1abc18acf674a6fb887248"
         },
         {
-            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_copper_sword_67bc6b76283502362deb9bb7c06dd7bd.bundle",
-            "size": 347045,
-            "sha256": "5648f0b5d123e33807732ddce66f545feab485c6327da2bf28e84695d2b793b6"
+            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_copper_dagger_d1be95f86fec2467831fada62d47ed25.bundle",
+            "size": 1313676,
+            "sha256": "5a52a64d24b2df178090777e7333d59be5b8bb903ff6c757fb206a6081e9c48f"
         },
         {
-            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_crystal_staff_f3293c8373323c4d703560534b0a5e38.bundle",
-            "size": 352006,
-            "sha256": "b666939c2fbcaef2213500383aa186e17753fa3f426bcf7fc6c941968b772c5b"
+            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_copper_sword_905f4a265b7203d483667083ff66b9d7.bundle",
+            "size": 1444287,
+            "sha256": "4c97b13817fbf8a7a0fd135f7ef396b618e75e27c645fc31c5689fd17449f6ac"
         },
         {
-            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_hand_axe_55fccefc6760edbf278b2fa01120d053.bundle",
-            "size": 326376,
-            "sha256": "bfe842965235ce6a3d59f20e7e9e2fd8d95bd23367d20db494a8bfc7ee2bab69"
+            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_crystal_staff_621149c484bae3d510a467b6b22e8ad3.bundle",
+            "size": 1871513,
+            "sha256": "3faeab84d066cd284783cadb98fd12687b63c7702401579780e7c037f475f357"
         },
         {
-            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_inkblade_fda76bbca9e6dcd43f2d496eea301963.bundle",
-            "size": 359080,
-            "sha256": "fbe05ff7731b5f94cd06b9dbd76b6613078744f76a8cdc0cfa99ca5c421d2e35"
+            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_hand_axe_2aedb4d7c658ebcc5a33d8ffe661d64e.bundle",
+            "size": 1364611,
+            "sha256": "4812e39622902abc8df4542f31ae948567267ff9a6888b83162cf03afc660c9f"
         },
         {
-            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_long_bow_873c98474f54d8621fa4df9e05c363a1.bundle",
-            "size": 463009,
-            "sha256": "fbc9648a133f757b98781bae8cc7384d33feec9af107bd395306839a5e798168"
+            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_inkblade_d684328d943fb7bb5c2a6baf96e0ce55.bundle",
+            "size": 1458302,
+            "sha256": "8352074957c1ba45768ce4db775eeffd147faa3e7f74d99ff299982541e97b78"
         },
         {
-            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_poison_dagger_e566a3471129e7a7d50d05a92be94607.bundle",
-            "size": 348627,
-            "sha256": "23dae97de6e5a49e6430e2054354879e01f149cf8817e78524aa2efb65a9204a"
+            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_long_bow_d80835bf2205535e68fb7fd8f6900f4f.bundle",
+            "size": 1785121,
+            "sha256": "aac1f06b3f3b175dbe4992716b6f39abf9a841819ceeb61348c3c369116380a5"
         },
         {
-            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_short_bow_c09bf5c4fd0733aadc5996179129a6be.bundle",
-            "size": 463020,
-            "sha256": "a9e67d72583f53950f888d0c0a9b7b46039a9826cfb208b94ae2d0e01a8b6dc4"
+            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_poison_dagger_75bc3e36e0bcec5cb0d8a237238c7b15.bundle",
+            "size": 1336847,
+            "sha256": "9d250758c537c3bc8a5234366d19968a4929ace39a3fb0e55446ccd8c33c5639"
         },
         {
-            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_silver_dagger_de3f2c4f3386d6bedc2497f09dc9b49e.bundle",
-            "size": 349653,
-            "sha256": "24f1aeb64f02a22bdaa0cd395124fcff3fee8d2713aa4cd3c31b22728581339d"
+            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_short_bow_4b32f49b7bec94b4afe717abf4eca26f.bundle",
+            "size": 1785134,
+            "sha256": "b39705637ef1ecac680a22babaf1cc75e87ef8af04104e514c6b70e9e9a9ad20"
         },
         {
-            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_starlight_staff_b789f6b5b5973e01dced544821811cd6.bundle",
-            "size": 370808,
-            "sha256": "6b6284850e5a52c21ea693e495b7d28652ccc3f019f4ec838f3342116acdffb1"
+            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_silver_dagger_17ae3c2885c084f89eb96cb3a7e43a37.bundle",
+            "size": 1535772,
+            "sha256": "8750286b85bc83d8c5f7094b9bdf4009e26bfdef1a0cbe6884295650de2fe6d1"
         },
         {
-            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_starlight_sword_0586dbd182fdadccb0e67b2f1c606f19.bundle",
-            "size": 355511,
-            "sha256": "2c9eda174cf3e3c2a1ab4436bf92bd262bbacf4e63aa65083343651af64fe4f1"
+            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_starlight_staff_5673944de0577a76f157de338d3048b8.bundle",
+            "size": 1830277,
+            "sha256": "bbf5c69197025229bb140a9884ef93b3abdcf58ee85d063be47032582574c618"
         },
         {
-            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_steel_sword_195f81a0281bf28e222d3d35b2d27db5.bundle",
-            "size": 349641,
-            "sha256": "bf251ecc7e9f8cf81df62cf41f7f9dc25d1dd4d6dca57247a8567d7abf85ab66"
+            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_starlight_sword_9194abd4061c1746044a964a7945ae36.bundle",
+            "size": 1675359,
+            "sha256": "a58048d9ab273545051f891078d53f9b2ef085d74a4e1427f051a1a87417def9"
         },
         {
-            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_stone_axe_04f5ca7f34a1b70719b551644698efbc.bundle",
-            "size": 357094,
-            "sha256": "9c9b6fbd6bf81db84f522b64b81081e82417d1c2408896b1f07519f9da014eb9"
+            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_steel_sword_ff77e566d7de5f54475826be875f8579.bundle",
+            "size": 1529725,
+            "sha256": "04d8954539ae407b221adc44d9f0c59cd272da63e19585b7c20368348906c60c"
         },
         {
-            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_wildflower_sword_16e6c2628237c4a69872dd41b6f743f1.bundle",
-            "size": 341522,
-            "sha256": "773cd035d80ba3c84d4de71741b2b4adb7bd22476eb817d31afcf6f0cdd9b835"
+            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_stone_axe_7eefd03eb59cf8a1248d8ef1ac1c0f05.bundle",
+            "size": 1577669,
+            "sha256": "b23bfc497ef9d56b311477b8383436e36113e4a5385e815faecc6720eb63d51f"
         },
         {
-            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_wood_staff_2ff0248f6a94cea89bb4e508c6644048.bundle",
-            "size": 357080,
-            "sha256": "84d8ad3c316515390317d1403d179c711a90b3ea0620088e319ecf22e84db750"
+            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_wildflower_sword_bfeae815ec476936d4ae6adf02af4b22.bundle",
+            "size": 1543502,
+            "sha256": "13c78fc1fa668361f13cfd946ecd08e18dff898acb235c3f1914e21e70027e1b"
         },
         {
-            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_wood_sword_ddc961c7c8a012b52db1b5fb483ccb50.bundle",
-            "size": 322453,
-            "sha256": "7e28ee24c422086021b439919c866f61d95e54e340face38196922d0956a6985"
+            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_wood_staff_a3ad64fe1c9b77963e126df98f7ccc66.bundle",
+            "size": 1775143,
+            "sha256": "ac4592ffe58a8b74915bda64d45a3a53662f702fb6bfa9734d0a4d5f3826539d"
+        },
+        {
+            "path": "7SealedStones_Data/StreamingAssets/aa/StandaloneWindows64/equipment_assets_equipment_w_wood_sword_3aede993a8fdb50361337223817c2bd8.bundle",
+            "size": 1095649,
+            "sha256": "fb5542c7dd3ecd90d94860533032288d468d3f025fe06dc88b791b56621cc31e"
         },
         {
             "path": "7SealedStones_Data/StreamingAssets/aa/catalog.bin",
-            "size": 95752,
-            "sha256": "1b40b1a4bfa825844c5239674b691bdaa4caad0bd5623d0f1a0f90fc701271fa"
+            "size": 218397,
+            "sha256": "6373d5a7537580a008588afd1afea0a9adc25fd563f70c110a7222b54287431d"
         },
         {
             "path": "7SealedStones_Data/StreamingAssets/aa/catalog.hash",
             "size": 32,
-            "sha256": "c5936e8a0765b25bf898c5a28f84ce8bf293be76f6199198e0bc2ede2e7e57fc"
+            "sha256": "511881a3d8968f245ab83cb7c1026010d6e86cd9e3f0659d1279123c9e20ecef"
         },
         {
             "path": "7SealedStones_Data/StreamingAssets/aa/settings.json",
             "size": 4177,
-            "sha256": "77a3e486f000dbb034d1c47ae9e4bdde04849bf23fef902567ff0802ed9fd147"
+            "sha256": "b02e8a88bd65fc875e919294b5fc890030334a08d3bc2bb8d9b303356a164f68"
         },
         {
             "path": "7SealedStones_Data/app.info",
@@ -1049,17 +1024,17 @@
         {
             "path": "7SealedStones_Data/boot.config",
             "size": 156,
-            "sha256": "503b4d1294968bdd460b894d5a49cf5bf01b9223ff0fdf903b171b94520fb653"
+            "sha256": "ddee0b5507db78ca732810eccfff0de69f2ca6f91d50b73a8264e48d2e50ce20"
         },
         {
             "path": "7SealedStones_Data/globalgamemanagers",
-            "size": 314996,
-            "sha256": "51aa8a87fd039a15c83547050a82dc97cb9dacda228a52207304bb49a530fabb"
+            "size": 291124,
+            "sha256": "73ec4fd6414025b6002f1e8048acaceb7194e74b0c0656d01f188d965a6153c5"
         },
         {
             "path": "7SealedStones_Data/globalgamemanagers.assets",
-            "size": 1259608,
-            "sha256": "6524c0904993a90098baea818e9b1848d572e9f7d454d46075acba6e02e5672f"
+            "size": 1204184,
+            "sha256": "c2935d7d99a24de74cae40f78f02202753bbda9fbaa835cbae3fba44ccada4bd"
         },
         {
             "path": "7SealedStones_Data/globalgamemanagers.assets.resS",
@@ -1069,32 +1044,32 @@
         {
             "path": "7SealedStones_Data/level0",
             "size": 1936,
-            "sha256": "c9db327b91bbc8e20fec5081a133f0075eabb50d982a43cdfe2f3b1f407009ae"
+            "sha256": "20b2fc568ac81fb06fb3adf17c28b8ea1b0ef4511cab0b6eb5e29264d1b68896"
         },
         {
             "path": "7SealedStones_Data/level1",
             "size": 4096,
-            "sha256": "e16bd0264e9054a196ab3ef5f8b6d56957f528a5f1e058167661fd5c4e9d8b57"
+            "sha256": "30673405ca0fd600a6aec20bfa51f89ba11ae6e6501a6219e9ec5744e4ef60ba"
         },
         {
             "path": "7SealedStones_Data/resources.assets",
-            "size": 30377988,
-            "sha256": "b4fff5642a01c3bc95a627a27bb2d31784f1787ecaff6d39a6c256506e84d590"
+            "size": 47399572,
+            "sha256": "f8f6c3b3aac99bfb05bfff6363e6a23eec3f8e741db694c5ba4f794f7ce52645"
         },
         {
             "path": "7SealedStones_Data/resources.assets.resS",
-            "size": 48544528,
-            "sha256": "45e45ce0620b16798923646325a35ed5bdf6aa0fbda34df310235095856f97b6"
+            "size": 49867872,
+            "sha256": "9642df0e7e7cf2fffa0cd4bed1656bcfabd43c251eafcf30685968aaeffce420"
         },
         {
             "path": "7SealedStones_Data/resources.resource",
-            "size": 15432928,
-            "sha256": "8e0d8b3538a3ffd320c3166283de5a220bfaeeea334479b4d1ad925e588b394a"
+            "size": 24127776,
+            "sha256": "16269f6663e4e276011aed7cd1d2b558bfdab9f15317b6cbbf5730a40a152b13"
         },
         {
             "path": "7SealedStones_Data/sharedassets0.assets",
             "size": 11184,
-            "sha256": "ca4084c9125ef592fd52822ec734dc0aaee8e7a3d02473af7c313e19d7368278"
+            "sha256": "6f98ea4e030003e26e2afeb9bc4b75c9e89d48ddc39841096082b3c11550c8f6"
         },
         {
             "path": "7SealedStones_Data/sharedassets0.assets.resS",
@@ -1103,8 +1078,8 @@
         },
         {
             "path": "7SealedStones_Data/sharedassets1.assets",
-            "size": 9456,
-            "sha256": "ddabf622748af5b65319f4cfc3b358830979b8475e45c3e4f2201db7c37eac5e"
+            "size": 9840,
+            "sha256": "f861d386630043612e76b11fee1cd5aa9c4f9bc654dc11c3f757d8396c3fcab3"
         },
         {
             "path": "D3D12/D3D12Core.dll",
@@ -1113,13 +1088,13 @@
         },
         {
             "path": "MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll",
-            "size": 611240,
-            "sha256": "6c96a7ea42a2e0538643ac8da1a545c7101fad27b9955846f6153f55edb2560c"
+            "size": 611248,
+            "sha256": "6d4aae4d60b74f59f6e15cfe4cc9dc3729f43a291d1c46728fad5466da036013"
         },
         {
             "path": "MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll",
             "size": 7834544,
-            "sha256": "e529c53aac57330543b8de5dc12687291e3208344a86e872898c418fb64dab1c"
+            "sha256": "c9b5fcbd3d5694161f494586b8447e8a0bcb6d34d11ab16927d3a3a699d5fbbb"
         },
         {
             "path": "MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
@@ -1213,13 +1188,13 @@
         },
         {
             "path": "UnityCrashHandler64.exe",
-            "size": 1772968,
-            "sha256": "3cdd9dbc0162524281bd99715ca93c6f4771804404550981588e89137fdd04aa"
+            "size": 1773992,
+            "sha256": "3435137bf921a545b044ddcaae33a0f2cb613ef9b946737404686cda14efe832"
         },
         {
             "path": "UnityPlayer.dll",
-            "size": 38704560,
-            "sha256": "1d82b3aa9c150de0267a0c8490cbab3287c47a31359334daef85dc01df382cf3"
+            "size": 38753192,
+            "sha256": "38db99e19730fad74e8cc21758c87ffe7387b7774ebd9a14405c62ae481f2550"
         },
         {
             "path": "dstorage.dll",
