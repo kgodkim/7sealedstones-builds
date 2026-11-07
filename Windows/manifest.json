@@ -1,5 +1,5 @@
 {
-    "version": "v0.7.19-5-g64fff3782",
+    "version": "v0.7.20",
     "files": [
         {
             "path": "7SealedStones.exe",
@@ -828,8 +828,8 @@
         },
         {
             "path": "7SealedStones_Data/Resources/unity_builtin_extra",
-            "size": 540196,
-            "sha256": "658a64378fc07fd05392b6b5d332a8300527459ee2fedbc3cfe0ff07c5ca7daf"
+            "size": 528836,
+            "sha256": "6697b7a3b80e6f8eb2a1e2e2ac119924ea9d82c9549180b6da84da101f8503e5"
         },
         {
             "path": "7SealedStones_Data/RuntimeInitializeOnLoads.json",
@@ -1024,17 +1024,17 @@
         {
             "path": "7SealedStones_Data/boot.config",
             "size": 156,
-            "sha256": "8a8de8a8d1070b54e3fe5e6d4ce2e9aec06bc58ffe65d91593bb117379993dbd"
+            "sha256": "da6bdc4a3429a2feed1036792ca90d4e7d1fd1ec2f7aeb2a5326f23c2c42159a"
         },
         {
             "path": "7SealedStones_Data/globalgamemanagers",
             "size": 297780,
-            "sha256": "c0ad67d506adca0648e0c1540cbc83928f53989d6ff9563aedc89c8f47ba25b7"
+            "sha256": "dccdf8f6d62ae89f427f61837f987eb1fe999d8bcab23190130e91b4c03d2c92"
         },
         {
             "path": "7SealedStones_Data/globalgamemanagers.assets",
-            "size": 1205544,
-            "sha256": "e471b99eba95e8f3cef4384aa79edff4bd57b512ab0efae5b0e9743018641a6f"
+            "size": 1151736,
+            "sha256": "771ba904bad537d944572fc42a6929ea4962975e38a7ee0a6225f8a074da0413"
         },
         {
             "path": "7SealedStones_Data/globalgamemanagers.assets.resS",
@@ -1053,8 +1053,8 @@
         },
         {
             "path": "7SealedStones_Data/resources.assets",
-            "size": 47453460,
-            "sha256": "8704a4ab1f072c64e6526331e97a443b617b728254855752a57d2701b97cd97c"
+            "size": 45446148,
+            "sha256": "795f208841a115cd7a22e9dd96ab2391b83c727840aca09d4392b76ec5acdcc6"
         },
         {
             "path": "7SealedStones_Data/resources.assets.resS",
