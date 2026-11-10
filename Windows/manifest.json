@@ -1,5 +1,5 @@
 {
-    "version": "v0.7.32",
+    "version": "v0.7.34",
     "files": [
         {
             "path": "7SealedStones.exe",
@@ -9,12 +9,12 @@
         {
             "path": "7SealedStones_Data/Managed/Assembly-CSharp.dll",
             "size": 3584,
-            "sha256": "dee650f73711d6a93ea54b0c11984603d49b4780230277b718ffe29cc50fbd3f"
+            "sha256": "25af35eb86e6120b8fddb22c4c1197fb6e4d79cb35431b753b428b8fa7dcbe87"
         },
         {
             "path": "7SealedStones_Data/Managed/DQ5Games.dll",
-            "size": 1170432,
-            "sha256": "d3806133c6f3908050a8ba9e2350c88cdaf7f36506aab3bd7470575a7773fb90"
+            "size": 1170944,
+            "sha256": "fe06285c22a94e165c6fad271931d4b0245aa55ff84d4d9862f65c6a5c672e22"
         },
         {
             "path": "7SealedStones_Data/Managed/FastSpringBone10.dll",
@@ -819,7 +819,7 @@
         {
             "path": "7SealedStones_Data/Plugins/x86_64/lib_burst_generated.dll",
             "size": 584704,
-            "sha256": "ecf32ea3399c2e707e5b151bed5a72a4da22b07ed6e6c8779246c6d6670b673f"
+            "sha256": "b0cd7afff55b18093708bdaf6ba3679f0f140b770f3c81929eaad35a4ae19036"
         },
         {
             "path": "7SealedStones_Data/Resources/unity default resources",
@@ -1024,12 +1024,12 @@
         {
             "path": "7SealedStones_Data/boot.config",
             "size": 156,
-            "sha256": "e7def06327879730179a6e4ae00cdd7002e9b5ca7f2317fd66de1939811d154c"
+            "sha256": "361c9276fee3d09d139366c0bc645927f46328e0e4a30ef5afd01620f45703fc"
         },
         {
             "path": "7SealedStones_Data/globalgamemanagers",
             "size": 323748,
-            "sha256": "9b45bb095d4726974b4c99f6057a3a848ef817c448521d2d237ecb9d4688ba86"
+            "sha256": "150322c6ccf413ff187423fc7818319cb995af82217f80d0b738a00d17b34d39"
         },
         {
             "path": "7SealedStones_Data/globalgamemanagers.assets",
@@ -1053,8 +1053,8 @@
         },
         {
             "path": "7SealedStones_Data/resources.assets",
-            "size": 44131556,
-            "sha256": "4b801dfd1e2b7c1b78ccc64465e9df38e378e3fcb25ddc795be02f43394b8135"
+            "size": 44132052,
+            "sha256": "8719a1f85d2e1ec8f05203eddc2ecbeedf4f7359c570c84aadd1701b0e4ddf60"
         },
         {
             "path": "7SealedStones_Data/resources.assets.resS",
