@@ -2,11 +2,11 @@
  "files": [
   {
    "name": "catalog_0.1.0.bin",
-   "sha256": "7b7a1b435b74ff948cc74c46a04513e05045a062337d9210f3d248758c3a1e26"
+   "sha256": "518823a669bd22e7870e911056165b4b237ebc95f509f9ecdf712383199eb6ba"
   },
   {
    "name": "catalog_0.1.0.hash",
-   "sha256": "7afb2aee2a8210ad3dc4062bbcc112738e54410c14b757e06d103108e553c7ec"
+   "sha256": "7a2810f93212808fabc62396c1d06d06db08d798ac9e1458cbd1885bd8a679e6"
   },
   {
    "name": "ch00_shared_ch00_boss_ch00_prologue_assets_all_6df35b9db23332a8de084da8452e726a.bundle",
@@ -45,8 +45,20 @@
    "sha256": "b0bda465a343dd587a50439866837b22c7e4e265ba943c010e455718444413ac"
   },
   {
+   "name": "chapter00_assets_all_a908b4085bee9a6f4d79906eb0360420.bundle",
+   "sha256": "fb322b3485ba925b9bb4829fbd4e708b12cf284a0a74cf4474e5d556bb2af4df"
+  },
+  {
    "name": "chapter01_assets_all_2e46c240b3d0c83f4f108b38e68c3f84.bundle",
    "sha256": "5ec0036a24d21f8ef69ce3e1d740d863860a46f9274bd9a8beec1d71d83cc87d"
+  },
+  {
+   "name": "chapter01_assets_all_3a77b26d27e89b5884a6b0583241bf89.bundle",
+   "sha256": "576deb1fd8b52151701cf84314d0503b057cd0bf1379bcc159af2b267e88acbb"
+  },
+  {
+   "name": "chapter02_assets_all_8a4b4bfe0723c1543f0d9f75589709e1.bundle",
+   "sha256": "c79e91df77a3b94d51d57643781f08b41a4208aec0a80e20b2d2bafb04b8e9cb"
   },
   {
    "name": "chapter02_assets_all_b2067f03b963b582b260478c0824117a.bundle",

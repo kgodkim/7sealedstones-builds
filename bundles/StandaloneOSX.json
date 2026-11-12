@@ -2,11 +2,11 @@
  "files": [
   {
    "name": "catalog_0.1.0.bin",
-   "sha256": "4d18618689e3d32488c5e89f7cdcd8c4a7bfc648199f93c0266d16c27415e7c0"
+   "sha256": "abf44c458470cdb2ac46476932fed7c1376332420d5128f979d85deb45676105"
   },
   {
    "name": "catalog_0.1.0.hash",
-   "sha256": "8b7f3156553bb93981bd6a178105e201dfb7a93042e5dc023e7924db1f995470"
+   "sha256": "0c609e7eaf9833382536d8fc43640704fe068500ade6068f8e6313c497e870d3"
   },
   {
    "name": "catalog_v0.7.1.bin",
@@ -49,8 +49,20 @@
    "sha256": "e62615ab24c1ce2dd4a1c8cc6bf8de9e51b9fb72ec9996903d4ddb8ad5c0cf17"
   },
   {
+   "name": "chapter00_assets_all_71f4012966dd0a39a0224a66f7e6a461.bundle",
+   "sha256": "afe9a652e90767b594cbd60fea04b48ebb5d336fdcbfd5f0cbd2ff3b0ed5818f"
+  },
+  {
    "name": "chapter01_assets_all_92a615d890949513ba6ad9c3252ced34.bundle",
    "sha256": "99dd1a0c6eca213c98e5fec40183e246410854ba43f20ef2ab438c714a17b44d"
+  },
+  {
+   "name": "chapter01_assets_all_db789d6e29c61b6bd098474682069f02.bundle",
+   "sha256": "173bbc3f3650174c3ef1439f60c0037f735b80020ca2a901764971c6e81dbe9a"
+  },
+  {
+   "name": "chapter02_assets_all_8a4b4bfe0723c1543f0d9f75589709e1.bundle",
+   "sha256": "9ac730ac912603ab977a7941987e7c279ec2b122d5d81377abc685024dd803fe"
   },
   {
    "name": "chapter02_assets_all_b2067f03b963b582b260478c0824117a.bundle",
