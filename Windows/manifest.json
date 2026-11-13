@@ -1,5 +1,5 @@
 {
-    "version": "v0.7.42",
+    "version": "v0.7.43",
     "files": [
         {
             "path": "7SealedStones.exe",
@@ -1029,12 +1029,12 @@
         {
             "path": "7SealedStones_Data/boot.config",
             "size": 156,
-            "sha256": "5503fe435390d9afcc84296fb8b6f8c984ff7a52fb61df2883c5ea0e090ed8f2"
+            "sha256": "66461f95ef8ef36d05effc2b61f5ad0e1aef12dd660cba3a3e6e1a3e167a4754"
         },
         {
             "path": "7SealedStones_Data/globalgamemanagers",
             "size": 318484,
-            "sha256": "35f3cef7e3cd33d1bd03edadd76766e2f3a6e5ec84f57206b01566b013f9d2fe"
+            "sha256": "06ab13e134500c94aa144c0bd69fab10c6b17b600d1f9cbdbb2695cd514d54d2"
         },
         {
             "path": "7SealedStones_Data/globalgamemanagers.assets",
@@ -1058,8 +1058,8 @@
         },
         {
             "path": "7SealedStones_Data/resources.assets",
-            "size": 46063380,
-            "sha256": "733439facd815ca14360cf42a188681643e02a85838bb949212c04459ec53483"
+            "size": 46063604,
+            "sha256": "45cb618324a3f9aa26fbb82618a4c20ad8fb777e98127f55704d7d4214d749ed"
         },
         {
             "path": "7SealedStones_Data/resources.assets.resS",
