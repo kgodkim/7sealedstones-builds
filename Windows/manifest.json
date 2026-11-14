@@ -1,5 +1,5 @@
 {
-    "version": "v0.7.50",
+    "version": "v0.7.51",
     "files": [
         {
             "path": "7SealedStones.exe",
@@ -9,17 +9,17 @@
         {
             "path": "7SealedStones_Data/Managed/Assembly-CSharp.dll",
             "size": 4096,
-            "sha256": "0400390e23b4ebc0b30cb22e8f5965ea93c3a573f79c6e9ecac283e6ec0afae2"
+            "sha256": "a3bde6e9979d0d6ed4ea13c4c5dc09826f67c9616365beefccb58209d7e949ab"
         },
         {
             "path": "7SealedStones_Data/Managed/DQ5Games.Logic.dll",
             "size": 23552,
-            "sha256": "bc52a5ceea2a0931caff1f6e0d723ab00a5fb8ced8cfe2ee13cbb0121f1010a6"
+            "sha256": "bdebe7ffc63be0ce6ea5431d00743632bc465a6ba9e05d95d7838a80cccaecc4"
         },
         {
             "path": "7SealedStones_Data/Managed/DQ5Games.dll",
             "size": 1204736,
-            "sha256": "e7e33342eed6f1ad63768d3b162b989cafdb79b434c47ce679e362986ead2016"
+            "sha256": "0fec494fd3e4b2bd9fd56dbbd7d9cc45dcf949320a5edb06657bd1edd337b7b1"
         },
         {
             "path": "7SealedStones_Data/Managed/FastSpringBone10.dll",
@@ -1029,17 +1029,17 @@
         {
             "path": "7SealedStones_Data/boot.config",
             "size": 156,
-            "sha256": "18704aa3f2d663ddb8fe9c66b94550c1fb16da3104de78ab21299c973774abbe"
+            "sha256": "ed6b20b59c6b0148c50121a2183978dacb2e43894689ae8f40cdd84957a64ea9"
         },
         {
             "path": "7SealedStones_Data/globalgamemanagers",
-            "size": 318788,
-            "sha256": "3dff0838ab514de38ab103544296fa83886b9e3636ffd53906b8f587ba0d2661"
+            "size": 318852,
+            "sha256": "7fe6e5c520f24edae1dbc34ba9fcf8f419f39de4717962572fe6aaaa3b5797ff"
         },
         {
             "path": "7SealedStones_Data/globalgamemanagers.assets",
-            "size": 1149784,
-            "sha256": "d93803abe04d2245d9ab163a3e6ea0521091ffbb84f9ef520ed98818337af28c"
+            "size": 1149960,
+            "sha256": "ac67ef537e22a014806666b188eaa8fde4413499464085b76a384545cc159566"
         },
         {
             "path": "7SealedStones_Data/globalgamemanagers.assets.resS",
@@ -1049,22 +1049,22 @@
         {
             "path": "7SealedStones_Data/level0",
             "size": 1936,
-            "sha256": "628f89e87e2c700921a01a0ebd0a64915597a86d55ada1b766ef365247980954"
+            "sha256": "b36bca6d245ae03dad62a5bc4f9329f496b03bd2847e62dc39eec1af01e24bff"
         },
         {
             "path": "7SealedStones_Data/level1",
             "size": 4096,
-            "sha256": "87d4ad158bf927b643c1357a7240cb7f29661bb30d7228a08275a259e2ac36fa"
+            "sha256": "edd0d33896e609c06987feca10f16855ce0e119c80d14fafddde6d79264d0f0e"
         },
         {
             "path": "7SealedStones_Data/level2",
             "size": 4480,
-            "sha256": "40c1f7440d918ee68bc565c9c80a71437b15695e97e159c5ca51c5dbf7963a6e"
+            "sha256": "ce838c6a9c134f4fec3a864a305b24b604c1031cb1db8d3f24e2337ceac4b8af"
         },
         {
             "path": "7SealedStones_Data/resources.assets",
-            "size": 46070132,
-            "sha256": "ee7fdac3a609f4733aabe6d2bb841306436ffd667909f5b531259b85b0406454"
+            "size": 46070548,
+            "sha256": "0c37368fd6164f11dcc74d2fd1d5d741524032de5e781b28512245d2467c7d9a"
         },
         {
             "path": "7SealedStones_Data/resources.assets.resS",
@@ -1079,7 +1079,7 @@
         {
             "path": "7SealedStones_Data/sharedassets0.assets",
             "size": 11184,
-            "sha256": "a88bb04f459d05215854f0a792077dc0a8cc067588f22a737339feba015be799"
+            "sha256": "c859f790fc3e59ab3b652f19c04f6511558f224674fbab6bc1ded3db69890e27"
         },
         {
             "path": "7SealedStones_Data/sharedassets0.assets.resS",
@@ -1089,12 +1089,12 @@
         {
             "path": "7SealedStones_Data/sharedassets1.assets",
             "size": 9840,
-            "sha256": "d060c65238d93fce2e8db1a7f24b5196f37ce1ee2671591956d431ba352942a3"
+            "sha256": "7d5a9cc1ca234ed22e8b6698b395aabc0dc9f5dd33edebd6ef480cc94223d2fa"
         },
         {
             "path": "7SealedStones_Data/sharedassets2.assets",
             "size": 477,
-            "sha256": "70e35f3a0a811873356a1873481fa796cd97ce6a3879ee1c61b91382acd9529b"
+            "sha256": "f386324fd9459be1397a7a9721845f83181b7b7a474cc3000f8aea399e89d333"
         },
         {
             "path": "D3D12/D3D12Core.dll",
