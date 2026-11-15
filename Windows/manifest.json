@@ -1,5 +1,5 @@
 {
-    "version": "v0.7.54",
+    "version": "v0.7.55",
     "files": [
         {
             "path": "7SealedStones.exe",
@@ -9,17 +9,17 @@
         {
             "path": "7SealedStones_Data/Managed/Assembly-CSharp.dll",
             "size": 3584,
-            "sha256": "e5c61ae9985d70429fb328eec59291a5ae04b16db8f0c08dbcd32d60af3724fe"
+            "sha256": "3d30e44a4b35e8d730fa637861ecaadb2860a2d547ea9ca79f941f5c6cc41387"
         },
         {
             "path": "7SealedStones_Data/Managed/DQ5Games.Logic.dll",
             "size": 26112,
-            "sha256": "2c82cf2f5b7c6941d64975e48733e8ee2a38a0f1c053b898538ce576ac1dd9ca"
+            "sha256": "fa81715cf98bc8eea708a2a0115560647555d98785d82deace56cc6cff9a14e2"
         },
         {
             "path": "7SealedStones_Data/Managed/DQ5Games.dll",
-            "size": 1219584,
-            "sha256": "2355a2477d71875fdcbf0d293a34fada7666b09edc4d0525918c1df484c708c0"
+            "size": 1224192,
+            "sha256": "3e6bc19d8d38f55df7c352f95e842c971823054edbfe406dda497417b888a0f2"
         },
         {
             "path": "7SealedStones_Data/Managed/FastSpringBone10.dll",
@@ -1029,12 +1029,12 @@
         {
             "path": "7SealedStones_Data/boot.config",
             "size": 156,
-            "sha256": "d16ced079a2e0dbdce6c2e211f4a98efc7bb26b3d9903304d63dbf7946984797"
+            "sha256": "de6b77a46c739e991724455d993fbfb4d1b0878d0eef9893ca6c2f62c17b010c"
         },
         {
             "path": "7SealedStones_Data/globalgamemanagers",
             "size": 318996,
-            "sha256": "774d56582bf20166ac9f9fc41bed28a3e6ecff9b4de69188cae26fcceee968ec"
+            "sha256": "217c680c8aef32ffd2e5f534a3e93741e6792e0d79488ff1e6380a49d316518e"
         },
         {
             "path": "7SealedStones_Data/globalgamemanagers.assets",
@@ -1063,8 +1063,8 @@
         },
         {
             "path": "7SealedStones_Data/resources.assets",
-            "size": 46072004,
-            "sha256": "b860b7871fc28551a376435d4d71f72f6d5b37661eebd6f9bac6386c4e0d88d8"
+            "size": 46072516,
+            "sha256": "8ca3c7b39a96c22caab367881bd7a06759fbfb4178d862d0fa8cb8675e3d4f92"
         },
         {
             "path": "7SealedStones_Data/resources.assets.resS",
