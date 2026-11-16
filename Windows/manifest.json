@@ -1,5 +1,5 @@
 {
-    "version": "v0.7.55",
+    "version": "v0.7.56",
     "files": [
         {
             "path": "7SealedStones.exe",
@@ -9,7 +9,7 @@
         {
             "path": "7SealedStones_Data/Managed/Assembly-CSharp.dll",
             "size": 3584,
-            "sha256": "3d30e44a4b35e8d730fa637861ecaadb2860a2d547ea9ca79f941f5c6cc41387"
+            "sha256": "7d13fe4d85045023f4b4694b30ab99cf5aa1721f37ca3d07b5b0db8c88de1b73"
         },
         {
             "path": "7SealedStones_Data/Managed/DQ5Games.Logic.dll",
@@ -18,8 +18,8 @@
         },
         {
             "path": "7SealedStones_Data/Managed/DQ5Games.dll",
-            "size": 1224192,
-            "sha256": "3e6bc19d8d38f55df7c352f95e842c971823054edbfe406dda497417b888a0f2"
+            "size": 1245696,
+            "sha256": "938aa1421966e4a0a4ce410458e8db68b6c2da6557fb49cfd40764ac21fae433"
         },
         {
             "path": "7SealedStones_Data/Managed/FastSpringBone10.dll",
@@ -1029,17 +1029,17 @@
         {
             "path": "7SealedStones_Data/boot.config",
             "size": 156,
-            "sha256": "de6b77a46c739e991724455d993fbfb4d1b0878d0eef9893ca6c2f62c17b010c"
+            "sha256": "b98e7c5a6b96396a2162aa7d31d2a0924ea41ce339ef2863924269dc4b68428f"
         },
         {
             "path": "7SealedStones_Data/globalgamemanagers",
-            "size": 318996,
-            "sha256": "217c680c8aef32ffd2e5f534a3e93741e6792e0d79488ff1e6380a49d316518e"
+            "size": 319172,
+            "sha256": "2812b1f40f3360ee76b04cf5b42fd4403a3239ba0affb9d6b7caf090dc52cc06"
         },
         {
             "path": "7SealedStones_Data/globalgamemanagers.assets",
-            "size": 1150328,
-            "sha256": "e8b62a9479783125601bba8b0933d2aac0e9e13079f44fabc3d6cae4e01b90e1"
+            "size": 1150824,
+            "sha256": "54f19127bf2bdb8668ec1890304d956fa15f79c078bf7a7370567561c88639da"
         },
         {
             "path": "7SealedStones_Data/globalgamemanagers.assets.resS",
@@ -1049,22 +1049,22 @@
         {
             "path": "7SealedStones_Data/level0",
             "size": 1936,
-            "sha256": "fe2ca731b6fda0de2eea83423522607d1d73cc692aeeb427d0636327a36240ee"
+            "sha256": "eb561bca59bf759b39f5a342e53de720b94e087cbb942d6c1dc60d908dbb08fe"
         },
         {
             "path": "7SealedStones_Data/level1",
             "size": 4096,
-            "sha256": "05c7f2007112aa82eea245c1519c77341862ed24bdf37dd06f2832eb48912bec"
+            "sha256": "72814fcea6e234dbf5dc7c8c87d671a9733eded2f122f98f8b5fa2d7ed20e78a"
         },
         {
             "path": "7SealedStones_Data/level2",
             "size": 4480,
-            "sha256": "5c933444bf716a20a61bc27b5fc12b655217c054dba3d73e828bb1aeb81ea430"
+            "sha256": "7833348135b6c3ff650b440f305bd033bf2063a266d2e7ce2fa4bb84ffd23cb3"
         },
         {
             "path": "7SealedStones_Data/resources.assets",
-            "size": 46072516,
-            "sha256": "8ca3c7b39a96c22caab367881bd7a06759fbfb4178d862d0fa8cb8675e3d4f92"
+            "size": 46083764,
+            "sha256": "eedeb881d7b4fc8cc4a8a2d14669b66c4f438c99fc1a0826d0dfc07d434cd64f"
         },
         {
             "path": "7SealedStones_Data/resources.assets.resS",
@@ -1079,7 +1079,7 @@
         {
             "path": "7SealedStones_Data/sharedassets0.assets",
             "size": 11184,
-            "sha256": "b6e5ca4332706f096f080ffbab2911b4e078f4a5a235f79ef3acfb69ebb9db2d"
+            "sha256": "9c73ba2b9f2ae5039efc4b309d50a42b4b6bd699a6e05605c1567919cbe823e3"
         },
         {
             "path": "7SealedStones_Data/sharedassets0.assets.resS",
@@ -1089,12 +1089,12 @@
         {
             "path": "7SealedStones_Data/sharedassets1.assets",
             "size": 9840,
-            "sha256": "dad725f419ee688eddefdbaaa6d94da87035c9c38237608ba4d3a6bb9712216f"
+            "sha256": "779bd127c049f7c181379e1dc3f33e2fbec84849a525ab7a4485f8faa297bc76"
         },
         {
             "path": "7SealedStones_Data/sharedassets2.assets",
             "size": 477,
-            "sha256": "220f12ec917b132adebb77aaf051cb4fca7450587562c20315bdab2880634b08"
+            "sha256": "46e781ccf44e87da0ad65862cad29cbc07c2e6aee4e0c6a7c135bd70498dc266"
         },
         {
             "path": "D3D12/D3D12Core.dll",
