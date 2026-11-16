@@ -1,5 +1,5 @@
 {
-    "version": "v0.7.56",
+    "version": "v0.7.57",
     "files": [
         {
             "path": "7SealedStones.app/Contents/Frameworks/UnityPlayer.dylib",
@@ -24,12 +24,12 @@
         {
             "path": "7SealedStones.app/Contents/Info.plist",
             "size": 1548,
-            "sha256": "d7c05cb3ae3a41d78811b1d19fc979e7cd1fca3108bf7ed0b02e8e7eab97066d"
+            "sha256": "321b841f3599ce1f025b4285814885a6fcb673640e85be3ed46a820ae6a1700c"
         },
         {
             "path": "7SealedStones.app/Contents/MacOS/7SealedStones",
             "size": 33620,
-            "sha256": "b3894f0137c8cf07d6a71aeb239c2c302da2d184a686c59a7e864971add8d9de"
+            "sha256": "8e2c3d6075ad64dba2b16ffc0868767709a767cb6ee5464c5bd80d500b518629"
         },
         {
             "path": "7SealedStones.app/Contents/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
@@ -129,7 +129,7 @@
         {
             "path": "7SealedStones.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll",
             "size": 3584,
-            "sha256": "1120b3fdb1a8529a18c322c7784232672929ebb0de51beef6685476d321aa5eb"
+            "sha256": "67906cf60f0bc7245f7eb39187d88fb7a942790bd06eaa1385ba645361173387"
         },
         {
             "path": "7SealedStones.app/Contents/Resources/Data/Managed/DQ5Games.Logic.dll",
@@ -138,8 +138,8 @@
         },
         {
             "path": "7SealedStones.app/Contents/Resources/Data/Managed/DQ5Games.dll",
-            "size": 1246208,
-            "sha256": "7c8c4e3130503435ec047d39875b99d08b2e30f47944945cf42d38870eca3b82"
+            "size": 1246720,
+            "sha256": "0a0ab2f2488150fe366ffaf71a955fc8dfa69d99203b81ceb299d1b9a5f8e3dc"
         },
         {
             "path": "7SealedStones.app/Contents/Resources/Data/Managed/FastSpringBone10.dll",
@@ -1279,12 +1279,12 @@
         {
             "path": "7SealedStones.app/Contents/Resources/Data/boot.config",
             "size": 134,
-            "sha256": "b22ac6273f4799663a5980f924ba943659ef29fc0f22eace70c680e0e97dd2bc"
+            "sha256": "c02f88896d457099d147366008a8869726e564f33fc8d2dc62a4090a70179ba8"
         },
         {
             "path": "7SealedStones.app/Contents/Resources/Data/globalgamemanagers",
             "size": 319060,
-            "sha256": "f07e107a87807e8087687cfcaa34c086a55b40c898643728e172634b4664129f"
+            "sha256": "bb60b06ed0b6de9a708e40ecd89197e1461e48c2878e002fad35c4ffdd76b92f"
         },
         {
             "path": "7SealedStones.app/Contents/Resources/Data/globalgamemanagers.assets",
@@ -1313,8 +1313,8 @@
         },
         {
             "path": "7SealedStones.app/Contents/Resources/Data/resources.assets",
-            "size": 46100196,
-            "sha256": "bdcdcb07c5fa9700299892f6f820a9cf764d15df5c299c3598a33c91244183ae"
+            "size": 46124052,
+            "sha256": "e81d6737e4890cc6186559c048bf49667069a5d5a37f73167ccfcff1afeb67bc"
         },
         {
             "path": "7SealedStones.app/Contents/Resources/Data/resources.assets.resS",
@@ -1369,7 +1369,7 @@
         {
             "path": "7SealedStones.app/Contents/_CodeSignature/CodeResources",
             "size": 85575,
-            "sha256": "5eb28c2f1e26caa0fa057811ca6668c6193984e96ef27433083f92b90af38847"
+            "sha256": "9517a2e74ed221df0281b22a3070a1c5f9837f90c906e7bd1816908e7fc0aac8"
         }
     ]
 }
