@@ -1,5 +1,5 @@
 {
-    "version": "v0.7.60",
+    "version": "v0.7.61",
     "files": [
         {
             "path": "7SealedStones.exe",
@@ -9,7 +9,7 @@
         {
             "path": "7SealedStones_Data/Managed/Assembly-CSharp.dll",
             "size": 3584,
-            "sha256": "815bd4c4875a8636a12b8cde77a2f04ff9a67ddf1b98a7e777f87a2c054efb8b"
+            "sha256": "2872e290c751b010ee76d4366b21581853d5a376a45b4a4a4c79fd53415fff1f"
         },
         {
             "path": "7SealedStones_Data/Managed/DQ5Games.Logic.dll",
@@ -18,8 +18,8 @@
         },
         {
             "path": "7SealedStones_Data/Managed/DQ5Games.dll",
-            "size": 1247744,
-            "sha256": "9e3b8dd705d359ea55d7920b19b92405ad6e9b28df0a45df9502c4ae2f49f786"
+            "size": 1249792,
+            "sha256": "3d99fbe0d7fbb22e2cc8892ded9926532c37476e99ff06c49cedc4bb367fc96d"
         },
         {
             "path": "7SealedStones_Data/Managed/FastSpringBone10.dll",
@@ -1029,12 +1029,12 @@
         {
             "path": "7SealedStones_Data/boot.config",
             "size": 156,
-            "sha256": "20f03cb69b140c8c9342f9d72e1cab21a45d8796799f2785d3b2d84a51ff2f3b"
+            "sha256": "867e1501018f521eeec287eafaea6b59ba95783d30ffaae89ff90fe3b7c65da9"
         },
         {
             "path": "7SealedStones_Data/globalgamemanagers",
             "size": 319172,
-            "sha256": "7fc3b5618a6801261111e63d13c8690fb1acef4c24efee0030baff19651d78f5"
+            "sha256": "0014facdcdad88c6591a656e4e2a246820cf3ca59631bdb350b7284993a526d3"
         },
         {
             "path": "7SealedStones_Data/globalgamemanagers.assets",
@@ -1063,8 +1063,8 @@
         },
         {
             "path": "7SealedStones_Data/resources.assets",
-            "size": 46108724,
-            "sha256": "322abd967b69cc49b4f823b453f265258bd35c5103be2900708f2a47c045d32b"
+            "size": 46109140,
+            "sha256": "c3ebd2fd4d80ea718609c1092e656fd7e0753f7224f7fd63fd1aeb0e996b8896"
         },
         {
             "path": "7SealedStones_Data/resources.assets.resS",
