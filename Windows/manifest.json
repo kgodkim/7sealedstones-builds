@@ -1,5 +1,5 @@
 {
-    "version": "v0.7.62",
+    "version": "v0.7.63",
     "files": [
         {
             "path": "7SealedStones.exe",
@@ -9,7 +9,7 @@
         {
             "path": "7SealedStones_Data/Managed/Assembly-CSharp.dll",
             "size": 3584,
-            "sha256": "0ccfac80fd73e43d2459c05652b2b6a4254b54bf41ec1bf2e77c1e793f676024"
+            "sha256": "e67205010aac532db769149981a6bf89a2bb7b9c1aa72e1c2fd768f651371a82"
         },
         {
             "path": "7SealedStones_Data/Managed/DQ5Games.Logic.dll",
@@ -18,8 +18,8 @@
         },
         {
             "path": "7SealedStones_Data/Managed/DQ5Games.dll",
-            "size": 1250816,
-            "sha256": "1ab1c7424b7ca98b502cae192e7df8bc22c61d5def28da9562e7504d088c2746"
+            "size": 1252352,
+            "sha256": "2c9125560970a0e4941b65ceab0e46dce4fa7afb7e22276cd95edf21c9b502ad"
         },
         {
             "path": "7SealedStones_Data/Managed/FastSpringBone10.dll",
@@ -838,8 +838,8 @@
         },
         {
             "path": "7SealedStones_Data/RuntimeInitializeOnLoads.json",
-            "size": 9518,
-            "sha256": "67f6079331a0aa47f017d1f30f3393d34bc5ce2ea9db220ca0c855ed33ce3c5d"
+            "size": 9656,
+            "sha256": "b9b4fc1b4d05b79521b54f7641887141deb771752f9f9c8d40e4a82183d6cfd0"
         },
         {
             "path": "7SealedStones_Data/ScriptingAssemblies.json",
@@ -1029,17 +1029,17 @@
         {
             "path": "7SealedStones_Data/boot.config",
             "size": 156,
-            "sha256": "0f2338d96a476ee77e1f2c3b4520dd3170db4161c52b9304a4f90ad48672b651"
+            "sha256": "c4f703ccd56262c1562e8df786579ed9addf28882a40045b5f44da24b1b24ea0"
         },
         {
             "path": "7SealedStones_Data/globalgamemanagers",
-            "size": 319236,
-            "sha256": "a92e21e9b0028b3c9e6df5ad4fde2a1afde7df178b88df615fb83e5d4ac4c174"
+            "size": 319284,
+            "sha256": "f0d89529f3fe038f7c2d0341cb9741cee1e0c4cd2a62a676d728e9d6ded179a9"
         },
         {
             "path": "7SealedStones_Data/globalgamemanagers.assets",
-            "size": 1150968,
-            "sha256": "5e26e87bcd108c6049c23b1db6273e5b857998c827b81844febd46d0afa2b6f1"
+            "size": 1151064,
+            "sha256": "b08f5ae12ecad3c18d1e8569c57e755cfb6548442cc426bb6480df25599e040c"
         },
         {
             "path": "7SealedStones_Data/globalgamemanagers.assets.resS",
@@ -1054,17 +1054,17 @@
         {
             "path": "7SealedStones_Data/level1",
             "size": 4096,
-            "sha256": "61dd7cd4bbb722ef35b6a23311f4e72be48afb5796fee2fbcbcbaa9eea7fe0fd"
+            "sha256": "40303fa8400aa570913f24d833a9da442f8d571b971b7de78b39bb7f2673b4ed"
         },
         {
             "path": "7SealedStones_Data/level2",
             "size": 4480,
-            "sha256": "9cee5a2fbf4fa1117a0d5249c52c0aec77a543781fab316ab5552b3a7794b6b6"
+            "sha256": "1a1bdefaffc02ef3ac9e4f603934af0896e920a805e6e5c6314acd2ca20b3023"
         },
         {
             "path": "7SealedStones_Data/resources.assets",
-            "size": 46110628,
-            "sha256": "43c0450a8aac47551dba770767d7400dfcb8657cc808156d515c0d0cb9815cb3"
+            "size": 46110932,
+            "sha256": "f559b892a47268f3f6bc2cdb1fdeb1b116142cffec0b6dff351f8f811769c2d2"
         },
         {
             "path": "7SealedStones_Data/resources.assets.resS",
@@ -1089,12 +1089,12 @@
         {
             "path": "7SealedStones_Data/sharedassets1.assets",
             "size": 9840,
-            "sha256": "5f562de1530b65c9a640304a9da55844fb41ee8c6bdbf326b0c4e84845fa6be2"
+            "sha256": "ae73f32a6b177f4fa7f873bc9186ec9df612cc214f7b0c51e87a853e8c0344cf"
         },
         {
             "path": "7SealedStones_Data/sharedassets2.assets",
             "size": 477,
-            "sha256": "4c4a7e510f7a7dd43741fb4f58293a210af0ae5da60edf8081295bd781ef1070"
+            "sha256": "1ced1bfc11062011518d932bb7449a7598b9349c2469bd1af9234ddc7af84788"
         },
         {
             "path": "D3D12/D3D12Core.dll",
