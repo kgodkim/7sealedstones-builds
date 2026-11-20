@@ -2,11 +2,19 @@
  "files": [
   {
    "name": "catalog_0.1.0.bin",
-   "sha256": "518823a669bd22e7870e911056165b4b237ebc95f509f9ecdf712383199eb6ba"
+   "sha256": "815293a16ca4f1433d927b5c168ac42035194e1c1207ea338840a97f733783d5"
   },
   {
    "name": "catalog_0.1.0.hash",
-   "sha256": "7a2810f93212808fabc62396c1d06d06db08d798ac9e1458cbd1885bd8a679e6"
+   "sha256": "36406b72904a884223fe368178b808e021a79cfea9820c4b62771600af9219e8"
+  },
+  {
+   "name": "ch00_shared_ch00_boss_ch00_prologue_assets_all_0c531c0ccabfef7ba3f3b293184bef7f.bundle",
+   "sha256": "46c3abd311b2a48a875d7cb9e28ecaf34127dc46dfe6ce98c9c62989f7c30e89"
+  },
+  {
+   "name": "ch00_shared_ch00_boss_ch00_prologue_assets_all_4d1a5cee468706b57a561bdde83d72dd.bundle",
+   "sha256": "4e03bdeca43faaddee36801cba8c24470e15b376638148947e2a07881bfe7be3"
   },
   {
    "name": "ch00_shared_ch00_boss_ch00_prologue_assets_all_6df35b9db23332a8de084da8452e726a.bundle",
@@ -33,8 +41,16 @@
    "sha256": "3fb894746cea3844f036113bd844042dbba5e0dc9b2a3a716b1119ff71f67876"
   },
   {
+   "name": "ch00_shared_ch00_prologue_housing_assets_all_31d408006e1f6eeab57167fe0216644a.bundle",
+   "sha256": "95f18cc6364259ffb0932a661b59f64e7e7115cdb5b1ef414bc73a4a6a8d8efd"
+  },
+  {
    "name": "ch00_shared_ch00_prologue_housing_assets_all_83302857cd8743844ac53c874ed29e82.bundle",
    "sha256": "6003118ba46c4b1f94d41113336dfca87c40f3847a02444154501227baf7c0e2"
+  },
+  {
+   "name": "ch00_shared_ch00_prologue_housing_assets_all_854030c96902846c8af38ead8f4ff631.bundle",
+   "sha256": "be0fdee77cb1d9411d38e639f64b9928f305e2e2f84bf10f987c7dcef404582c"
   },
   {
    "name": "ch00_shared_ch00_prologue_housing_assets_all_b2ead4937707b6870bc1ee52bbb621b0.bundle",
@@ -43,6 +59,10 @@
   {
    "name": "chapter00_assets_all_5be2b813cd97de0f840ae1cfbed959a7.bundle",
    "sha256": "b0bda465a343dd587a50439866837b22c7e4e265ba943c010e455718444413ac"
+  },
+  {
+   "name": "chapter00_assets_all_7c7cc8c654b67aa2302a25db3841acca.bundle",
+   "sha256": "d3f69cb8456760e7e4fab5343eaf2b99a061983fb6b27347f25241df130adf83"
   },
   {
    "name": "chapter00_assets_all_a908b4085bee9a6f4d79906eb0360420.bundle",
@@ -73,8 +93,16 @@
    "sha256": "a53be748ebd2314b692b19a0c6ab9d0d99b244c2ef3011bef9a7b873b16700b9"
   },
   {
+   "name": "scene_ch00_boss_scenes_all_5c619e48ccd2295e33946b3e46dd293f.bundle",
+   "sha256": "67416a91c4768d2d6c4d8612a30555c33457d7763c62b86b92fdb3afd88fbce1"
+  },
+  {
    "name": "scene_ch00_boss_scenes_all_99edbcdba56600eb9bbe3ec19beb15a7.bundle",
    "sha256": "74ac756487a599d0a2bffa4774ab6354dc31a042f5c1e6728d89007d9dd3befe"
+  },
+  {
+   "name": "scene_ch00_boss_scenes_all_e29b9729871353d40b4e497dc06468d0.bundle",
+   "sha256": "12998a03ae98d9def8e2187955a58745576010123282b710601b5c19c3fc0a33"
   },
   {
    "name": "scene_ch00_boss_scenes_all_e74b35e883103f39c7efd5709e3062ef.bundle",
@@ -87,6 +115,14 @@
   {
    "name": "scene_ch00_prologue_scenes_all_af9beaae52885ab92e0d36c4978efe46.bundle",
    "sha256": "2fcf8dd3f8fc11324792b962fed2f03d6352d0aea9df717c2f7f3c0b66f0ca6d"
+  },
+  {
+   "name": "scene_ch00_prologue_scenes_all_f0e0a5e7601a0b907f27abe69b84c2d7.bundle",
+   "sha256": "671620b810fc4ba75732aa68b310905937ff4a785fccd3cc6109c44480ecf10a"
+  },
+  {
+   "name": "scene_ch00_prologue_scenes_all_f914b04657e0da263e95ac9d51e1267f.bundle",
+   "sha256": "ebd3f410b0888de196ec2acd6a02e0cb917e5579b65a31a844cae6dc6f593de7"
   },
   {
    "name": "scene_housing_scenes_all_02941a1c1bbb3af3a4839f032b6eb50d.bundle",

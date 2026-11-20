@@ -693,6 +693,10 @@
    "release": "v0.7.12-mac"
   },
   {
+   "sha256": "0fa154074db7285bf48f5d2e0dfb29718098f9a83d59ec5ab157efdb4e204973",
+   "release": "v0.7.72-mac"
+  },
+  {
    "sha256": "0fa4cb6a8639beaaa54268bd152d9007eff5b16d689bb26ccfd8dd72baf8efbc",
    "release": "v0.7.27-bundles"
   },
@@ -827,6 +831,10 @@
   {
    "sha256": "12985f8559457da4811def3c7dfd06dc0366803e8d2175e99829df33d8b982c4",
    "release": "v0.7.23-win"
+  },
+  {
+   "sha256": "12998a03ae98d9def8e2187955a58745576010123282b710601b5c19c3fc0a33",
+   "release": "v0.7.72-bundles"
   },
   {
    "sha256": "129cba24b24881d5002c6a6b210c7ea464c1d8ab97fec514551ee55065e18751",
@@ -1185,6 +1193,10 @@
    "release": "v0.7.58-win"
   },
   {
+   "sha256": "19c34dc9e76acc9514663a85c0eef189828fdf5b0905ac7366b44f2fb7356a28",
+   "release": "v0.7.72-mac"
+  },
+  {
    "sha256": "19c525dc4037d514c8bd832057f19f738ff2a5cd09457a538454b298fbc4f9b7",
    "release": "v0.7.65-bundles"
   },
@@ -1265,6 +1277,10 @@
    "release": "v0.7.9-2-g1a7a92b0-win"
   },
   {
+   "sha256": "1b6cf36f225947fda6e26ba0655f5b2e89b66dcd4672f371f170c92bb9465e0e",
+   "release": "v0.7.72-win"
+  },
+  {
    "sha256": "1b84bb56eb85248c625f77a63b7483a8c26c25d5e614f985a775160e7e315855",
    "release": "v0.7.12-mac"
   },
@@ -1327,6 +1343,10 @@
   {
    "sha256": "1ced1bfc11062011518d932bb7449a7598b9349c2469bd1af9234ddc7af84788",
    "release": "v0.7.63-win"
+  },
+  {
+   "sha256": "1d292badc5cbbebd310de5e7aff717fe01ffbc2902d71a713534e9e1a67bb2fe",
+   "release": "v0.7.72-bundles"
   },
   {
    "sha256": "1d3e40830e8c4973ef844115104e518278266bc8bcc24a3d3157b5bda9d62681",
@@ -1479,6 +1499,10 @@
   {
    "sha256": "200ebeca74aa6905e57c1553e87d1cf71f7cc3e36c4e6579886e2738025a957b",
    "release": "v0.7.31-win"
+  },
+  {
+   "sha256": "2033492fd9763958673cec83478e3a0bddcac4c3d98b54199489c45f4e8071ea",
+   "release": "v0.7.72-mac"
   },
   {
    "sha256": "203b7d03721178478b429e878fed5bf0b7bc6981831493917399896121fce590",
@@ -1701,6 +1725,10 @@
    "release": "v0.7.58-win"
   },
   {
+   "sha256": "24924d8a52a8d7625acbfc776b008b0a9c2d14f9de509ee6e98b4cab6b230bf1",
+   "release": "v0.7.72-win"
+  },
+  {
    "sha256": "24956a8115c790f9604305b40abb59103d69106a73c38f05958867bc46ec89b1",
    "release": "v0.7.2-mac"
   },
@@ -1819,6 +1847,10 @@
   {
    "sha256": "26a9fdf575ab456e25445fdd57297433cf09c2eb26158e16b1814b21f5aafbd8",
    "release": "v0.7.12-bundles"
+  },
+  {
+   "sha256": "26c24b4277bb81c3b134116c6ea13181fe81a9ea9d0af9d0f8b7d246e930133c",
+   "release": "v0.7.72-win"
   },
   {
    "sha256": "26c41bb514682922cc355a24da631e303f86900ef2c9590d09c3bdd9828fef3c",
@@ -2545,6 +2577,10 @@
    "release": "v0.7.53-mac"
   },
   {
+   "sha256": "36406b72904a884223fe368178b808e021a79cfea9820c4b62771600af9219e8",
+   "release": "v0.7.72-bundles"
+  },
+  {
    "sha256": "3642a2a11371a3d36bb57c5e3511077f6cd90b36f20838d555befad2cf07d7e5",
    "release": "v0.7.32-mac"
   },
@@ -3013,6 +3049,10 @@
    "release": "v0.7.19-mac"
   },
   {
+   "sha256": "41d2d7422aea4dcf92a84611653b7656c3b8f3b5f0326c42300f01fc8ad88c6d",
+   "release": "v0.7.72-mac"
+  },
+  {
    "sha256": "41d491e2f695d301a6f10ecc5484117b66a0ceb284180850b15f2f0434d3c7ae",
    "release": "v0.7.28-mac"
   },
@@ -3265,6 +3305,10 @@
    "release": "v0.7.24-bundles"
   },
   {
+   "sha256": "46c3abd311b2a48a875d7cb9e28ecaf34127dc46dfe6ce98c9c62989f7c30e89",
+   "release": "v0.7.72-bundles"
+  },
+  {
    "sha256": "46c862320716e4029cb2e04eac4d1289b0f2b70bd45c9c9abb9519c9b6c8393f",
    "release": "v0.7.2-win"
   },
@@ -3485,6 +3529,10 @@
    "release": "v0.7.27-win"
   },
   {
+   "sha256": "4ae9a6baf7a9ec53ffe274adbaac9916486ab9f03a065d533e908e41988b3c2a",
+   "release": "v0.7.72-mac"
+  },
+  {
    "sha256": "4aede2ab64e8fd7a2da9585058971049dc6c0bf2b63df35fa7e090201cf54f82",
    "release": "v0.7.25-bundles"
   },
@@ -3619,6 +3667,10 @@
   {
    "sha256": "4de30f41045538c03a2db5f242fa8f5531aaec4a2373e182b158d575f9af5572",
    "release": "v0.7.2-mac"
+  },
+  {
+   "sha256": "4e03bdeca43faaddee36801cba8c24470e15b376638148947e2a07881bfe7be3",
+   "release": "v0.7.72-bundles"
   },
   {
    "sha256": "4e1f74028516d15af3455aaaf5c6ce527715bd2d448db2845a0793ef6f13eb25",
@@ -3783,6 +3835,10 @@
   {
    "sha256": "511881a3d8968f245ab83cb7c1026010d6e86cd9e3f0659d1279123c9e20ecef",
    "release": "v0.7.12-win"
+  },
+  {
+   "sha256": "51275efb6920d5ae0925461885ae16c2e79e80aa7ae2f0821205988d38328a30",
+   "release": "v0.7.72-bundles"
   },
   {
    "sha256": "513eb26383f0b01a8a475a2fc9b8d5d88738490170b3bc2954b377de57a39ffe",
@@ -4825,8 +4881,16 @@
    "release": "v0.7.18-win"
   },
   {
+   "sha256": "671620b810fc4ba75732aa68b310905937ff4a785fccd3cc6109c44480ecf10a",
+   "release": "v0.7.72-bundles"
+  },
+  {
    "sha256": "67262ee32c5d103a1f4e7313140bfa42b914aeabbdd83a54be6509121c7bbe9d",
    "release": "v0.7.64-win"
+  },
+  {
+   "sha256": "67416a91c4768d2d6c4d8612a30555c33457d7763c62b86b92fdb3afd88fbce1",
+   "release": "v0.7.72-bundles"
   },
   {
    "sha256": "67534b3fcf520336a3879761b6c2bc53db2bb3a8b680904069de0600deee374a",
@@ -4951,6 +5015,10 @@
   {
    "sha256": "69ac3ce844950398867d0a00404607c16c0f6edf90b0946c085889a24fc6afe9",
    "release": "v0.7.2-mac"
+  },
+  {
+   "sha256": "69d3967ea360e454bb9e93dfca8f798bfac4c40fb9ec9506d89f4fb7c2f843f8",
+   "release": "v0.7.72-bundles"
   },
   {
    "sha256": "69f5e23618dfdcdf278e26b8e5bb03b79d97a7a56d4daa96c3d9a1ce3748ac9c",
@@ -6089,6 +6157,10 @@
    "release": "v0.7.54-bundles"
   },
   {
+   "sha256": "815293a16ca4f1433d927b5c168ac42035194e1c1207ea338840a97f733783d5",
+   "release": "v0.7.72-bundles"
+  },
+  {
    "sha256": "815bd4c4875a8636a12b8cde77a2f04ff9a67ddf1b98a7e777f87a2c054efb8b",
    "release": "v0.7.59-win"
   },
@@ -6411,6 +6483,10 @@
   {
    "sha256": "8750286b85bc83d8c5f7094b9bdf4009e26bfdef1a0cbe6884295650de2fe6d1",
    "release": "v0.7.12-win"
+  },
+  {
+   "sha256": "877929962e35255916972743ac1688ef9b980121de9a373358afab2ca2ea933d",
+   "release": "v0.7.72-bundles"
   },
   {
    "sha256": "87799ed784a5d92aceb381cc523036fba60b5baaf9f269e6640b0e11f14b0e42",
@@ -7137,6 +7213,10 @@
    "release": "v0.7.71-win"
   },
   {
+   "sha256": "95f18cc6364259ffb0932a661b59f64e7e7115cdb5b1ef414bc73a4a6a8d8efd",
+   "release": "v0.7.72-bundles"
+  },
+  {
    "sha256": "95f5f8bfd03741ab0d79fdbb7737a527fe1970105c1821331ee63fdf7d7b585d",
    "release": "v0.7.2-win"
   },
@@ -7703,6 +7783,10 @@
   {
    "sha256": "a36b9d79b3d986646f301f3f65a21f6c3259d6a50fcf13da9b542ef48c8d9f5c",
    "release": "v0.7.2-mac"
+  },
+  {
+   "sha256": "a36d4dab3709f4b1c22b59e02c52840b17c757bbd66024785d17500eaf973b64",
+   "release": "v0.7.72-bundles"
   },
   {
    "sha256": "a36ffc04a4c84971b929db4382dc0eebc79424b2ec688652c9171b13f6f76a9f",
@@ -8285,6 +8369,10 @@
    "release": "v0.7.2-mac"
   },
   {
+   "sha256": "af2fe9eee4ea2cedaa33014c6085fc29c2ded4b3664d40be72b37a1c3829b135",
+   "release": "v0.7.72-bundles"
+  },
+  {
    "sha256": "af30906a33e92629d843b05483c80053d6764b748cb03b625e567964fb29f3c4",
    "release": "v0.7.3-mac"
   },
@@ -8717,6 +8805,10 @@
    "release": "v0.7.25-mac"
   },
   {
+   "sha256": "b6bb8c0b4c7ff67c78f663aaf32d2f049b6893bf1d20277b007adf8d870958a3",
+   "release": "v0.7.72-bundles"
+  },
+  {
    "sha256": "b6c1e6c71e13027e10717ffbe3f38c3c7bbbf666a72b0998c96586c57afd52c7",
    "release": "v0.7.22-win"
   },
@@ -9043,6 +9135,10 @@
   {
    "sha256": "be05381f025f39c6f449f70622e0b8de4b57ae22017d7e2f94f0dbbb6ad10194",
    "release": "v0.7.51-mac"
+  },
+  {
+   "sha256": "be0fdee77cb1d9411d38e639f64b9928f305e2e2f84bf10f987c7dcef404582c",
+   "release": "v0.7.72-bundles"
   },
   {
    "sha256": "be2e2036806a65f5100c78d5edd581e372103796ea6f6cbfe0b6588f12f5a424",
@@ -9777,6 +9873,10 @@
    "release": "v0.7.12-win"
   },
   {
+   "sha256": "cc349af8ad390d0d683f5a0edef2c13af85e22bb4a3adac6acd38c7b60d09af8",
+   "release": "v0.7.72-bundles"
+  },
+  {
    "sha256": "cc4ba5ed000a0e739f71b70fe64e64320ed359f54b20299546590460a798a0bb",
    "release": "v0.7.19-5-g64fff3782-mac"
   },
@@ -9851,6 +9951,10 @@
   {
    "sha256": "cd9b944eeec81dcb41296fa1b897a469a232eca30cf5fe105428bddcf7f8e79a",
    "release": "v0.7.2-win"
+  },
+  {
+   "sha256": "cdf0ab6854951b90f7bed0365e2221de5bf4cbad37e0f25cc02542461fad8990",
+   "release": "v0.7.72-win"
   },
   {
    "sha256": "cdfb412358623e2ba2c3b749d0f3a0062474a51c5a1d314a7451bde2db272edb",
@@ -10153,6 +10257,10 @@
    "release": "v0.7.12-win"
   },
   {
+   "sha256": "d3f69cb8456760e7e4fab5343eaf2b99a061983fb6b27347f25241df130adf83",
+   "release": "v0.7.72-bundles"
+  },
+  {
    "sha256": "d3f6cc1687869856e04457b5c97abd453ea99208545e9a9a09664d7257245638",
    "release": "v0.7.29-bundles"
   },
@@ -10197,6 +10305,10 @@
    "release": "v0.7.23-bundles"
   },
   {
+   "sha256": "d4a0783adc3e393de0af2f171ddff148a1e636ca5e62c7f509c2a42c6b17d14b",
+   "release": "v0.7.72-bundles"
+  },
+  {
    "sha256": "d4aa43836650b816360abb1bfcaf1b5b43b875de2d9848fd0af39edd696ed350",
    "release": "v0.7.2-win"
   },
@@ -10211,6 +10323,10 @@
   {
    "sha256": "d514eaacfb84b0000c3c4b9ca5b0dcb0a8fad67a2d64b179b480284bd4677887",
    "release": "v0.7.2-win"
+  },
+  {
+   "sha256": "d5b04a822260adde77fba080e098f74b7cddba5dd40d22162762f460d868acb4",
+   "release": "v0.7.72-bundles"
   },
   {
    "sha256": "d5bf67bed3201d52cd09d474a6403d7ebc25ae5ffc95ece0635efe17aa44b311",
@@ -10239,6 +10355,10 @@
   {
    "sha256": "d672bb54c954a831040e61f1b51d1bb1a3b8d5a33d7d76f93a30d241de6b2881",
    "release": "v0.7.2-mac"
+  },
+  {
+   "sha256": "d67513ba252462887488ab78aafe7e355e559f9cb27d7ed5429fa6cd3dc3ba97",
+   "release": "v0.7.72-mac"
   },
   {
    "sha256": "d67a3deee8ea9f2cc9987f4306062a86689a0b8880a2ce9954ff70c70fdb763e",
@@ -10371,6 +10491,10 @@
   {
    "sha256": "d8f08fa3d63621acdfba3d641acf819ba262f48995eea36e1d3a4e5450fba6ad",
    "release": "v0.7.12-win"
+  },
+  {
+   "sha256": "d8fc00bed65258157b2492a3814f3a06f9b246d3adaa7961a8d6b26640b6d0f9",
+   "release": "v0.7.72-mac"
   },
   {
    "sha256": "d91743291d45ee3ca7e6cb9a669492fc946a3783eaa2db58b161c05cae0e5376",
@@ -10773,12 +10897,20 @@
    "release": "v0.7.2-mac"
   },
   {
+   "sha256": "e2327230ca11041dd48c4038d68b8e4962de6a0c15b648e7831b0e5f6fe69ba0",
+   "release": "v0.7.72-win"
+  },
+  {
    "sha256": "e23887f806651a66eab84cb6dc4f862b76b2a59a746b97ddc3f3aff14f71d599",
    "release": "v0.7.2-mac"
   },
   {
    "sha256": "e2817177640b44d88592e3b047424d14873c6c0f124503f40259fb8d8a2a7c6f",
    "release": "v0.7.66-win"
+  },
+  {
+   "sha256": "e2a0df4508a6e870418d6879a21e6f530b25886bb19892b00ab0cd629a39a1fd",
+   "release": "v0.7.72-win"
   },
   {
    "sha256": "e2b79e151cfb7d90b210a73536e301c82315b13a261c78bb05f751aba25304cc",
@@ -10895,6 +11027,10 @@
   {
    "sha256": "e529c53aac57330543b8de5dc12687291e3208344a86e872898c418fb64dab1c",
    "release": "v0.7.2-win"
+  },
+  {
+   "sha256": "e53568d5e5210da9a25097e4ad3b1f68640c4939b011d43e13a9aa53ccf2f972",
+   "release": "v0.7.72-mac"
   },
   {
    "sha256": "e53ba1317b2e27a509ab1bba1363ed1cd36a576e902d5a27d113c8d936ec0988",
@@ -11053,6 +11189,10 @@
    "release": "v0.7.71-mac"
   },
   {
+   "sha256": "e88ea6a6dd0677d43fb4a5d1ac2b413a9cdceb67eddb894ec43322f353a4a7bb",
+   "release": "v0.7.72-bundles"
+  },
+  {
    "sha256": "e8b291eadb35f152064f7be4ca2281c9908ab1a0c42495c71f994aae25289c79",
    "release": "v0.7.12-win"
   },
@@ -11205,6 +11345,10 @@
    "release": "v0.7.8-mac"
   },
   {
+   "sha256": "ebd3f410b0888de196ec2acd6a02e0cb917e5579b65a31a844cae6dc6f593de7",
+   "release": "v0.7.72-bundles"
+  },
+  {
    "sha256": "ebe3e691b34bb7d2b5a9127451c54819c7375eb42a666a15ea75f4f2e41f40b8",
    "release": "v0.7.2-win"
   },
@@ -11271,6 +11415,10 @@
   {
    "sha256": "ed026617fbbdec3bfb7ed885aff0d1aca5ddb34f4da9c8708ccc086d98e18c12",
    "release": "v0.7.49-mac"
+  },
+  {
+   "sha256": "ed3ac4775673f47370cd8c261fda1befe2c71f2b54053d439d05c92ea29bbfb7",
+   "release": "v0.7.72-win"
   },
   {
    "sha256": "ed3bd3b757069e96c26bfdec8179abd00feef8839ae3ad97f51637c12d83efd8",
@@ -12091,6 +12239,10 @@
   {
    "sha256": "ff50383f807f9692e4913b97e47d86fefcb8faa33d6d48cd3e3fd6fc7ffb448d",
    "release": "v0.7.2-mac"
+  },
+  {
+   "sha256": "ff5fdd111138e8dfe00d0e629e6902431ad266fa0947038a1e06c968a792bd3e",
+   "release": "v0.7.72-mac"
   },
   {
    "sha256": "ff7da865915cc5ca630cc68f72d4bc51bbc1a0486a2277f34016e68952a199fa",
